@@ -189,22 +189,24 @@ Bước tiếp theo: chạy `benchmark.run after`, rồi `analysis.report after`
 
 ## Đưa code lên Git
 
-`.gitignore` loại môi trường ảo, cache Python, dữ liệu VinText, toàn bộ `output`/`outputs`, trọng số model, tệp nén và cấu hình riêng của máy. `requirements.txt` vẫn được commit để người khác cài thư viện; không đưa thư viện trong `.venv` lên Git. Số liệu đã xác minh trong README vẫn được lưu, nhưng liên kết tới tệp trong `output` chỉ mở được trên máy có kết quả tương ứng.
+Theo lựa chọn của bạn, đưa cả code và toàn bộ `output` lên repository, gồm crop, dự đoán, báo cáo, biểu đồ và checkpoint. `.gitignore` vẫn loại môi trường ảo, cache Python, dữ liệu gốc `vintext`/`vintext_original` và cấu hình riêng của máy. `requirements.txt` được commit để cài dependencies; không đưa thư viện trong `.venv` lên Git.
 
-Tạo repository trống trên GitHub, không tạo sẵn README, `.gitignore` hoặc license. Trong PowerShell tại `D:\OCRreg`, chạy từng lệnh:
+`.gitattributes` dùng Git LFS cho ảnh PNG và trọng số trong `output`. Git lưu con trỏ, Git LFS tải nội dung file lên máy chủ khi push; xem [tài liệu Git LFS](https://git-lfs.com/). Tại thời điểm kiểm tra, `output` có 43.016 file, tổng 969.750.498 byte (khoảng 0,90 GiB). Chưa commit hoặc push output thay bạn.
 
-```powershell
-git init -b main
-git add .
-git status --short
-```
-
-Kiểm tra danh sách chỉ gồm code, test, README, requirements và `.gitignore`, rồi tiếp tục. Thay `TEN_CUA_BAN/OCRreg` bằng chủ sở hữu/tên repository thực tế:
+Repository đã được khởi tạo và có remote `https://github.com/NguyenThHien/OCRreg.git`. Không cần chạy lại `git init` hoặc `git remote add`. Trong PowerShell tại `D:\OCRreg`, chạy lần lượt:
 
 ```powershell
-git commit -m "Thêm quy trình benchmark và fine-tuning VietOCR"
-git remote add origin https://github.com/TEN_CUA_BAN/OCRreg.git
-git push -u origin main
+git lfs install --local
+git add .gitignore .gitattributes README.md
+git add output
+git diff --cached --stat
 ```
 
-Repository này không chứa dataset hoặc model đã train. Khi dùng máy khác, cần chuẩn bị lại dữ liệu và cài môi trường theo `requirements.txt`.
+Kiểm tra danh sách đã có file trong `output` và không có `.venv` hoặc dữ liệu gốc, rồi tiếp tục:
+
+```powershell
+git commit -m "Thêm output benchmark và fine-tuning với Git LFS"
+git push origin main
+```
+
+Khi dùng máy khác đã cài Git LFS, chạy `git lfs install`, clone repository, rồi `git lfs pull` trong thư mục vừa clone để tải đủ ảnh/trọng số. Dữ liệu gốc và môi trường Python vẫn cần chuẩn bị riêng. LFS sử dụng dung lượng lưu trữ/băng thông của tài khoản GitHub; xem [cách tính dung lượng LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-storage-and-bandwidth-usage).

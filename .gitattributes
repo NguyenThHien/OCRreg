@@ -1,0 +1,6 @@
+# Ảnh và trọng số trong output được lưu bằng Git LFS.
+output/**/*.png filter=lfs diff=lfs merge=lfs -text
+output/**/*.pth filter=lfs diff=lfs merge=lfs -text
+output/**/*.pt filter=lfs diff=lfs merge=lfs -text
+output/**/*.ckpt filter=lfs diff=lfs merge=lfs -text
+output/**/*.onnx filter=lfs diff=lfs merge=lfs -text
