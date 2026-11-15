@@ -1,0 +1,9 @@
+# Giữ cặp torch/torchvision phù hợp với CPU hoặc CUDA của máy chạy.
+torch>=2.2
+torchvision
+vietocr==0.3.13
+numpy
+opencv-python-headless
+PyYAML
+tqdm
+matplotlib

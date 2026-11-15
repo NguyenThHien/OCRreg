@@ -1,0 +1,41 @@
+# Môi trường Python và tệp sinh tự động; vẫn đưa requirements.txt lên Git.
+/.venv/
+/venv/
+/env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+/.pytest_cache/
+/.mypy_cache/
+/.ruff_cache/
+/build/
+/dist/
+
+# Dữ liệu, crop, báo cáo và checkpoint được tạo khi chạy.
+/vintext/
+/vintext_original/
+/output/
+/outputs/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Bản nén dữ liệu và nhật ký.
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.log
+
+# Cấu hình riêng của máy và thông tin môi trường.
+.env
+.env.*
+!.env.example
+/.vscode/
+/.idea/
+/.codex/
+/.aws/
+Thumbs.db
+.DS_Store
