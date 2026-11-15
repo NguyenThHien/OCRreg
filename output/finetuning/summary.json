@@ -1,0 +1,13 @@
+{
+  "epochs_completed": 10,
+  "best": {
+    "epoch": 9,
+    "samples": 7191,
+    "correct": 5560,
+    "exact_match": 0.7731887081073564,
+    "cer": 0.12658558424115804,
+    "total_edits": 3393,
+    "reference_characters": 26804,
+    "val_loss": 1.2104414791478044
+  }
+}

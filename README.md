@@ -1,212 +1,249 @@
-# VietOCR trên VinText
+# VietOCR × VinText
 
-**Đã hoàn tất full fine-tuning 10 epoch trên CPU; checkpoint tốt nhất ở epoch 9.** Số liệu bên dưới đã đối chiếu với các tệp bạn chạy tạo ra. Bước tiếp theo là benchmark `best.pth` trên đúng bộ test cũ; chưa có kết quả test sau fine-tuning.
+Benchmark và full fine-tuning mô hình nhận dạng chữ tiếng Việt **VietOCR `vgg_seq2seq`** trên VinText. Quy trình gồm chuẩn bị crop, đo pretrained, huấn luyện theo epoch, đánh giá lại trên cùng test và phân tích từng dự đoán.
 
-## Đọc code theo thứ tự này
+**Model:** `vgg_seq2seq` · **Phương pháp:** Full fine-tuning · **Thiết bị:** CPU · **Checkpoint tốt nhất:** Epoch 9/10
 
-| File | Trách nhiệm |
-| --- | --- |
-| `config.py` | Toàn bộ đường dẫn, kích thước ảnh, batch size, epoch, learning rate và thiết bị. Chỉnh tham số tại đây. |
-| `preprocessing/data.py` | Đọc nhãn/tứ giác, cắt crop, loại vùng không hợp lệ, tạo dữ liệu test hoặc train/val. |
-| `benchmark/run.py` | Nạp model và dự đoán **toàn bộ test**. `before` dùng pretrained; `after` dùng model tốt nhất. |
-| `analysis/metrics.py` | Các công thức: Levenshtein, Exact Match, CER, mean/median/P95, phân nhóm lỗi và chọn checkpoint. |
-| `analysis/report.py` | Đọc CSV, gọi các hàm chỉ số, xuất bảng lỗi và so sánh trước/sau. |
-| `analysis/plots.py` | Vẽ đường học trên validation và biểu đồ test trước/sau từ kết quả đã lưu; không chạy model. |
-| `finetuning/dataset.py` | Đọc crop/CSV, resize, tạo nhãn SOS/EOS/PAD và batch cùng chiều rộng. |
-| `finetuning/train.py` | Full fine-tuning: duyệt hết train rồi chấm hết validation sau mỗi epoch. |
-| `utils.py` | Đọc/ghi CSV/JSON/YAML, SHA-256 và thông báo lỗi tiếng Việt. |
-| `tests/` | Kiểm tra công thức, crop và batch bằng dữ liệu nhỏ tự tạo. |
+> Trên **10.065 crop test**, Exact Match tăng từ **61,20% → 79,43%**, CER giảm từ **20,68% → 9,99%**. Checkpoint được chọn bằng validation trước khi đánh giá test.
 
-`__init__.py` chỉ đánh dấu package. Dữ liệu gốc và `.venv` được giữ nguyên. Các script minh họa một ảnh, code cũ trùng chức năng và `outputs` cũ đã được xóa theo yêu cầu.
+## 1. Kết quả benchmark
+
+Hai lần đo sử dụng cùng danh sách test, đáp án và cấu hình suy luận: **CPU, 4 thread, batch 1, greedy decoding, 3 lượt warmup**. SHA-256 của danh sách test và thông tin môi trường trước/sau trùng nhau.
+
+| Chỉ số trên test | Pretrained | Sau fine-tuning | Thay đổi |
+| :--- | ---: | ---: | ---: |
+| Số crop | 10.065 | 10.065 | Giữ nguyên |
+| Chuỗi đúng hoàn toàn | 6.160 | 7.995 | +1.835 |
+| Chuỗi sai | 3.905 | 2.070 | −1.835 |
+| **Exact Match ↑** | **61,20%** | **79,43%** | **+18,23 điểm phần trăm** |
+| **CER ↓** | **20,68%** | **9,99%** | **−10,69 điểm phần trăm** |
+| Tổng phép sửa ký tự | 7.702 | 3.720 | −3.982 |
+| Mean latency | 40,57 ms | 39,84 ms | −0,73 ms |
+| Median latency | 36,70 ms | 36,21 ms | −0,48 ms |
+| P95 latency | 76,00 ms | 72,70 ms | −3,30 ms |
+
+CER giảm **51,70% tương đối**; số crop sai giảm **46,99%**. Đây là tỷ lệ giảm so với pretrained, khác với mức thay đổi tính bằng điểm phần trăm trong bảng.
+
+![So sánh benchmark test trước và sau fine-tuning](output/analysis/after/test_comparison.svg)
+
+### Thay đổi trên từng crop
+
+| Kết quả ghép cặp trước/sau | Số crop |
+| :--- | ---: |
+| Sai thành đúng | 2.109 |
+| Đúng thành sai | 274 |
+| Vẫn sai, ít phép sửa hơn | 694 |
+| Vẫn sai, nhiều phép sửa hơn | 201 |
+| Bằng số phép sửa | 6.787 |
+
+Model sửa đúng 2.109 crop nhưng làm sai thêm 274 crop từng đọc đúng: mức tăng ròng là **1.835 crop**. Nhóm “bằng số phép sửa” gồm cả mẫu vẫn đúng và mẫu vẫn sai; không có nghĩa dự đoán trước/sau giống nhau.
+
+Nguồn: [benchmark trước](output/benchmark/before/metrics.json), [benchmark sau](output/benchmark/after/metrics.json), [báo cáo so sánh](output/analysis/after/report.md) và [dự đoán ghép cặp](output/analysis/after/paired_changes.csv).
+
+### Những lỗi còn lại
+
+| Nhóm sai khác chuỗi | Trước | Sau |
+| :--- | ---: | ---: |
+| Khác nội dung/khoảng trắng | 2.453 | 1.392 |
+| Chỉ khác dấu/đ | 1.231 | 523 |
+| Chỉ khác hoa/thường | 161 | 129 |
+| Khác dấu và hoa/thường | 60 | 25 |
+| Dự đoán rỗng | 0 | 1 |
+| **Tổng mẫu sai** | **3.905** | **2.070** |
+
+Lỗi nội dung/khoảng trắng vẫn nhiều nhất. Sai dấu/đ giảm rõ nhưng còn 523 crop. Đây là phân nhóm theo văn bản, chưa chứng minh nguyên nhân nằm ở chất lượng ảnh, crop hay mô hình; cần mở ảnh tương ứng trong [bảng lỗi sau fine-tuning](output/analysis/after/errors.csv) để kiểm tra.
+
+| Độ dài đáp án | Số crop | Exact Match trước → sau | CER trước → sau |
+| :--- | ---: | ---: | ---: |
+| 1 ký tự | 559 | 55,64% → 77,82% | 52,42% → 28,98% |
+| 2–3 ký tự | 4.760 | 60,80% → 80,84% | 23,20% → 11,26% |
+| 4–6 ký tự | 4.181 | 64,31% → 80,36% | 17,94% → 8,17% |
+| 7+ ký tự | 565 | 47,08% → 62,30% | 21,01% → 11,38% |
+
+Cả bốn nhóm đều cải thiện. Nhóm **7+ ký tự** vẫn có Exact Match thấp nhất; nhóm **1 ký tự** có CER cao nhất. Hướng kiểm tra tiếp theo là xem crop dài, các mẫu mất dấu và 274 mẫu bị làm sai thêm; thử nghiệm cải tiến cần được chọn bằng validation, không tối ưu trực tiếp theo test.
+
+Nguồn: [nhóm lỗi trước](output/analysis/before/metrics.json), [nhóm lỗi sau](output/analysis/after/metrics.json), [độ dài trước](output/analysis/before/by_length.csv), [độ dài sau](output/analysis/after/by_length.csv).
+
+## 2. Quá trình huấn luyện
+
+Full fine-tuning cập nhật **toàn bộ tham số** của pretrained đã benchmark. Mỗi epoch duyệt hết train, sau đó đánh giá hết validation. **Epoch 0 chỉ đo pretrained trên validation**, chưa cập nhật trọng số.
+
+| Epoch | Train loss | Val loss | Exact Match validation | CER validation |
+| :--- | ---: | ---: | ---: | ---: |
+| 0 — pretrained | — | 1,5535 | 55,71% | 25,54% |
+| 1 | 1,2582 | 1,2044 | 75,37% | 13,51% |
+| 3 — val loss thấp nhất | 1,0894 | 1,1868 | 76,64% | 13,26% |
+| **9 — best.pth** | **0,9657** | **1,2104** | **77,32%** | **12,66%** |
+| 10 — last.pth | 0,9559 | 1,2210 | 76,54% | 13,43% |
+
+![Train loss, validation loss và điểm validation theo epoch](output/analysis/training/learning_curves.svg)
+
+Model cải thiện mạnh ngay epoch đầu, sau đó tăng chậm và dao động. Epoch 9 có Exact Match validation cao nhất; epoch 10 tiếp tục giảm train loss nhưng val loss tăng và điểm chuỗi giảm, cho thấy dấu hiệu overfitting ở cuối quá trình.
+
+**Quy tắc chọn checkpoint:** Exact Match validation cao nhất; nếu bằng nhau, chọn CER thấp hơn. Vì vậy chọn **epoch 9**, dù val loss thấp nhất ở epoch 3. Điểm validation và điểm test được báo riêng; không lấy hiệu giữa hai tập để tính mức cải thiện.
+
+Nguồn: [toàn bộ lịch sử epoch](output/finetuning/history.csv), [best metrics](output/finetuning/best_metrics.json), [cấu hình lần train](output/finetuning/run.json), [tổng kết hoàn tất](output/finetuning/summary.json).
+
+## 3. Dữ liệu và tiền xử lý
+
+Nguồn sử dụng: `vintext_original/vietnamese`. Chia theo **ảnh nguồn**, không chia ngẫu nhiên các crop từ cùng ảnh.
+
+| Tập | Thư mục gốc | Mã ảnh | Ảnh nguồn | Crop giữ lại | Vùng bị loại |
+| :--- | :--- | :--- | ---: | ---: | ---: |
+| Train | `train_images` | 1–1200 | 1.200 | 25.723 | 9.371 |
+| Validation | `test_image` | 1201–1500 | 300 | 7.191 | 1.546 |
+| Test | `unseen_test_images` | 1501–2000 | 500 | 10.065 | 2.188 |
+
+Trong thí nghiệm này, `test_image` được dùng làm **validation**; `unseen_test_images` là **test giữ riêng**. Tập test không tham gia cập nhật trọng số hoặc chọn checkpoint.
+
+Tiền xử lý cắt vùng chữ theo tứ giác nhãn và chỉnh phối cảnh, không tự thêm padding hay bước xoay bổ sung. Văn bản được chuẩn hóa Unicode NFC, giữ nguyên dấu, hoa/thường và khoảng trắng.
+
+- Mọi tập loại nhãn `###`, nhãn rỗng và tứ giác không hợp lệ.
+- Train/validation loại thêm nhãn ngoài vocab hoặc dài hơn giới hạn giải mã. Test vẫn giữ các nhãn này để chấm trung thực.
+- Từng vùng bị loại có lý do trong `excluded.csv`; tổng số ghi tại `preparation.json`.
+- Train/validation/test được kiểm tra không trùng ảnh nguồn. So sánh trước/sau kiểm tra cùng định danh, đáp án và SHA-256 crop.
+
+Thống kê gốc: [train](output/crops/train/preparation.json) · [validation](output/crops/val/preparation.json) · [test](output/crops/test/preparation.json).
+
+## 4. Chỉ số và cách đo
+
+| Chỉ số | Công thức / cách đo | Ý nghĩa |
+| :--- | :--- | :--- |
+| **Exact Match ↑** | Số chuỗi đúng hoàn toàn / tổng số crop | Tỷ lệ nhận dạng đúng nguyên chuỗi, phân biệt dấu, hoa/thường và khoảng trắng. |
+| **CER ↓** | Tổng khoảng cách Levenshtein / tổng ký tự đáp án | Lượng lỗi thêm, xóa, thay ký tự trên toàn tập; không lấy trung bình CER từng crop. |
+| **Mean / median / P95 ↓** | Trung bình / trung vị / phần tử hạng `ceil(0,95 × N)` của latency | Chi phí trung bình, thời gian điển hình và phần đuôi chậm. Đơn vị ms/crop. |
+| **Train / val loss ↓** | Cross-entropy có label smoothing, chia cho số token khác PAD, gồm EOS | Theo dõi quá trình học và khoảng cách train/validation; không thay thế điểm giải mã. |
+| **Thay đổi từng crop** | Ghép cặp hai dự đoán trên cùng mẫu | Phát hiện cả mẫu được sửa và mẫu bị làm sai thêm. |
+
+Test có **37.246 ký tự đáp án** ở cả hai lần đo. CER có thể vượt 100% nếu dự đoán chèn nhiều ký tự. Mức tăng Exact Match được báo bằng **điểm phần trăm**; tỷ lệ giảm tương đối được ghi riêng.
+
+Latency chỉ đo **tiền xử lý đầu vào model → suy luận → giải mã**, không gồm đọc file ảnh, tính hash, tải model, crop hoặc warmup. Kết quả CPU trước/sau được đo cùng môi trường; chênh lệch nhỏ chưa đủ khẳng định tăng tốc khi chưa đo lặp nhiều lần.
+
+**Phạm vi đánh giá:** nhận dạng chữ từ crop theo nhãn gốc, chưa đo phát hiện chữ hoặc OCR đầu cuối. Chưa xác minh pretrained có từng tiếp xúc dữ liệu test này trong quá trình huấn luyện ban đầu. Kết quả mô tả một lần fine-tuning, chưa đo độ biến thiên qua nhiều seed.
+
+## 5. Cấu trúc dự án
 
 ```text
-output/
-  crops/test/          ảnh và đáp án test cố định
-  crops/train/         ảnh và đáp án train
-  crops/val/           ảnh và đáp án validation
-  benchmark/before/    dự đoán/chỉ số/trọng số pretrained
-  benchmark/after/     dự đoán/chỉ số/trọng số sau fine-tuning
-  analysis/before/     báo cáo trước
-  analysis/after/      báo cáo sau và bảng so sánh
-  analysis/training/   biểu đồ loss và điểm validation theo epoch
-  finetuning/          checkpoint, lịch sử epoch
-  logs/                chi tiết kỹ thuật khi có lỗi
+OCRreg/
+├── config.py               # Tham số và đường dẫn dùng chung
+├── utils.py                # Đọc/ghi, hash và xử lý lỗi tiếng Việt
+├── preprocessing/
+│   └── data.py             # Đọc nhãn, crop và chuẩn bị các tập
+├── benchmark/
+│   └── run.py              # Suy luận trên toàn bộ test trước/sau
+├── analysis/
+│   ├── metrics.py          # Công thức chỉ số, nhóm lỗi, chọn best
+│   ├── report.py           # Báo cáo và so sánh từng dự đoán
+│   └── plots.py            # Biểu đồ quá trình train và benchmark
+├── finetuning/
+│   ├── dataset.py          # Dataset, resize và batch cùng chiều rộng
+│   └── train.py            # Full fine-tuning theo epoch
+├── tests/                  # Kiểm tra metrics, crop và batch
+├── output/                 # Crop, dự đoán, báo cáo và checkpoint
+├── requirements.txt        # Dependencies Python
+├── .gitignore              # Bỏ qua môi trường và dữ liệu gốc
+└── .gitattributes           # Git LFS cho ảnh/trọng số trong output
 ```
 
-## Tham số chính trong config.py
+Các file `__init__.py` đánh dấu package. Toàn bộ tham số chỉnh tại [config.py](config.py), không cần sửa từng script.
 
-| Tham số | Mặc định | Ý nghĩa |
-| --- | --- | --- |
-| `IMAGE_HEIGHT` | 32 px | Chiều cao sau resize. |
-| `IMAGE_MIN_WIDTH` / `IMAGE_MAX_WIDTH` | 32 / 512 px | Giới hạn chiều rộng theo cách resize của VietOCR. |
-| `MAX_TEXT_LENGTH` | 128 | Giới hạn giải mã greedy. |
-| `BATCH_SIZE` | 4 | Giảm nhu cầu RAM khi train CPU; ảnh cùng chiều rộng, giữ batch thiếu. |
-| `EPOCHS` | 10 | 10 lần duyệt hết train; validation sau mỗi lần. |
-| `LEARNING_RATE` | 0.0001 | Learning rate cố định của AdamW. |
-| `WEIGHT_DECAY` | 0.01 | Điều chuẩn trọng số. |
-| `LABEL_SMOOTHING` | 0.1 | Làm mềm nhãn khi tính cross-entropy. |
-| `GRADIENT_CLIP` | 1.0 | Giới hạn chuẩn gradient. |
-| `BENCHMARK_DEVICE` / `TRAIN_DEVICE` | cpu / cpu | Theo lựa chọn chạy CPU trên máy hiện tại. |
-| `CPU_THREADS` / `WARMUP_RUNS` | 4 / 3 | Thread CPU dùng chung benchmark/train; số lượt khởi động chỉ áp dụng benchmark. |
-| `SEED` | 42 | Nguồn ngẫu nhiên cho model/thứ tự batch. |
+| Đầu ra | Nội dung |
+| :--- | :--- |
+| `output/crops/{train,val,test}/` | `images/`, `samples.csv`, `excluded.csv`, `preparation.json` |
+| `output/benchmark/{before,after}/` | `predictions.csv`, `metrics.json`, `model.yml`, `weights.pth` |
+| `output/analysis/{before,after}/` | `report.md`, `errors.csv`, `by_length.csv`, `metrics.json` |
+| `output/analysis/after/paired_changes.csv` | Dự đoán trước/sau và trạng thái thay đổi của từng crop |
+| `output/analysis/training/` | `learning_curves.png` và `.svg` |
+| `output/analysis/after/test_comparison.*` | Biểu đồ test dạng PNG và SVG |
+| `output/finetuning/` | `best.pth`, `last.pth`, `model.yml`, `history.csv`, `best_metrics.json`, `run.json`, `summary.json` |
+| `output/logs/errors.log` | Chi tiết kỹ thuật khi có lỗi |
 
-Đây là cấu hình khởi đầu, chưa chứng minh tối ưu. Kích thước model thực tế được lưu trong `model.yml`; giữ nguyên cấu hình ảnh và dữ liệu trong thí nghiệm trước/sau. Chọn hyperparameter bằng validation, không thử nhiều cấu hình rồi chọn theo test.
+Đường dẫn crop trong CSV được tính tương đối từ thư mục chứa CSV. `best.pth` dùng để đánh giá test; `last.pth` là trọng số ở epoch cuối. Checkpoint chưa lưu optimizer để tiếp tục chính xác một phiên train bị ngắt.
 
-## Dữ liệu và cách đo
+## 6. Môi trường và cấu hình
 
-Nguồn: `vintext_original/vietnamese`. `train_images` (mã 1–1200) là train; `test_image` (1201–1500) được dùng làm validation; `unseen_test_images` (1501–2000) là test giữ riêng. `vintext` cũ không dùng trong quy trình này.
+Môi trường đã dùng: **Windows · Python 3.11.9 · PyTorch 2.15.0+cpu · torchvision 0.29.2+cpu · VietOCR 0.3.13**. Phiên bản thực tế của các thư viện được lưu trong JSON benchmark và `run.json`; `requirements.txt` chưa khóa toàn bộ phiên bản.
 
-Crop theo tứ giác gốc, chỉnh phối cảnh, không tự thêm padding/xoay. Chuẩn hóa NFC nhưng giữ hoa/thường, dấu và khoảng trắng. Loại nhãn `###`, rỗng hoặc tứ giác không hợp lệ và ghi lý do. Train/val loại thêm nhãn ngoài vocab hoặc quá giới hạn giải mã; test giữ cả các nhãn đó. Nhãn sai định dạng làm script dừng để sửa. Báo số mẫu giữ/loại trong `preparation.json`.
-
-| Chỉ số | Đo thế nào? | Vì sao cần? |
-| --- | --- | --- |
-| Exact Match | Số chuỗi đúng hoàn toàn / số crop | Tỷ lệ dùng được nguyên chuỗi; cao hơn tốt hơn. |
-| CER | Tổng phép thêm/xóa/thay / tổng ký tự đáp án | Mức sai ký tự; thấp hơn tốt hơn. Không trung bình CER từng crop. |
-| Mean / median / P95 latency | Trung bình / trung vị / hạng `ceil(0.95 × N)` của thời gian ms/crop | Chi phí trung bình, trường hợp điển hình và phần đuôi chậm. |
-| Train / val loss | Tổng cross-entropy / tổng token khác PAD, gồm EOS | Theo dõi học/overfitting; không thay điểm chuỗi giải mã. |
-| Sai thành đúng / đúng thành sai | Ghép cùng định danh, nhãn và SHA-256 ảnh | Đếm mẫu được sửa và mẫu bị làm sai thêm. |
-
-Chỉ bấm giờ quanh tiền xử lý ảnh → suy luận → giải mã. Không tính đọc ảnh, SHA-256, tải model, cắt ảnh hoặc warmup. Benchmark batch 1, greedy; CUDA được đồng bộ khi đo. So tốc độ phải cùng máy, thiết bị, thread và môi trường; thông tin lưu trong `metrics.json`.
-
-CER có thể trên 100% khi dự đoán thừa nhiều. Exact Match từ 61% lên 65% là +4 **điểm phần trăm**; đây là ví dụ, không phải kết quả đo. Chỉ khác dấu trong chuỗi chưa chứng minh ảnh bị mờ: cần mở crop kiểm tra. Đây là nhận dạng trên crop từ nhãn, chưa đánh giá phát hiện chữ/OCR đầu cuối. Chưa xác minh pretrained có từng gặp test này trước đó hay không.
-
-## Tự chạy từng bước
-
-Mở PowerShell tại `D:\OCRreg`. Các lệnh dùng cùng thư mục dự án:
+### Cài đặt trên máy mới
 
 ```powershell
-# 0. Kiểm tra code, không tải/train model VietOCR.
+git lfs install
+git clone https://github.com/NguyenThHien/OCRreg.git
+Set-Location OCRreg
+git lfs pull
+
+py -3.11 -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+```
+
+Repository chứa code và `output`; dữ liệu gốc cần chuẩn bị riêng để chạy lại tiền xử lý. Đặt `labels`, `train_images`, `test_image`, `unseen_test_images` trong `vintext_original/vietnamese`, hoặc sửa `SOURCE` tại `config.py`.
+
+### Tham số thí nghiệm
+
+| Tham số | Giá trị | Mục đích |
+| :--- | :--- | :--- |
+| `MODEL_NAME` | `vgg_seq2seq` | Cấu hình pretrained VietOCR. |
+| `IMAGE_HEIGHT` | 32 px | Chiều cao sau resize. |
+| `IMAGE_MIN_WIDTH` / `IMAGE_MAX_WIDTH` | 32 / 512 px | Giới hạn chiều rộng đầu vào. |
+| `MAX_TEXT_LENGTH` | 128 | Giới hạn giải mã greedy. |
+| `EPOCHS` / `BATCH_SIZE` | 10 / 4 | Train toàn bộ tập mỗi epoch; giữ cả batch thiếu. |
+| `LEARNING_RATE` | 0,0001 | Learning rate cố định của AdamW. |
+| `WEIGHT_DECAY` | 0,01 | Điều chuẩn trọng số. |
+| `LABEL_SMOOTHING` | 0,1 | Làm mềm nhãn trong cross-entropy. |
+| `GRADIENT_CLIP` | 1,0 | Giới hạn chuẩn gradient. |
+| `TRAIN_DEVICE` / `BENCHMARK_DEVICE` | `cpu` / `cpu` | Thiết bị huấn luyện và đánh giá. |
+| `CPU_THREADS` / `WARMUP_RUNS` | 4 / 3 | Số thread dùng chung; warmup chỉ áp dụng benchmark. |
+| `SEED` | 42 | Khởi tạo ngẫu nhiên và xáo trộn batch train. |
+
+Kích thước và trọng số model thực dùng được lưu trong `model.yml`. Train khởi tạo từ đúng pretrained đã benchmark, kiểm tra bằng SHA-256.
+
+## 7. Chạy từng bước
+
+**Đọc kết quả hiện có:** mở các báo cáo và biểu đồ ở trên, không cần train lại. Có thể chạy lại `analysis.report` và `analysis.plots` từ CSV đã lưu.
+
+**Tạo thí nghiệm mới:** chuẩn bị dữ liệu gốc; nếu đã có kết quả, đổi `OUTPUT` trong `config.py` sang thư mục mới trước khi chạy toàn bộ quy trình. Các bước tạo crop, benchmark và train từ chối ghi đè thư mục kết quả đã có.
+
+Chạy lần lượt từ thư mục gốc dự án, chỉ đi tiếp khi bước trước thành công:
+
+```powershell
+# 0. Kiểm tra logic bằng dữ liệu nhỏ, không train model.
 .\.venv\Scripts\python.exe -m unittest discover -s tests -p "test_*.py" -v
 
-# 1. Tạo test một lần, giữ nguyên đến hết thí nghiệm.
+# 1. Chuẩn bị test một lần và giữ cố định.
 .\.venv\Scripts\python.exe -m preprocessing.data test
 
-# 2. Benchmark toàn bộ test bằng pretrained.
+# 2. Benchmark và phân tích pretrained trên toàn bộ test.
 .\.venv\Scripts\python.exe -m benchmark.run before
-
-# 3. Phân tích kết quả trước.
 .\.venv\Scripts\python.exe -m analysis.report before
 
-# 4. Chuẩn bị train và validation.
+# 3. Chuẩn bị train/validation rồi full fine-tuning.
 .\.venv\Scripts\python.exe -m preprocessing.data train
-
-# 5. Train theo epoch, validation sau mỗi epoch.
 .\.venv\Scripts\python.exe -m finetuning.train
 
-# 6. Benchmark lại chính test ở bước 1 bằng best.pth.
+# 4. Benchmark best.pth trên chính test ở bước 1.
 .\.venv\Scripts\python.exe -m benchmark.run after
-
-# 7. Phân tích và so sánh từng crop trước/sau.
 .\.venv\Scripts\python.exe -m analysis.report after
 
-# 8. Vẽ đường học (có thể chạy ngay sau bước 5).
+# 5. Vẽ biểu đồ từ kết quả đã lưu, không chạy lại model.
 .\.venv\Scripts\python.exe -m analysis.plots training
-
-# 9. Vẽ so sánh test sau khi hoàn tất bước 6 và 7.
 .\.venv\Scripts\python.exe -m analysis.plots test
 ```
 
-Chỉ đi tiếp sau khi bước trước thành công. Theo lựa chọn của bạn, bước 5 chạy trên CPU máy hiện tại: 4 thread, batch tối đa 4, 10 epoch. CPU sẽ chậm hơn GPU; mỗi epoch vẫn duyệt đủ train và validation. Không cần cài lại PyTorch hoặc chuyển sang CUDA.
+Pipeline hiện tại đã hoàn tất chuẩn bị dữ liệu, benchmark trước, train 10 epoch, benchmark sau, phân tích và tạo hai biểu đồ. Log kiểm tra được cung cấp xác nhận **9 test thành công trước khi bổ sung mã vẽ biểu đồ**; không coi đó là kiểm thử tự động cho phần vẽ.
 
-Benchmark lưu `predictions.csv`, `metrics.json`, `model.yml`, `weights.pth`. Trọng số được giữ lại để train khởi tạo đúng model đã đo; code kiểm tra SHA-256 trước khi train. Không ghi đè benchmark/crop/checkpoint đã có.
+## 8. Lưu code và kết quả trên GitHub
 
-Train ghi `history.csv` theo **epoch**, `best_metrics.json`, `best.pth`, `last.pth`, `model.yml`, `run.json`; `summary.json` xuất khi hoàn tất. Epoch 0 chỉ đo validation của pretrained. Chọn best bằng Exact Match validation cao nhất, CER thấp hơn khi bằng điểm; nếu không cải thiện thì best vẫn là epoch 0. PTH chỉ chứa trọng số, chưa hỗ trợ tiếp tục chính xác optimizer của phiên bị ngắt.
+`.gitignore` giữ môi trường ảo, cache Python, dữ liệu gốc và cấu hình riêng của máy ngoài Git. Toàn bộ `output` được đưa lên repository; `.gitattributes` cấu hình Git LFS cho ảnh PNG và trọng số. CSV, JSON, YAML, Markdown và SVG được lưu bằng Git thông thường.
 
-Phân tích xuất `report.md`, `errors.csv`, `by_length.csv`, `metrics.json`; giai đoạn `after` có thêm `paired_changes.csv`. Đường dẫn crop trong CSV tính từ thư mục chứa CSV. Nếu Exact Match và CER thay đổi trái chiều, ghi rõ đánh đổi; kết luận chỉ áp dụng trên bộ test này.
-
-Biểu đồ dùng Matplotlib, đã có trong môi trường hiện tại và được khai báo trong `requirements.txt`. Lệnh `training` tạo `output/analysis/training/learning_curves.png` và `.svg`: train/val loss, Exact Match validation và CER validation. Nét đứt đánh dấu checkpoint được chọn bằng Exact Match/CER, không phải bằng loss. Lệnh `test` tạo `output/analysis/after/test_comparison.png` và `.svg`: điểm test trước/sau và số crop sai thành đúng/đúng thành sai. Code kiểm tra hai kết quả có cùng định danh, đáp án và hash ảnh trước khi so sánh; không so điểm validation với điểm test. Mã vẽ mới được bổ sung, chưa chạy tạo biểu đồ.
-
-## Nhật ký và kết quả — chỉ cập nhật sau khi bạn chạy
-
-| Mốc | Trạng thái |
-| --- | --- |
-| Test code | Log bạn gửi xác nhận 9 test thành công trước khi thêm mã vẽ biểu đồ |
-| Tạo crop test | Đã xác minh: 500 ảnh nguồn, 10.065 crop hợp lệ, loại 2.188 vùng |
-| Benchmark trước | Đã xác minh: chấm đủ 10.065 crop |
-| Phân tích trước | Đã đối chiếu báo cáo, bảng độ dài và xem 5 crop sai |
-| Chuẩn bị train/validation | Đã xác minh: 25.723 crop train, 7.191 crop validation |
-| Train và validation theo epoch | Đã xác minh: đủ 10 epoch, best ở epoch 9 trên 7.191 crop validation |
-| Benchmark/phân tích sau | Chưa chạy |
-| Biểu đồ | Đã thêm mã; chờ bạn chạy |
-
-| Chỉ số cuối | Trước | Sau |
-| --- | --- | --- |
-| Số crop test | 10.065 | Chưa đo |
-| Số chuỗi đúng / sai | 6.160 / 3.905 | Chưa đo |
-| Exact Match | 61,20% | Chưa đo |
-| CER | 20,68% (7.702 phép sửa / 37.246 ký tự đáp án) | Chưa đo |
-| Mean / median / P95 | 40,57 / 36,70 / 76,00 ms/crop | Chưa đo |
-| Sai thành đúng / đúng thành sai | — | Chưa đo |
-
-Nguồn đã đối chiếu: [thống kê chuẩn bị test](output/crops/test/preparation.json) và [chỉ số pretrained](output/benchmark/before/metrics.json). Các vùng bị loại gồm 2.167 nhãn `###`, 18 nhãn rỗng và 3 tứ giác không hợp lệ. Điều kiện đo: CPU, 4 thread, batch 1, 3 lượt warmup, greedy; PyTorch 2.15.0+cpu, VietOCR 0.3.13.
-
-### Phân tích pretrained đã xác minh
-
-Nguồn: [báo cáo trước](output/analysis/before/report.md), [bảng độ dài](output/analysis/before/by_length.csv) và [từng mẫu sai](output/analysis/before/errors.csv).
-
-| Nhóm sai khác chuỗi | Số mẫu | Tỷ lệ trong 3.905 mẫu sai |
-| --- | --- | --- |
-| Khác nội dung/khoảng trắng | 2.453 | 62,82% |
-| Chỉ khác dấu/đ | 1.231 | 31,52% |
-| Chỉ khác hoa/thường | 161 | 4,12% |
-| Khác cả dấu và hoa/thường | 60 | 1,54% |
-
-| Độ dài đáp án | Số mẫu | Exact Match | CER |
-| --- | --- | --- | --- |
-| 1 ký tự | 559 | 55,64% | 52,42% |
-| 2–3 ký tự | 4.760 | 60,80% | 23,20% |
-| 4–6 ký tự | 4.181 | 64,31% | 17,94% |
-| 7+ ký tự | 565 | 47,08% | 21,01% |
-
-Nhóm 7+ ký tự có Exact Match thấp nhất, còn nhóm 1 ký tự có CER cao nhất; hai chỉ số đo các khía cạnh khác nhau. Chênh lệch giữa các nhóm là mô tả trên test, chưa phải kết luận nguyên nhân hoặc chỉ dẫn chọn hyperparameter theo test.
-
-Đã xem 5 crop: `1504_0002` (ĐỊA → DIA), `1518_0009` (ĐẠT → DAT), `1762_0009`, `1822_0021`, `1804_0007`. Hai ví dụ đầu có dấu/đ thể hiện trên ảnh nhưng dự đoán làm mất. Các ví dụ khác gồm crop dấu câu bị dự đoán lặp từ, URL chữ nhỏ bị đọc thành nội dung khác và crop chữ nhỏ/mờ. Đây là quan sát ở các ảnh đã xem, không đại diện nguyên nhân của toàn bộ lỗi.
-
-### Dữ liệu train/validation đã xác minh
-
-| Tập | Ảnh nguồn | Crop giữ lại | Vùng bị loại |
-| --- | --- | --- | --- |
-| Train | 1.200 | 25.723 | 9.371 |
-| Validation | 300 | 7.191 | 1.546 |
-
-Nguồn: [thống kê train](output/crops/train/preparation.json), [thống kê validation](output/crops/val/preparation.json). Train loại 9.300 nhãn `###`, 51 tứ giác không hợp lệ, 2 nhãn ngoài vocab và 18 nhãn rỗng. Validation loại 1.517 nhãn `###`, 10 tứ giác không hợp lệ và 19 nhãn rỗng.
-
-### Kết quả huấn luyện đã xác minh
-
-Nguồn: [lịch sử epoch](output/finetuning/history.csv), [checkpoint tốt nhất](output/finetuning/best_metrics.json) và [tổng kết hoàn tất](output/finetuning/summary.json). Full fine-tuning đủ 10 epoch trên CPU, giữ nguyên 25.723 crop train và 7.191 crop validation.
-
-| Epoch | Train loss | Val loss | Exact Match validation | CER validation |
-| --- | --- | --- | --- | --- |
-| 0 — pretrained, chưa train | — | 1,5535 | 55,71% | 25,54% |
-| 9 — best.pth | 0,9657 | 1,2104 | 77,32% | 12,66% |
-| 10 — last.pth | 0,9559 | 1,2210 | 76,54% | 13,43% |
-
-So với epoch 0 trên **cùng validation**, epoch 9 tăng Exact Match 21,61 điểm phần trăm và giảm CER 12,88 điểm phần trăm. Checkpoint này đọc đúng hoàn toàn 5.560/7.191 crop, còn 3.393 phép sửa trên 26.804 ký tự đáp án. Loss validation thấp nhất ở epoch 3 (1,1868), nhưng epoch 9 có điểm chuỗi tốt nhất theo tiêu chí đã định.
-
-Train loss tiếp tục giảm đến epoch 10 trong khi val loss tăng và điểm chuỗi kém hơn epoch 9: có dấu hiệu chững lại/overfitting, chưa đủ để kết luận nên train thêm. Dùng `best.pth` đã chọn bằng validation để chấm test. Không lấy 77,32% validation trừ 61,20% test để báo mức cải thiện. Chưa có kết luận về hiệu quả trên test sau fine-tuning.
-
-Bước tiếp theo: chạy `benchmark.run after`, rồi `analysis.report after` và `analysis.plots test`. README chỉ cập nhật kết quả test sau khi bạn chạy xong và có số liệu thực tế.
-
-## Đưa code lên Git
-
-Theo lựa chọn của bạn, đưa cả code và toàn bộ `output` lên repository, gồm crop, dự đoán, báo cáo, biểu đồ và checkpoint. `.gitignore` vẫn loại môi trường ảo, cache Python, dữ liệu gốc `vintext`/`vintext_original` và cấu hình riêng của máy. `requirements.txt` được commit để cài dependencies; không đưa thư viện trong `.venv` lên Git.
-
-`.gitattributes` dùng Git LFS cho ảnh PNG và trọng số trong `output`. Git lưu con trỏ, Git LFS tải nội dung file lên máy chủ khi push; xem [tài liệu Git LFS](https://git-lfs.com/). Tại thời điểm kiểm tra, `output` có 43.016 file, tổng 969.750.498 byte (khoảng 0,90 GiB). Chưa commit hoặc push output thay bạn.
-
-Repository đã được khởi tạo và có remote `https://github.com/NguyenThHien/OCRreg.git`. Không cần chạy lại `git init` hoặc `git remote add`. Trong PowerShell tại `D:\OCRreg`, chạy lần lượt:
+Cập nhật tài liệu và kết quả vào repository đã có remote:
 
 ```powershell
 git lfs install --local
-git add .gitignore .gitattributes README.md
+git add README.md .gitignore .gitattributes
 git add output
-git diff --cached --stat
-```
-
-Kiểm tra danh sách đã có file trong `output` và không có `.venv` hoặc dữ liệu gốc, rồi tiếp tục:
-
-```powershell
-git commit -m "Thêm output benchmark và fine-tuning với Git LFS"
+git diff --cached --stat --stat-count=15
+git commit -m "Cập nhật tài liệu và kết quả VietOCR trên VinText"
 git push origin main
 ```
 
-Khi dùng máy khác đã cài Git LFS, chạy `git lfs install`, clone repository, rồi `git lfs pull` trong thư mục vừa clone để tải đủ ảnh/trọng số. Dữ liệu gốc và môi trường Python vẫn cần chuẩn bị riêng. LFS sử dụng dung lượng lưu trữ/băng thông của tài khoản GitHub; xem [cách tính dung lượng LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-storage-and-bandwidth-usage).
+Git LFS lưu nội dung ảnh/trọng số riêng và tải chúng khi clone/pull. Xem [Git LFS](https://git-lfs.com/) và [cách tính dung lượng, băng thông trên GitHub](https://docs.github.com/en/billing/concepts/product-billing/git-lfs).

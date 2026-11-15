@@ -1,0 +1,29 @@
+{
+  "samples": 10065,
+  "correct": 7995,
+  "exact_match": 0.7943368107302533,
+  "cer": 0.09987649680502604,
+  "total_edits": 3720,
+  "reference_characters": 37246,
+  "mean_ms": 39.84047220068532,
+  "median_ms": 36.212700011674315,
+  "p95_ms": 72.7016999735497,
+  "error_types": {
+    "Khác nội dung/khoảng trắng": 1392,
+    "Chỉ khác hoa/thường": 129,
+    "Dự đoán rỗng": 1,
+    "Khác dấu và hoa/thường": 25,
+    "Chỉ khác dấu/đ": 523
+  },
+  "comparison": {
+    "exact_match_delta": 0.18231495280675603,
+    "cer_delta": -0.10691080921441228,
+    "changes": {
+      "Sai thành đúng": 2109,
+      "Bằng số lỗi": 6787,
+      "Ít lỗi hơn": 694,
+      "Nhiều lỗi hơn": 201,
+      "Đúng thành sai": 274
+    }
+  }
+}

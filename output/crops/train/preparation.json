@@ -1,0 +1,11 @@
+{
+  "source_images": 1200,
+  "accepted": 25723,
+  "excluded": 9371,
+  "exclusion_reasons": {
+    "Nhãn bỏ qua (###)": 9300,
+    "Tứ giác không hợp lệ": 51,
+    "Ký tự ngoài vocab": 2,
+    "Nhãn rỗng": 18
+  }
+}

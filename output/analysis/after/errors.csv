@@ -1,0 +1,2071 @@
+﻿crop,source_image,line,ground_truth,prediction,edit_distance,error_type
+../../crops/test/images/2000_0036.png,im2000.jpg,36,bvsnqn.syt@gmail.com,wwang,18,Khác nội dung/khoảng trắng
+../../crops/test/images/1822_0021.png,im1822.jpg,21,www.conphungtourist.com,www.eenhwngtent,13,Khác nội dung/khoảng trắng
+../../crops/test/images/1845_0018.png,im1845.jpg,18,0975.95.85.25,NA557,11,Khác nội dung/khoảng trắng
+../../crops/test/images/1639_0029.png,im1639.jpg,29,17313,17EATEREETEE,10,Khác nội dung/khoảng trắng
+../../crops/test/images/1768_0001.png,im1768.jpg,1,1806/127/2/6/15/48A,18061111.61549,10,Khác nội dung/khoảng trắng
+../../crops/test/images/1540_0005.png,im1540.jpg,5,guarantee,TRENGIN,9,Khác nội dung/khoảng trắng
+../../crops/test/images/1543_0031.png,im1543.jpg,31,3913333373,90747,8,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0087.png,im1725.jpg,87,AQUAFINA,Nước,8,Khác nội dung/khoảng trắng
+../../crops/test/images/1772_0030.png,im1772.jpg,30,435-5078,LESSOTE,8,Khác nội dung/khoảng trắng
+../../crops/test/images/1822_0019.png,im1822.jpg,19,073.3822.198,07.382211141114,8,Khác nội dung/khoảng trắng
+../../crops/test/images/1972_0011.png,im1972.jpg,11,Netspace,Wangog,8,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0061.png,im1585.jpg,61,SECURITIES,INCERFING,7,Khác nội dung/khoảng trắng
+../../crops/test/images/1636_0018.png,im1636.jpg,18,evening,"""",7,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0088.png,im1725.jpg,88,AQUAFINA,KỤNG,7,Khác nội dung/khoảng trắng
+../../crops/test/images/1933_0016.png,im1933.jpg,16,Inventer,INVEPTER,7,Khác nội dung/khoảng trắng
+../../crops/test/images/1956_0002.png,im1956.jpg,2,otline:,HÌNH,7,Khác nội dung/khoảng trắng
+../../crops/test/images/1514_0003.png,im1514.jpg,3,Chuyên:,Coture,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1540_0003.png,im1540.jpg,3,More,LAULIE,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1540_0009.png,im1540.jpg,9,SCREEN,NAM,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1543_0002.png,im1543.jpg,2,Beauty,roming,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0011.png,im1570.jpg,11,0978082268,03FC002226,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0085.png,im1570.jpg,85,10)Cẩm,ANN,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0094.png,im1585.jpg,94,Co-Sponsors,Co Sonm,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1636_0012.png,im1636.jpg,12,hungry,"""",6,Khác nội dung/khoảng trắng
+../../crops/test/images/1644_0001.png,im1644.jpg,1,iSCHOOL,ischool,6,Chỉ khác hoa/thường
+../../crops/test/images/1644_0015.png,im1644.jpg,15,iSCHOOL,ischool,6,Chỉ khác hoa/thường
+../../crops/test/images/1644_0018.png,im1644.jpg,18,iSCHOOL,ischool,6,Chỉ khác hoa/thường
+../../crops/test/images/1725_0045.png,im1725.jpg,45,AQUAFINA,KUA,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0048.png,im1725.jpg,48,AQUAFINA,HUFK,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0051.png,im1725.jpg,51,AQUAFINA,HUFF,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0078.png,im1725.jpg,78,AQUAFINA,HANG,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0080.png,im1725.jpg,80,AQUAFINA,KUNG,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0086.png,im1725.jpg,86,AQUAFINA,KUFF,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1870_0021.png,im1870.jpg,21,Coffee,KINH,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1877_0016.png,im1877.jpg,16,0942.33.26.26,0947.33752,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1895_0004.png,im1895.jpg,4,EXIMBANK,(XENGLANI,6,Khác nội dung/khoảng trắng
+../../crops/test/images/1967_0001.png,im1967.jpg,1,SUNRISE,Sunrise,6,Chỉ khác hoa/thường
+../../crops/test/images/1509_0003.png,im1509.jpg,3,lemon,ÁNH,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1540_0029.png,im1540.jpg,29,ienn,QUANG,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0066.png,im1541.jpg,66,SHOWING,LƯƠNG,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1549_0002.png,im1549.jpg,2,-,KHÔNG,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1554_0067.png,im1554.jpg,67,Amount,AMPUT,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0081.png,im1570.jpg,81,3)Đồg,Vhiốc,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0091.png,im1570.jpg,91,12)Salem,123.dam,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0057.png,im1585.jpg,57,Networking,Northorinn,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0027.png,im1634.jpg,27,UBNDP1,VENDIOI,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1639_0028.png,im1639.jpg,28,43-C1,CHI,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0042.png,im1701.jpg,42,Số183,VANE,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0044.png,im1725.jpg,44,AQUAFINA,HUNHING,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0052.png,im1725.jpg,52,AQUAFINA,ANA,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0061.png,im1725.jpg,61,AQUAFINA,AUFM,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0067.png,im1725.jpg,67,AQUAFINA,ANA,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0070.png,im1725.jpg,70,AQUAFINA,HUANH,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1751_0031.png,im1751.jpg,31,MSDDKD,HEĐOKO,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1797_0011.png,im1797.jpg,11,THÀNH:,KAIRI:,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1800_0008.png,im1800.jpg,8,NĂM,THANG,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1811_0005.png,im1811.jpg,5,ĐƯỜNG,PHỐ,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1842_0016.png,im1842.jpg,16,Saigon,SAN,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1863_0010.png,im1863.jpg,10,KHỞI,ngườn,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1881_0001.png,im1881.jpg,1,shrimps,storiong,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1916_0007.png,im1916.jpg,7,salon,mLi,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1941_0015.png,im1941.jpg,15,FRIDAY,Friday,5,Chỉ khác hoa/thường
+../../crops/test/images/1967_0048.png,im1967.jpg,48,HANOI,Wfoi,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1969_0002.png,im1969.jpg,2,NƯỚNG,Mướng,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1983_0023.png,im1983.jpg,23,www.nbkhiem.com.vn,www.nbkhiem.cor..nnvv,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1995_0016.png,im1995.jpg,16,shipping,thong,5,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0010.png,im1508.jpg,10,Dịch,0KH,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0093.png,im1508.jpg,93,400,sống,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0098.png,im1508.jpg,98,000,ĐÔNG,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0104.png,im1508.jpg,104,000,Kiot,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0107.png,im1508.jpg,107,000,: 10k,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0108.png,im1508.jpg,108,000,: 8k,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0110.png,im1508.jpg,110,000,Kiot,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0113.png,im1508.jpg,113,000,: 10k,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0114.png,im1508.jpg,114,000,Kiot,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1519_0009.png,im1519.jpg,9,-,Kiot,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1524_0024.png,im1524.jpg,24,CƯỚI,cưới,4,Chỉ khác hoa/thường
+../../crops/test/images/1537_0028.png,im1537.jpg,28,2017,ROVY,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1542_0010.png,im1542.jpg,10,DIỄN,15,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1549_0005.png,im1549.jpg,5,-,Nước,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1552_0018.png,im1552.jpg,18,TÍCH,110,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1554_0066.png,im1554.jpg,66,Serving,Sonin,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1554_0069.png,im1554.jpg,69,Total,Tọc,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0013.png,im1570.jpg,13,1)Ly,04,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0039.png,im1570.jpg,39,k,QUAN,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0044.png,im1570.jpg,44,bông,Gay,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0075.png,im1570.jpg,75,vàng,Trà,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0078.png,im1570.jpg,78,7)Cúc,Pức,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0082.png,im1570.jpg,82,tiền,HIÊN,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0083.png,im1570.jpg,83,9)Cát,DCAF,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0088.png,im1570.jpg,88,11)Lay,Anhay,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1572_0013.png,im1572.jpg,13,-,Kiot,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1578_0002.png,im1578.jpg,2,THUÊ,FILE,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1578_0004.png,im1578.jpg,4,PHONG,TAN,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1578_0019.png,im1578.jpg,19,Wil,IDA2,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1581_0067.png,im1581.jpg,67,GIÀU,CATI,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0051.png,im1585.jpg,51,Silver,Sincy,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0110.png,im1585.jpg,110,Delic,DEN,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1587_0019.png,im1587.jpg,19,111',79T,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0036.png,im1592.jpg,36,giáo,Cần,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0039.png,im1592.jpg,39,thiếu,điểc,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0044.png,im1592.jpg,44,niên,KH,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0047.png,im1592.jpg,47,giao,ton,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0048.png,im1592.jpg,48,tiếp,Nay,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1603_0015.png,im1603.jpg,15,chào,CHỜI,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1603_0016.png,im1603.jpg,16,eMBee,Mas,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1605_0025.png,im1605.jpg,25,CHO,GITU,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1610_0008.png,im1610.jpg,8,Nguyên,liên,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1612_0002.png,im1612.jpg,2,NGOC,HIL,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1623_0017.png,im1623.jpg,17,14-3-1988,14 33 11988,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0001.png,im1634.jpg,1,obiFone,colfone,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0077.png,im1634.jpg,77,guyên,Ngon,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1640_0044.png,im1640.jpg,44,một,NUỘI,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1640_0049.png,im1640.jpg,49,được,dung,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1664_0012.png,im1664.jpg,12,VINH,Nước,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1666_0003.png,im1666.jpg,3,DỤC.,BVE,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1691_0005.png,im1691.jpg,5,OPEN,upen,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1691_0007.png,im1691.jpg,7,quán,QUÁN,4,Chỉ khác hoa/thường
+../../crops/test/images/1701_0011.png,im1701.jpg,11,NGÕ,VIÊN,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0017.png,im1701.jpg,17,ĐA -,Mi,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0036.png,im1701.jpg,36,-,Kiot,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1703_0003.png,im1703.jpg,3,HoàHiệp,Hoàille,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1708_0004.png,im1708.jpg,4,QUẬN,MẶI,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0059.png,im1713.jpg,59,CÔNG,Lưng,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0078.png,im1713.jpg,78,KHẨU,GẤO,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1714_0012.png,im1714.jpg,12,asa,VIAN,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1716_0018.png,im1716.jpg,18,xanh,Or,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1718_0023.png,im1718.jpg,23,www.arena-multimedia.vn,www.rrena-muitimeola.vn,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1721_0003.png,im1721.jpg,3,30A-206.02,30/22602,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0019.png,im1725.jpg,19,LaVie,4V0,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0055.png,im1725.jpg,55,AQUAFINA,KYAFNA,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0064.png,im1725.jpg,64,AQUAFINA,AUAND,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0079.png,im1725.jpg,79,AQUAFINA,QUAN,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1729_0014.png,im1729.jpg,14,TRƯỚC,Trước,4,Chỉ khác hoa/thường
+../../crops/test/images/1737_0007.png,im1737.jpg,7,Bánh,May,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1737_0013.png,im1737.jpg,13,Bánh,"Đấnt,",4,Khác nội dung/khoảng trắng
+../../crops/test/images/1743_0018.png,im1743.jpg,18,Zalo,Nước,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1755_0058.png,im1755.jpg,58,0933.111.3,0933.714,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1758_0008.png,im1758.jpg,8,HANOI,NHỜI,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1758_0011.png,im1758.jpg,11,QUỐC,cước,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1776_0001.png,im1776.jpg,1,TOTAL,Total,4,Chỉ khác hoa/thường
+../../crops/test/images/1782_0007.png,im1782.jpg,7,KEM,"Nom,",4,Khác nội dung/khoảng trắng
+../../crops/test/images/1788_0016.png,im1788.jpg,16,FREE,11F5,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1791_0014.png,im1791.jpg,14,CẢNH -,CHINH,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1819_0027.png,im1819.jpg,27,February,Petrwry,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1819_0028.png,im1819.jpg,28,21st,77,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1827_0006.png,im1827.jpg,6,Kimchi,Khuc,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1837_0004.png,im1837.jpg,4,CUỐI,cuối,4,Chỉ khác hoa/thường
+../../crops/test/images/1838_0013.png,im1838.jpg,13,NIÊN,VÀY,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1874_0006.png,im1874.jpg,6,P.13.,15,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1881_0007.png,im1881.jpg,7,SAGIMEXCO,ĐAOMENCO,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1881_0014.png,im1881.jpg,14,DONG,ĐOFIO,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1889_0015.png,im1889.jpg,15,Quận,Oước,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1893_0009.png,im1893.jpg,9,QUỐC,quốc,4,Chỉ khác hoa/thường
+../../crops/test/images/1895_0002.png,im1895.jpg,2,MoneyGram,HoreGrom,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1904_0011.png,im1904.jpg,11,TRÈO,THIỆU,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1904_0018.png,im1904.jpg,18,NGƯỜI,NGUIÊN,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1916_0006.png,im1916.jpg,6,Hair,Offor,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1920_0018.png,im1920.jpg,18,Sáng,Chiong,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1920_0024.png,im1920.jpg,24,Sáng,Chinh,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1939_0001.png,im1939.jpg,1,Total,TOTAL,4,Chỉ khác hoa/thường
+../../crops/test/images/1941_0014.png,im1941.jpg,14,BLACK,Black,4,Chỉ khác hoa/thường
+../../crops/test/images/1947_0002.png,im1947.jpg,2,POMIYA,POmina,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1956_0003.png,im1956.jpg,3,01636268888,01636261334,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1956_0005.png,im1956.jpg,5,Coffee,Cuafoo,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1960_0004.png,im1960.jpg,4,1972,m,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1963_0033.png,im1963.jpg,33,Mừng,LONG,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1971_0008.png,im1971.jpg,8,2008,,4,Dự đoán rỗng
+../../crops/test/images/1972_0018.png,im1972.jpg,18,CHIỀU,HÀ,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1985_0030.png,im1985.jpg,30,###=,F,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0085.png,im1997.jpg,85,thăm,horn,4,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0013.png,im1508.jpg,13,sóc,506,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0019.png,im1508.jpg,19,với,PÓI,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0020.png,im1508.jpg,20,bọt,ĐỌC,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0087.png,im1508.jpg,87,150,Hai,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0089.png,im1508.jpg,89,500,Đọp,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0091.png,im1508.jpg,91,300,Xai,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0094.png,im1508.jpg,94,130,ĐT:,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0096.png,im1508.jpg,96,100,HIÊ,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0097.png,im1508.jpg,97,100,LEO,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0102.png,im1508.jpg,102,000,Nai,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0112.png,im1508.jpg,112,150,306,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0122.png,im1508.jpg,122,DEIN,OLIV,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0124.png,im1508.jpg,124,GER,Cra,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1509_0002.png,im1509.jpg,2,say,GG,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1509_0005.png,im1509.jpg,5,say,SAY,3,Chỉ khác hoa/thường
+../../crops/test/images/1509_0006.png,im1509.jpg,6,layla,bya,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1513_0007.png,im1513.jpg,7,Tiềm,TIỂM,3,Khác dấu và hoa/thường
+../../crops/test/images/1513_0008.png,im1513.jpg,8,Năng,NĂNG,3,Chỉ khác hoa/thường
+../../crops/test/images/1513_0009.png,im1513.jpg,9,0918.387.81,0918.387 8817,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1514_0018.png,im1514.jpg,18,-,NHI,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1519_0012.png,im1519.jpg,12,-,Nai,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1524_0001.png,im1524.jpg,1,Ẩm,LUS,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1524_0003.png,im1524.jpg,3,Thực,Trược,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1524_0005.png,im1524.jpg,5,Me,Lực,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1524_0012.png,im1524.jpg,12,23h:00,20M00,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1531_0002.png,im1531.jpg,2,TNHH,THEI,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1531_0016.png,im1531.jpg,16,NGHÉ,NIỀU,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1535_0005.png,im1535.jpg,5,FREE,Free,3,Chỉ khác hoa/thường
+../../crops/test/images/1535_0012.png,im1535.jpg,12,WINe,wine,3,Chỉ khác hoa/thường
+../../crops/test/images/1537_0034.png,im1537.jpg,34,ĐÀO,VIỆ,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1539_0001.png,im1539.jpg,1,Mừng,Miền,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1539_0002.png,im1539.jpg,2,Đảng,Đ-,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1540_0008.png,im1540.jpg,8,LED,HAI,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0046.png,im1541.jpg,46,YO,VAI,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0056.png,im1541.jpg,56,IN,KHI,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0058.png,im1541.jpg,58,HERE,MIKE,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0067.png,im1541.jpg,67,BRUTE,URTITE,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0075.png,im1541.jpg,75,TL,71.,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1543_0007.png,im1543.jpg,7,Dũng,Dãm,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1543_0011.png,im1543.jpg,11,các,CÓC,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1543_0013.png,im1543.jpg,13,tóc,TÓC,3,Chỉ khác hoa/thường
+../../crops/test/images/1552_0016.png,im1552.jpg,16,LƯU,UM,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1552_0022.png,im1552.jpg,22,NON,ACH,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1552_0023.png,im1552.jpg,23,SÔNG,Shio,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1552_0035.png,im1552.jpg,35,TẮC,V%,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1553_0018.png,im1553.jpg,18,87'38,8T3,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1554_0064.png,im1554.jpg,64,Nutr,Nươ,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1554_0074.png,im1554.jpg,74,Total,Toài,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1560_0028.png,im1560.jpg,28,Lan,SAN,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1560_0029.png,im1560.jpg,29,Muối,Mừa,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1560_0035.png,im1560.jpg,35,ZIP,210,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1560_0042.png,im1560.jpg,42,màu,minh,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1560_0045.png,im1560.jpg,45,size,shaa,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1566_0008.png,im1566.jpg,8,LƯU,IN,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0070.png,im1570.jpg,70,hồng,Sường,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0071.png,im1570.jpg,71,4)Cẩm,4yCh,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0076.png,im1570.jpg,76,6)Cúc,6MC,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0092.png,im1570.jpg,92,13)Hướng,43)Hước,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0093.png,im1570.jpg,93,dương,chường,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1578_0024.png,im1578.jpg,24,90-H8,ĐOFH8,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1580_0002.png,im1580.jpg,2,chanh,thươnh,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1580_0031.png,im1580.jpg,31,PHỐ,FII,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0026.png,im1585.jpg,26,Phá,Vi,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0035.png,im1585.jpg,35,2019,RO10,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0037.png,im1585.jpg,37,2019,RO1E,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0038.png,im1585.jpg,38,2019,R-10,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0048.png,im1585.jpg,48,Tài,In,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0049.png,im1585.jpg,49,trợ,ĐỢ,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0054.png,im1585.jpg,54,trợ,DỰ,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0055.png,im1585.jpg,55,Tiệc,TIỆC,3,Chỉ khác hoa/thường
+../../crops/test/images/1585_0059.png,im1585.jpg,59,Sponsor,Sporsch,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0067.png,im1585.jpg,67,GROUP,COREUP,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0080.png,im1585.jpg,80,CORPORATION,CONDONATION,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0102.png,im1585.jpg,102,Kusto,Kuang,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0107.png,im1585.jpg,107,trợ,DO,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0026.png,im1592.jpg,26,GD-ĐT,CD - ĐT,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0034.png,im1592.jpg,34,văn,TÔN,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0035.png,im1592.jpg,35,Mẫu,B,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0038.png,im1592.jpg,38,văn,TÂN,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0040.png,im1592.jpg,40,nhi,A,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0042.png,im1592.jpg,42,văn,XEI,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0043.png,im1592.jpg,43,thiếu,tin,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0051.png,im1592.jpg,51,Thạc,THUG,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0052.png,im1592.jpg,52,Thạc,TANG,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1593_0001.png,im1593.jpg,1,NGUYỄN,MRUYỀN,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1593_0004.png,im1593.jpg,4,(1822-1888),(1822 - 88),3,Khác nội dung/khoảng trắng
+../../crops/test/images/1594_0001.png,im1594.jpg,1,Càphê,Ceynhê,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1597_0018.png,im1597.jpg,18,*Áp,"""ẤP",3,Khác nội dung/khoảng trắng
+../../crops/test/images/1598_0011.png,im1598.jpg,11,Pháp,PHÁP,3,Chỉ khác hoa/thường
+../../crops/test/images/1600_0042.png,im1600.jpg,42,-,THI,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1600_0044.png,im1600.jpg,44,-,nai,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1603_0047.png,im1603.jpg,47,TNHH,TMMX,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1603_0066.png,im1603.jpg,66,THÔNG,THOBO,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1605_0012.png,im1605.jpg,12,trà,TTÒ,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1611_0005.png,im1611.jpg,5,KHÙNG...,KHÙNG,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1612_0001.png,im1612.jpg,1,BMC,NG,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1612_0014.png,im1612.jpg,14,LT8,LOOF,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1619_0004.png,im1619.jpg,4,0946497799,0946 49 77 99,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0032.png,im1634.jpg,32,QUẬN,CỰÂN,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0050.png,im1634.jpg,50,P.1,M,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1636_0011.png,im1636.jpg,11,Always,Alrey,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1636_0017.png,im1636.jpg,17,the,Tri,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1639_0018.png,im1639.jpg,18,WiFi,HIFD,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1640_0052.png,im1640.jpg,52,xin,XÌN,3,Khác dấu và hoa/thường
+../../crops/test/images/1640_0055.png,im1640.jpg,55,xin,XÂN,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1640_0056.png,im1640.jpg,56,cảm,cánh,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1643_0053.png,im1643.jpg,53,TUV,W,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1643_0055.png,im1643.jpg,55,0949120084,0949.120.034,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1643_0062.png,im1643.jpg,62,TỐC,rốe,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1647_0028.png,im1647.jpg,28,RUỘT,CHUỘE,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1647_0029.png,im1647.jpg,29,GỐI,CA,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1651_0022.png,im1651.jpg,22,0971955955,0971 955 995,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1655_0003.png,im1655.jpg,3,trà,TTÒ,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1659_0030.png,im1659.jpg,30,NAM,han,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1664_0011.png,im1664.jpg,11,LONG,HOM,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1666_0002.png,im1666.jpg,2,GIÁO,CIAC,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1669_0007.png,im1669.jpg,7,Quẹo,Gifo,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1669_0008.png,im1669.jpg,8,do,đội,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1669_0010.png,im1669.jpg,10,39/11-,39hi -,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1672_0008.png,im1672.jpg,8,SỨC,sức,3,Chỉ khác hoa/thường
+../../crops/test/images/1674_0028.png,im1674.jpg,28,biên,tươn,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1675_0022.png,im1675.jpg,22,BIG,310,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1675_0023.png,im1675.jpg,23,UUB,ưu8,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1676_0084.png,im1676.jpg,84,CREAMY,GIEAUY,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1681_0008.png,im1681.jpg,8,Shop,SHOP,3,Chỉ khác hoa/thường
+../../crops/test/images/1682_0001.png,im1682.jpg,1,Càphê,Cônhể,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1684_0047.png,im1684.jpg,47,0939427572-,0939 427 572 -,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1691_0002.png,im1691.jpg,2,ffee,fa,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1691_0010.png,im1691.jpg,10,"nhỏ,",nbẻ.,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1691_0012.png,im1691.jpg,12,người,"""ghới",3,Khác nội dung/khoảng trắng
+../../crops/test/images/1691_0023.png,im1691.jpg,23,cửu,CỬU,3,Chỉ khác hoa/thường
+../../crops/test/images/1694_0015.png,im1694.jpg,15,0939536959,0939 53 69 59,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1694_0016.png,im1694.jpg,16,01287990055,01287 99 00 55,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1700_0026.png,im1700.jpg,26,Hiệp,HIỆP,3,Chỉ khác hoa/thường
+../../crops/test/images/1701_0014.png,im1701.jpg,14,QUÝ,OM,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0045.png,im1701.jpg,45,"Thám,",Than,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0049.png,im1701.jpg,49, Nội -,Nội,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0057.png,im1713.jpg,57,LIÊN,INT,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0058.png,im1713.jpg,58,HỆ,NAI,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0076.png,im1713.jpg,76,NGHỊ,Ngni,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0083.png,im1713.jpg,83,VIỆC,Việc,3,Chỉ khác hoa/thường
+../../crops/test/images/1713_0090.png,im1713.jpg,90,Assemen,Assesome,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0100.png,im1713.jpg,100,Host,Học,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0102.png,im1713.jpg,102,16-18,1411,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1714_0016.png,im1714.jpg,16,martin,maniti,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1716_0011.png,im1716.jpg,11,CHÂU,SHÀI,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1718_0025.png,im1718.jpg,25,NHÂN,NAM,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1720_0014.png,im1720.jpg,14,VẠN,Nam,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1726_0031.png,im1726.jpg,31,"QL1,",OLL,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1729_0015.png,im1729.jpg,15,CHỈ,M,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1731_0011.png,im1731.jpg,11,Gieo,GIEO,3,Chỉ khác hoa/thường
+../../crops/test/images/1734_0006.png,im1734.jpg,6,12,AFA,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1735_0015.png,im1735.jpg,15,UYÊN,HUYTH,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1737_0016.png,im1737.jpg,16,Chè,092,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1737_0018.png,im1737.jpg,18,Chè,eái,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0064.png,im1738.jpg,64,ĐƯỜNG,TRÒNG,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0066.png,im1738.jpg,66,THÁU,TEA,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1745_0009.png,im1745.jpg,9,3883,3111,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1747_0030.png,im1747.jpg,30,"ĐT,",DY,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1751_0036.png,im1751.jpg,36,32,Fel,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1755_0020.png,im1755.jpg,20,BITI'S,HITS,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1755_0059.png,im1755.jpg,59,IU74,IỮ,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1758_0001.png,im1758.jpg,1,Quốc,QUỐC,3,Chỉ khác hoa/thường
+../../crops/test/images/1758_0005.png,im1758.jpg,5,Đông,ĐÔNG,3,Chỉ khác hoa/thường
+../../crops/test/images/1760_0014.png,im1760.jpg,14,Saletar,Sabetoi,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1774_0001.png,im1774.jpg,1,024.32 32 32 32,024.32323232,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1778_0001.png,im1778.jpg,1,295,xos,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1778_0029.png,im1778.jpg,29,ĐT:,SE,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1782_0001.png,im1782.jpg,1,KEM,Tcm,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1782_0017.png,im1782.jpg,17,KEM,"Kam,",3,Khác nội dung/khoảng trắng
+../../crops/test/images/1782_0025.png,im1782.jpg,25,ANK,ank,3,Chỉ khác hoa/thường
+../../crops/test/images/1786_0043.png,im1786.jpg,43,VIET,KIF,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1787_0005.png,im1787.jpg,5,3 97 97 97,307 77 97,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1791_0017.png,im1791.jpg,17,HẢI,Nai,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1797_0009.png,im1797.jpg,9,01/8/2011,01772011,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1797_0010.png,im1797.jpg,10,KHÁNH,VANH,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1799_0030.png,im1799.jpg,30,TAN,SCV,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1800_0011.png,im1800.jpg,11,QUỐC,ĐƯỢC,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1815_0022.png,im1815.jpg,22,HOÁ,HOÁ...,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1819_0002.png,im1819.jpg,2,TRUONG ,TRƯƠNG,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1826_0010.png,im1826.jpg,10,VĂN,1,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1827_0005.png,im1827.jpg,5,Crisps,Criand,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1827_0007.png,im1827.jpg,7,Flavor,Favie,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1827_0022.png,im1827.jpg,22,quà,NH,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1827_0023.png,im1827.jpg,23,Việt,Vê,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1833_0042.png,im1833.jpg,42,MẦM,MIỀN,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1833_0043.png,im1833.jpg,43,NON,105,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1837_0006.png,im1837.jpg,6,MÙA,HUN,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1845_0013.png,im1845.jpg,13,TMAS,20MA5,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1846_0001.png,im1846.jpg,1,UBND,LHAND,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1853_0023.png,im1853.jpg,23,3360.3399,3360 33H3,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1854_0003.png,im1854.jpg,3,PHƯƠNG,PHƯUM,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1859_0012.png,im1859.jpg,12,0703824786,0703 224 786,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1863_0003.png,im1863.jpg,3,HOÀ,FIOA,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1867_0005.png,im1867.jpg,5,KÍNH,Kinh,3,Khác dấu và hoa/thường
+../../crops/test/images/1870_0005.png,im1870.jpg,5,NViCO,nVico,3,Chỉ khác hoa/thường
+../../crops/test/images/1870_0020.png,im1870.jpg,20,TRẠM,TRỊNH,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1874_0002.png,im1874.jpg,2,115/1740,1511746,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1876_0006.png,im1876.jpg,6,DÂN,ĐÁH,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1876_0008.png,im1876.jpg,8,1956,VE55,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1882_0006.png,im1882.jpg,6,AMIN,Amin,3,Chỉ khác hoa/thường
+../../crops/test/images/1888_0008.png,im1888.jpg,8,VỰC,vực,3,Chỉ khác hoa/thường
+../../crops/test/images/1889_0013.png,im1889.jpg,13,Văn,v,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1889_0019.png,im1889.jpg,19,Tel:,Tê,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1889_0021.png,im1889.jpg,21,Email:,Emari,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1903_0011.png,im1903.jpg,11,409,AOS,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1904_0016.png,im1904.jpg,16,HIỂM,HẺH,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1904_0026.png,im1904.jpg,26,0902774680,0902 774 630,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1911_0004.png,im1911.jpg,4,Quỳnh,2ành,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1911_0010.png,im1911.jpg,10,thời,Hưới,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1912_0014.png,im1912.jpg,14,ĐẠI,đúc,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1912_0015.png,im1912.jpg,15,HỌC,nợc,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1920_0025.png,im1920.jpg,25,tạo,Lợc,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1920_0027.png,im1920.jpg,27,mỹ,THỜ,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1923_0024.png,im1923.jpg,24,0938.087979,0938.087,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1925_0043.png,im1925.jpg,43,Wholegrain,Wholestan,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1926_0014.png,im1926.jpg,14,VỰC,vực,3,Chỉ khác hoa/thường
+../../crops/test/images/1929_0002.png,im1929.jpg,2,HCM,NG,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1929_0006.png,im1929.jpg,6,HCM,Khi,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1945_0018.png,im1945.jpg,18,NẴNG,Nẵng,3,Chỉ khác hoa/thường
+../../crops/test/images/1947_0033.png,im1947.jpg,33,0948708707,0948.708.747,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1952_0005.png,im1952.jpg,5,VỚI,với,3,Chỉ khác hoa/thường
+../../crops/test/images/1953_0011.png,im1953.jpg,11,WIFI,WÌN,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1954_0006.png,im1954.jpg,6,1800969690,1800 96 96 90,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1963_0032.png,im1963.jpg,32,húc,tườ,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1966_0030.png,im1966.jpg,30,lần,tinh,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1966_0033.png,im1966.jpg,33,10h,TOÀ,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1967_0049.png,im1967.jpg,49,LOO,ưng,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1969_0003.png,im1969.jpg,3,NGÓI,Ngới,3,Khác dấu và hoa/thường
+../../crops/test/images/1969_0007.png,im1969.jpg,7,THÁI,Thái,3,Chỉ khác hoa/thường
+../../crops/test/images/1969_0010.png,im1969.jpg,10,ĐIÊU,Điêu,3,Chỉ khác hoa/thường
+../../crops/test/images/1969_0011.png,im1969.jpg,11,HỒNG,Hồng,3,Chỉ khác hoa/thường
+../../crops/test/images/1969_0012.png,im1969.jpg,12,LƯƠN,Lươn,3,Chỉ khác hoa/thường
+../../crops/test/images/1971_0012.png,im1971.jpg,12,SINH,Sinh,3,Chỉ khác hoa/thường
+../../crops/test/images/1972_0015.png,im1972.jpg,15,NGHỀ,NOÀ,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1972_0017.png,im1972.jpg,17,THỰC,THIẾU,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1973_0004.png,im1973.jpg,4,XAY,xay,3,Chỉ khác hoa/thường
+../../crops/test/images/1983_0009.png,im1983.jpg,9,DỤC,NG,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1993_0002.png,im1993.jpg,2,"5,5Km","*,5H",3,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0084.png,im1997.jpg,84,tới,NƠI,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0090.png,im1997.jpg,90,Store,Fooe,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1998_0002.png,im1998.jpg,2,CÁC,các,3,Chỉ khác hoa/thường
+../../crops/test/images/1998_0011.png,im1998.jpg,11,CÁC,các,3,Chỉ khác hoa/thường
+../../crops/test/images/1998_0025.png,im1998.jpg,25,"Nội,",NHI,3,Khác nội dung/khoảng trắng
+../../crops/test/images/1501_0003.png,im1501.jpg,3,PLASTIC,PHANTIC,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1501_0017.png,im1501.jpg,17,NAM,HAẠ,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1501_0020.png,im1501.jpg,20,CAO,Can,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1501_0026.png,im1501.jpg,26,CỔ,cố,2,Khác dấu và hoa/thường
+../../crops/test/images/1501_0036.png,im1501.jpg,36,JOINT,JONG,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1501_0039.png,im1501.jpg,39,WWW.NHUAHIEPTHANH.COM,WWWNHUAHIEPTHANHCOM,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1503_0008.png,im1503.jpg,8,THÚY,THUỶ,2,Chỉ khác dấu/đ
+../../crops/test/images/1503_0010.png,im1503.jpg,10,KHOA,XHOV,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1503_0012.png,im1503.jpg,12,VÀ,14,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1507_0004.png,im1507.jpg,4,Cá,la,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0003.png,im1508.jpg,3,-,ES,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0012.png,im1508.jpg,12,Chăm,Chấn,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0018.png,im1508.jpg,18,cùng,Cừng,2,Khác dấu và hoa/thường
+../../crops/test/images/1508_0092.png,im1508.jpg,92,100,19,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1509_0004.png,im1509.jpg,4,toa,na,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1522_0008.png,im1522.jpg,8,Khách!,kháeh!,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1524_0010.png,im1524.jpg,10,KHÁCH:,KHACH,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1524_0011.png,im1524.jpg,11,10h:00,101.00,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1524_0044.png,im1524.jpg,44,0915731727,0916731720,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1524_0046.png,im1524.jpg,46,Cây,Cý,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1528_0003.png,im1528.jpg,3,ỦY,UỶ,2,Chỉ khác dấu/đ
+../../crops/test/images/1531_0003.png,im1531.jpg,3,THƯƠNG,TRƯỜNG,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1531_0011.png,im1531.jpg,11,LÝ,%,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1532_0027.png,im1532.jpg,27,77,TÍ,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1532_0050.png,im1532.jpg,50,0703877067,070 3877.067,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1533_0011.png,im1533.jpg,11,đoàn,đoàn :,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1535_0006.png,im1535.jpg,6,caFe,Cafe,2,Chỉ khác hoa/thường
+../../crops/test/images/1537_0021.png,im1537.jpg,21,2017,1011,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1537_0032.png,im1537.jpg,32,PHỔ,HỐ,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1539_0003.png,im1539.jpg,3,Mừng,Mường,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1539_0004.png,im1539.jpg,4,Xuân,Xoàn,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1539_0007.png,im1539.jpg,7,2017,20T,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0023.png,im1541.jpg,23,CGV,CSÀV,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0048.png,im1541.jpg,48,BEYOND,HEOND,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0050.png,im1541.jpg,50,"""NOW",7NOV,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0052.png,im1541.jpg,52,LIVE,L/VI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0053.png,im1541.jpg,53,WITH,GITN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0054.png,im1541.jpg,54,CGV,CCÝ,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0059.png,im1541.jpg,59,YOUR,FOUX,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0061.png,im1541.jpg,61,MOV,HON,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0063.png,im1541.jpg,63,V,ny,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0065.png,im1541.jpg,65,YO,W,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0069.png,im1541.jpg,69,LESS,LKS5,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0070.png,im1541.jpg,70,OUTLI,QUYLI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1543_0008.png,im1543.jpg,8,Chuyên:,chuyến:,2,Khác dấu và hoa/thường
+../../crops/test/images/1543_0014.png,im1543.jpg,14,nam,oom,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1543_0017.png,im1543.jpg,17,"Căt,",Cất.,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1543_0020.png,im1543.jpg,20,"nhuộm,","nhườm,",2,Chỉ khác dấu/đ
+../../crops/test/images/1543_0029.png,im1543.jpg,29,Nhuận,Nhườn,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1545_0009.png,im1545.jpg,9,I,15,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1552_0013.png,im1552.jpg,13,TÀI,TR,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1552_0017.png,im1552.jpg,17,DẤU,DHD,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1552_0019.png,im1552.jpg,19,BẠCH,LỊCH,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1552_0020.png,im1552.jpg,20,ĐẰNG,ĐÁN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1554_0007.png,im1554.jpg,7,8934637,9934627,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1554_0010.png,im1554.jpg,10,can,Yn,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1554_0013.png,im1554.jpg,13,vị,VA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1554_0040.png,im1554.jpg,40,cơ,CƠ,2,Chỉ khác hoa/thường
+../../crops/test/images/1554_0041.png,im1554.jpg,41,sở,SỞ,2,Chỉ khác hoa/thường
+../../crops/test/images/1554_0063.png,im1554.jpg,63,RAU,AAO,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1554_0068.png,im1554.jpg,68,Calories,Calones,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1554_0092.png,im1554.jpg,92,Hươn,Phươn,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1557_0013.png,im1557.jpg,13,CÓ,có,2,Chỉ khác hoa/thường
+../../crops/test/images/1557_0020.png,im1557.jpg,20,NT10,NTID,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1558_0020.png,im1558.jpg,20,XI,Q,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1559_0004.png,im1559.jpg,4,QÚY,QUÝ,2,Chỉ khác dấu/đ
+../../crops/test/images/1560_0011.png,im1560.jpg,11,DÂY,ĐÁY,2,Chỉ khác dấu/đ
+../../crops/test/images/1560_0014.png,im1560.jpg,14,KHÓA,KHOÁ,2,Chỉ khác dấu/đ
+../../crops/test/images/1560_0015.png,im1560.jpg,15,KHÓA,KHOÁ,2,Chỉ khác dấu/đ
+../../crops/test/images/1560_0027.png,im1560.jpg,27,Đậu,đấu,2,Khác dấu và hoa/thường
+../../crops/test/images/1560_0037.png,im1560.jpg,37,illows,dlows,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1560_0039.png,im1560.jpg,39,Dép,Dúc,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1560_0043.png,im1560.jpg,43,và,VÌ,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1560_0044.png,im1560.jpg,44,đủ,AN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1566_0010.png,im1566.jpg,10,TÊN,VIÊN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1566_0019.png,im1566.jpg,19,ET,11,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1568_0007.png,im1568.jpg,7,SÁNG,SÁC,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1568_0009.png,im1568.jpg,9,TÔ,FO,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0012.png,im1570.jpg,12,0366049940,0366009140,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0015.png,im1570.jpg,15,nhọn,nhợt,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0019.png,im1570.jpg,19,bó,6,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0025.png,im1570.jpg,25,80,SƠ,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0037.png,im1570.jpg,37,k,VA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0045.png,im1570.jpg,45,bó,06,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0047.png,im1570.jpg,47,bó,C,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0049.png,im1570.jpg,49,bó,65,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0050.png,im1570.jpg,50,cánh,tãnh,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0053.png,im1570.jpg,53,bó,H,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0066.png,im1570.jpg,66,2)Ly,2yly,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0068.png,im1570.jpg,68,thường,Kường,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0069.png,im1570.jpg,69,3)Hoa,3)HOA,2,Chỉ khác hoa/thường
+../../crops/test/images/1570_0072.png,im1570.jpg,72,chướng,hướn,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0077.png,im1570.jpg,77,lưới,lưa,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0080.png,im1570.jpg,80,cương,Cường,2,Khác dấu và hoa/thường
+../../crops/test/images/1570_0086.png,im1570.jpg,86,tú,dư,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1573_0013.png,im1573.jpg,13,túi,tu,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1573_0021.png,im1573.jpg,21,từ,rư,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1573_0025.png,im1573.jpg,25,ENVELOPED,FNVELOPEO,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1573_0068.png,im1573.jpg,68,cơ,CƠ,2,Chỉ khác hoa/thường
+../../crops/test/images/1574_0010.png,im1574.jpg,10,SƠ,80,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1578_0020.png,im1578.jpg,20,Wi,DI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1578_0025.png,im1578.jpg,25,0922,0372,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1579_0004.png,im1579.jpg,4,THU,Tru,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1580_0033.png,im1580.jpg,33,PHỐ,Pid,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1580_0035.png,im1580.jpg,35,chanh,chun,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1580_0038.png,im1580.jpg,38,PHỐ,Phố,2,Chỉ khác hoa/thường
+../../crops/test/images/1581_0001.png,im1581.jpg,1,ỦY,UỶ,2,Chỉ khác dấu/đ
+../../crops/test/images/1581_0040.png,im1581.jpg,40,XỬ,xử,2,Chỉ khác hoa/thường
+../../crops/test/images/1581_0054.png,im1581.jpg,54,ỦY,UỶ,2,Chỉ khác dấu/đ
+../../crops/test/images/1581_0065.png,im1581.jpg,65,02838750434,0283 8750034,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1582_0016.png,im1582.jpg,16,CÓ,có,2,Chỉ khác hoa/thường
+../../crops/test/images/1583_0029.png,im1583.jpg,29,Pham,Phanh,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0029.png,im1585.jpg,29,MA,VIA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0030.png,im1585.jpg,30,MA,VIA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0050.png,im1585.jpg,50,Bạc,Bix,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0053.png,im1585.jpg,53,Tài,TÀI,2,Chỉ khác hoa/thường
+../../crops/test/images/1585_0068.png,im1585.jpg,68,VILAF,VILIAT,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0074.png,im1585.jpg,74,TRIỂN,THIÊN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0086.png,im1585.jpg,86,VIETCAPITAL,VIETCAPTTAI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0099.png,im1585.jpg,99,NG,ĐỊG,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0139.png,im1585.jpg,139,CO,cr,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1587_0014.png,im1587.jpg,14,08',"03""",2,Khác nội dung/khoảng trắng
+../../crops/test/images/1587_0015.png,im1587.jpg,15,38',"39""",2,Khác nội dung/khoảng trắng
+../../crops/test/images/1587_0020.png,im1587.jpg,20,"5""",T,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1587_0026.png,im1587.jpg,26,DATE,DAI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1589_0008.png,im1589.jpg,8,-,19,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0024.png,im1592.jpg,24,HÀN...,HẢNH...,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0046.png,im1592.jpg,46,văn,Từn,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0053.png,im1592.jpg,53,Emai,Eni,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1597_0017.png,im1597.jpg,17,01-08/03/2020,01 - 08/03/2020,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1597_0020.png,im1597.jpg,20,hóa,hoá,2,Chỉ khác dấu/đ
+../../crops/test/images/1600_0001.png,im1600.jpg,1,NHA,NA7,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1603_0013.png,im1603.jpg,13,MB,VE,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1603_0060.png,im1603.jpg,60,AUDIO,RUOIO,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1605_0011.png,im1605.jpg,11,tiệm,tiệrn,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1605_0028.png,im1605.jpg,28,ĐÂU,DAU,2,Chỉ khác dấu/đ
+../../crops/test/images/1609_0008.png,im1609.jpg,8,"TẢI,","TÃI ,",2,Khác nội dung/khoảng trắng
+../../crops/test/images/1611_0008.png,im1611.jpg,8,MIỄN,MINNN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1617_0033.png,im1617.jpg,33,được,được!!,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1620_0024.png,im1620.jpg,24,01204911155,0120419111155,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1622_0007.png,im1622.jpg,7,0937005137,0937 005 137,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1622_0020.png,im1622.jpg,20,"TUÝ,","TÚY,",2,Chỉ khác dấu/đ
+../../crops/test/images/1625_0016.png,im1625.jpg,16,CƠ,cơ,2,Chỉ khác hoa/thường
+../../crops/test/images/1630_0014.png,im1630.jpg,14,LUỸ,LŨY,2,Chỉ khác dấu/đ
+../../crops/test/images/1630_0037.png,im1630.jpg,37,kcal,keai,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1632_0007.png,im1632.jpg,7,I-ỐT,KỐT,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1632_0018.png,im1632.jpg,18,Tuỷ,Tủy,2,Chỉ khác dấu/đ
+../../crops/test/images/1632_0027.png,im1632.jpg,27,Knorr,Knơvr,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0033.png,im1634.jpg,33,10,IO,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0039.png,im1634.jpg,39,LẨU,Lẩu,2,Chỉ khác hoa/thường
+../../crops/test/images/1634_0046.png,im1634.jpg,46,CAC,CH,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0051.png,im1634.jpg,51,Q.10,610,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0052.png,im1634.jpg,52,n,11,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0078.png,im1634.jpg,78,Chu,Chút,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0092.png,im1634.jpg,92,"""XANH","""TINH",2,Khác nội dung/khoảng trắng
+../../crops/test/images/1639_0008.png,im1639.jpg,8,Coffee,Coffo2,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1640_0029.png,im1640.jpg,29,0965180559,0965 180 559,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1640_0035.png,im1640.jpg,35,"đen,",den.,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1640_0045.png,im1640.jpg,45,số,Sổ,2,Khác dấu và hoa/thường
+../../crops/test/images/1640_0063.png,im1640.jpg,63,HOA,Hoà,2,Khác dấu và hoa/thường
+../../crops/test/images/1643_0030.png,im1643.jpg,30,TOÀ,TÒA,2,Chỉ khác dấu/đ
+../../crops/test/images/1643_0057.png,im1643.jpg,57,09,8,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1644_0027.png,im1644.jpg,27,iSCHOO,"LSCHOO,",2,Khác nội dung/khoảng trắng
+../../crops/test/images/1644_0030.png,im1644.jpg,30,SCHOOL,SCHIOD,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1644_0031.png,im1644.jpg,31,iSCHOO,LSCHOL,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1644_0034.png,im1644.jpg,34,iSCHO,LSCHC,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1644_0042.png,im1644.jpg,42,iSCHO,ISCHC,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1645_0023.png,im1645.jpg,23,37,/,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1647_0014.png,im1647.jpg,14,-50%,"50,",2,Khác nội dung/khoảng trắng
+../../crops/test/images/1647_0027.png,im1647.jpg,27,DO,đô,2,Khác dấu và hoa/thường
+../../crops/test/images/1648_0006.png,im1648.jpg,6,ay,Cây,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1648_0023.png,im1648.jpg,23,Giải,Giiii,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1651_0001.png,im1651.jpg,1,DK,MOK,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1651_0016.png,im1651.jpg,16,Sơn,Sơn -,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1653_0007.png,im1653.jpg,7,MF,Mai,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1653_0008.png,im1653.jpg,8,a,Ki,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1656_0007.png,im1656.jpg,7,2293+,2293 -,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1657_0006.png,im1657.jpg,6,Khánh,Chấnh,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1662_0064.png,im1662.jpg,64,QUANG,QUAI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1662_0090.png,im1662.jpg,90,COM,ICON,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1664_0002.png,im1664.jpg,2,QUẢNG,GIẢNG,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1665_0006.png,im1665.jpg,6,SƠN,SOR,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1665_0012.png,im1665.jpg,12,SON,HOÀN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1666_0001.png,im1666.jpg,1,BỘ,ĐỆ,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1666_0004.png,im1666.jpg,4,ĐÀO,CÀ-,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1666_0005.png,im1666.jpg,5,TẠO,TAC,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1669_0003.png,im1669.jpg,3,HẢI,HÀ1,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1669_0019.png,im1669.jpg,19,0706.289612,0706.289 112,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1671_0010.png,im1671.jpg,10,NAM,HAN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1671_0056.png,im1671.jpg,56,VIET,HIỆT,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1671_0059.png,im1671.jpg,59,MEXCO,MDICO,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1671_0062.png,im1671.jpg,62,TY,11,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1671_0063.png,im1671.jpg,63,CÔ,tỉ,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1673_0024.png,im1673.jpg,24,THUỶ,THỦY,2,Chỉ khác dấu/đ
+../../crops/test/images/1675_0020.png,im1675.jpg,20,Office,Ollice,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1676_0055.png,im1676.jpg,55,BAM,BẢN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1676_0127.png,im1676.jpg,127,"mắt,",mất,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1681_0003.png,im1681.jpg,3,Em,Kn,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1681_0005.png,im1681.jpg,5,Bẫm,Bắn,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1681_0006.png,im1681.jpg,6,99259629,99 259 629,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1684_0009.png,im1684.jpg,9,09024858,0902 48 58,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1684_0023.png,im1684.jpg,23,Loại:,Loạico,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1684_0039.png,im1684.jpg,39,"NẺ,","nẻ,",2,Chỉ khác hoa/thường
+../../crops/test/images/1688_0001.png,im1688.jpg,1,22,-,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1688_0037.png,im1688.jpg,37,CÁC,ĐÍC,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1688_0039.png,im1688.jpg,39,HONDA,HINFA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1689_0006.png,im1689.jpg,6,ĐIA,TTA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1689_0007.png,im1689.jpg,7,ĐAO,DAD,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1690_0023.png,im1690.jpg,23,Chiếng,Chững,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1691_0013.png,im1691.jpg,13,đều,đến,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1691_0016.png,im1691.jpg,16,một,mệr,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1691_0017.png,im1691.jpg,17,người.,"""gươi.",2,Khác nội dung/khoảng trắng
+../../crops/test/images/1691_0029.png,im1691.jpg,29,XUÂT,XUÁS,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1692_0012.png,im1692.jpg,12,PEOPLE'S,PEOPLE8,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1692_0017.png,im1692.jpg,17,SỐ,56,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1692_0018.png,im1692.jpg,18,47,KT,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1692_0019.png,im1692.jpg,19,ĐƯỜNG,ĐUÊNG,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1692_0021.png,im1692.jpg,21,"DUẨN,",ĐUẨN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1695_0026.png,im1695.jpg,26,HỎA,HOÁ,2,Chỉ khác dấu/đ
+../../crops/test/images/1696_0020.png,im1696.jpg,20,LOẠI,LOẠI..,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1700_0025.png,im1700.jpg,25,P.,R,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0008.png,im1701.jpg,8,ĐC:,K:,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0013.png,im1701.jpg,13,TRẦN,TRUÂN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0016.png,im1701.jpg,16,ĐỐNG,DONG,2,Chỉ khác dấu/đ
+../../crops/test/images/1701_0018.png,im1701.jpg,18,HN,VI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0043.png,im1701.jpg,43,Hoàng,Hương,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0044.png,im1701.jpg,44,Hoa,He,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0046.png,im1701.jpg,46,Ba,-,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0047.png,im1701.jpg,47,"Đình,",Định,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1703_0012.png,im1703.jpg,12,Tel.,TEL.,2,Chỉ khác hoa/thường
+../../crops/test/images/1703_0015.png,im1703.jpg,15,0703823252,0713823232,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1704_0014.png,im1704.jpg,14,ATGT,ATOI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1707_0018.png,im1707.jpg,18,HOÀ,HÒA,2,Chỉ khác dấu/đ
+../../crops/test/images/1709_0015.png,im1709.jpg,15,64,GF,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1709_0016.png,im1709.jpg,16,148,120,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1712_0016.png,im1712.jpg,16,LÒNG,NING,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0044.png,im1713.jpg,44,of,OI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0050.png,im1713.jpg,50,CÁC,CM,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0051.png,im1713.jpg,51,BẠN,KẠP,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0056.png,im1713.jpg,56,CÁC,CAI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0104.png,im1713.jpg,104,Hanoi,Hanh,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0107.png,im1713.jpg,107,"16-18,",1618,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0109.png,im1713.jpg,109,Hanoi,"Hanai,",2,Khác nội dung/khoảng trắng
+../../crops/test/images/1714_0014.png,im1714.jpg,14,martin,marving,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1716_0012.png,im1716.jpg,12,LINH,IN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1717_0015.png,im1717.jpg,15,AN,33,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1718_0020.png,im1718.jpg,20,Multimedia,Multimela,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1718_0026.png,im1718.jpg,26,VIÊN,VIAT,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1718_0030.png,im1718.jpg,30,HỢP,HR,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1718_0032.png,im1718.jpg,32,42 08,4200,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1718_0033.png,im1718.jpg,33,99,N,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1724_0015.png,im1724.jpg,15,GLOBALG.A.P,GLOBALGAP,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1724_0034.png,im1724.jpg,34,THUỶ,THỦY,2,Chỉ khác dấu/đ
+../../crops/test/images/1725_0010.png,im1725.jpg,10,LaVie,laVic,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0011.png,im1725.jpg,11,LaVie,Lai,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0025.png,im1725.jpg,25,338.299,338.200,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0073.png,im1725.jpg,73,AQUAFINA,AQUAING,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0074.png,im1725.jpg,74,AQUAFINA,AQUANA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0083.png,im1725.jpg,83,Lix,LIX,2,Chỉ khác hoa/thường
+../../crops/test/images/1725_0084.png,im1725.jpg,84,Lix,LX,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1726_0022.png,im1726.jpg,22,HẠNH -,"HẠNH,",2,Khác nội dung/khoảng trắng
+../../crops/test/images/1727_0005.png,im1727.jpg,5,Thuỳ,Thủy,2,Chỉ khác dấu/đ
+../../crops/test/images/1729_0012.png,im1729.jpg,12,0939 307 898,0939307898,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1729_0017.png,im1729.jpg,17,TRIỆU,TRIED,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1734_0007.png,im1734.jpg,7,ÂL,AN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1734_0011.png,im1734.jpg,11,13,5,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1737_0008.png,im1737.jpg,8,Mì,U,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1737_0014.png,im1737.jpg,14,Mì,DO,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0027.png,im1738.jpg,27,05 : 00,05:00,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0029.png,im1738.jpg,29,13 : 00,13:00,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0032.png,im1738.jpg,32,22 : 00,22:00,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0039.png,im1738.jpg,39,VĂN,VIA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0052.png,im1738.jpg,52,ĐẠO,BẢO,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0056.png,im1738.jpg,56,NGŨ,G,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0061.png,im1738.jpg,61,ĐỔNG,BỒNG,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0067.png,im1738.jpg,67,HỌC,NC,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1741_0012.png,im1741.jpg,12,KHU,KND,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1744_0004.png,im1744.jpg,4,KI-ỐT,KIFOT,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1744_0009.png,im1744.jpg,9,"THÁNH,","THANN,",2,Khác nội dung/khoảng trắng
+../../crops/test/images/1745_0008.png,im1745.jpg,8,52-P2,22-12,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1746_0027.png,im1746.jpg,27,Nội,NỘI,2,Chỉ khác hoa/thường
+../../crops/test/images/1747_0022.png,im1747.jpg,22,"CẢNH,",CÁNH,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1747_0025.png,im1747.jpg,25,"NGHÉ,",NGHE,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1747_0027.png,im1747.jpg,27,"1,",I,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1749_0036.png,im1749.jpg,36,SỐ,số,2,Chỉ khác hoa/thường
+../../crops/test/images/1750_0001.png,im1750.jpg,1,UỶ,ŨY,2,Chỉ khác dấu/đ
+../../crops/test/images/1750_0008.png,im1750.jpg,8,SỞ,sở,2,Chỉ khác hoa/thường
+../../crops/test/images/1750_0030.png,im1750.jpg,30,SỞ,3,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1750_0032.png,im1750.jpg,32,THƯƠNG,MƯƠNG,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1751_0009.png,im1751.jpg,9,SỐ,số,2,Chỉ khác hoa/thường
+../../crops/test/images/1751_0024.png,im1751.jpg,24,SOYA,NƠYA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1751_0027.png,im1751.jpg,27,SOYA,50YA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1751_0037.png,im1751.jpg,37,Soya,Sọụa,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1751_0064.png,im1751.jpg,64,Mới,Ma,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1753_0011.png,im1753.jpg,11,GỬI -,GỬIL.,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1754_0001.png,im1754.jpg,1,IẾP,TÊP,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1754_0004.png,im1754.jpg,4,SƠ,"SO,",2,Khác nội dung/khoảng trắng
+../../crops/test/images/1755_0013.png,im1755.jpg,13,HO,HƠI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1755_0024.png,im1755.jpg,24,VERY,VEIT,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1755_0069.png,im1755.jpg,69,59 - U1,59-U1,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1755_0081.png,im1755.jpg,81,46,%,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1758_0006.png,im1758.jpg,6,Các,CÁC,2,Chỉ khác hoa/thường
+../../crops/test/images/1758_0009.png,im1758.jpg,9,LỘ,10,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1759_0001.png,im1759.jpg,1,TRẦN,THẮN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1762_0009.png,im1762.jpg,9,""" ...","""..",2,Khác nội dung/khoảng trắng
+../../crops/test/images/1762_0011.png,im1762.jpg,11,CÓ,có,2,Chỉ khác hoa/thường
+../../crops/test/images/1762_0024.png,im1762.jpg,24,"NGƯỜI "".","NGƯỜI""""",2,Khác nội dung/khoảng trắng
+../../crops/test/images/1766_0006.png,im1766.jpg,6,dưỡng!,dương,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1766_0019.png,im1766.jpg,19,30Z - 5357,30Z 5357,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1772_0029.png,im1772.jpg,29,ATM,KYM,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1774_0021.png,im1774.jpg,21,103,008,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1774_0023.png,im1774.jpg,23,11,H,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1774_0030.png,im1774.jpg,30,H,00,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1775_0001.png,im1775.jpg,1,Welcome,woelcome,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1775_0007.png,im1775.jpg,7,Nha,Vhc,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1778_0005.png,im1778.jpg,5,DŨNG,ĐỨNG,2,Chỉ khác dấu/đ
+../../crops/test/images/1778_0033.png,im1778.jpg,33,ĐÀN,BẢN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1778_0052.png,im1778.jpg,52,VỆ,vị,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1778_0056.png,im1778.jpg,56,VẬT,VẶI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1781_0001.png,im1781.jpg,1,72,VI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1782_0023.png,im1782.jpg,23,KEM,Kin,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1786_0001.png,im1786.jpg,1,THOẢ,THỎA,2,Chỉ khác dấu/đ
+../../crops/test/images/1787_0013.png,im1787.jpg,13,MINH,NIN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1788_0053.png,im1788.jpg,53,0988 291 391,0988291391,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1788_0055.png,im1788.jpg,55,CỦ,củ,2,Chỉ khác hoa/thường
+../../crops/test/images/1788_0063.png,im1788.jpg,63,CỦ,củ,2,Chỉ khác hoa/thường
+../../crops/test/images/1788_0064.png,im1788.jpg,64,NĂ,NÃI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1791_0013.png,im1791.jpg,13,ĐỨC,AC,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1791_0018.png,im1791.jpg,18,PHÒNG,PHƯƠNG,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1791_0036.png,im1791.jpg,36,RA,E1,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1791_0058.png,im1791.jpg,58,AN,M,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1791_0059.png,im1791.jpg,59,TOÀN,THÀA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1791_0062.png,im1791.jpg,62,LÀ,11,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1797_0003.png,im1797.jpg,3,ĐỨC,Đức,2,Chỉ khác hoa/thường
+../../crops/test/images/1797_0007.png,im1797.jpg,7,KHỞI,KHỦA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1797_0012.png,im1797.jpg,12,01/11/2011,011112011,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1798_0005.png,im1798.jpg,5,HOC,RỚC,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1799_0002.png,im1799.jpg,2,MARINA,MARIMI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1799_0024.png,im1799.jpg,24,0947 216 882,0947216882,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1800_0009.png,im1800.jpg,9,DU,op,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1800_0010.png,im1800.jpg,10,LỊCH,AICH,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1802_0001.png,im1802.jpg,1,60,QU,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1802_0002.png,im1802.jpg,2,NĂM,NÀI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1802_0005.png,im1802.jpg,5,.1,1.,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1804_0007.png,im1804.jpg,7,TUYỂN,TVIỂN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1805_0022.png,im1805.jpg,22,MẠI,HÁI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1809_0003.png,im1809.jpg,3,THUỶ,THỬY,2,Chỉ khác dấu/đ
+../../crops/test/images/1810_0012.png,im1810.jpg,12,Xã,xà,2,Khác dấu và hoa/thường
+../../crops/test/images/1810_0021.png,im1810.jpg,21,073946352,073546362,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1814_0007.png,im1814.jpg,7,KHOẺ,KHỎE,2,Chỉ khác dấu/đ
+../../crops/test/images/1819_0003.png,im1819.jpg,3,HAI,HANH,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1819_0004.png,im1819.jpg,4,AUTO,AVTN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1819_0024.png,im1819.jpg,24,Lai,LH,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1819_0026.png,im1819.jpg,26,"Nam,",Nar:,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1822_0010.png,im1822.jpg,10,Tân,Tam,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1822_0011.png,im1822.jpg,11,Thành,Thạch,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1822_0016.png,im1822.jpg,16,Bến,Bấm,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1827_0001.png,im1827.jpg,1,VinMart,Vianart,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1827_0043.png,im1827.jpg,43,FA,TL,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1833_0016.png,im1833.jpg,16,THUÝ,THÚY,2,Chỉ khác dấu/đ
+../../crops/test/images/1833_0046.png,im1833.jpg,46,HÀ,WA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1833_0051.png,im1833.jpg,51,ĐẰNG,DÀNG,2,Chỉ khác dấu/đ
+../../crops/test/images/1833_0082.png,im1833.jpg,82,QĐTL:,QDTL.,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1834_0009.png,im1834.jpg,9,Trúc,7núc,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1836_0042.png,im1836.jpg,42,CẤP,C,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1836_0045.png,im1836.jpg,45,GIÁ,GF,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1836_0048.png,im1836.jpg,48,ĐƠN,ĐCH,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1837_0001.png,im1837.jpg,1,MÙA,ĐƯA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1837_0010.png,im1837.jpg,10,NĂM,NAN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1837_0011.png,im1837.jpg,11,LG,40,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1837_0012.png,im1837.jpg,12,OFF,VẸF,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1838_0008.png,im1838.jpg,8,HO,và,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1838_0021.png,im1838.jpg,21,HOÀ,HÒA,2,Chỉ khác dấu/đ
+../../crops/test/images/1838_0028.png,im1838.jpg,28,TUÝ,TÚY,2,Chỉ khác dấu/đ
+../../crops/test/images/1842_0001.png,im1842.jpg,1,51R.019.75,51R-019-75,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1845_0005.png,im1845.jpg,5,MERRY,MERROC,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1845_0007.png,im1845.jpg,7,XUAT,KUÂT,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1845_0012.png,im1845.jpg,12,0975.95.85.25,0975.95.5525,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1846_0002.png,im1846.jpg,2,THỊ,7H,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1846_0004.png,im1846.jpg,4,GI,CII,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1847_0026.png,im1847.jpg,26,E,I:,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1847_0027.png,im1847.jpg,27,K,IC,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1847_0033.png,im1847.jpg,33,NHÂN,KHÁN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1848_0023.png,im1848.jpg,23,alt,oll,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1848_0025.png,im1848.jpg,25,enter,ertter,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1848_0051.png,im1848.jpg,51,RICH,RIER,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1849_0014.png,im1849.jpg,14,SỐ,số,2,Chỉ khác hoa/thường
+../../crops/test/images/1851_0001.png,im1851.jpg,1,ĐẤU,DÂU,2,Chỉ khác dấu/đ
+../../crops/test/images/1853_0022.png,im1853.jpg,22,08.3860.3368,08.3860 3358,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1859_0001.png,im1859.jpg,1,CỬU,cỬu,2,Chỉ khác hoa/thường
+../../crops/test/images/1859_0003.png,im1859.jpg,3,TOURIST,TOURIFF,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1859_0014.png,im1859.jpg,14,0703823848,0703.823 848,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1861_0034.png,im1861.jpg,34,All,AII,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1863_0006.png,im1863.jpg,6,BÙ,SỬ,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1863_0009.png,im1863.jpg,9,HỨNG,NƯNG,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1864_0033.png,im1864.jpg,33,CGV,CIH,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1867_0006.png,im1867.jpg,6,MỜI,Mới,2,Khác dấu và hoa/thường
+../../crops/test/images/1869_0026.png,im1869.jpg,26,Thuỵ,Thụy,2,Chỉ khác dấu/đ
+../../crops/test/images/1872_0005.png,im1872.jpg,5,II,Í,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1874_0003.png,im1874.jpg,3,LÊ,K,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1874_0004.png,im1874.jpg,4,VĂN,LÂN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1874_0010.png,im1874.jpg,10,Cà,15,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1875_0003.png,im1875.jpg,3,TMCP,TNC,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1876_0001.png,im1876.jpg,1,ĐẠI,DAI,2,Chỉ khác dấu/đ
+../../crops/test/images/1876_0004.png,im1876.jpg,4,TẾ,RE,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1876_0009.png,im1876.jpg,9,2016,20TE,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1877_0004.png,im1877.jpg,4,DIỄN,ĐIẾN,2,Chỉ khác dấu/đ
+../../crops/test/images/1880_0026.png,im1880.jpg,26,GIA,FIX,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1881_0002.png,im1881.jpg,2,chips,chúp,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1881_0012.png,im1881.jpg,12,Shrimp,Shrin,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1881_0024.png,im1881.jpg,24,LƯỢNG,TƯƠNG,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1882_0017.png,im1882.jpg,17,easure,engure,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1884_0005.png,im1884.jpg,5,60m,com,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1885_0021.png,im1885.jpg,21,0912699156,0912 699 156,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1885_0024.png,im1885.jpg,24,BÚN,RÍN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1885_0029.png,im1885.jpg,29,0866464688,0866 464 688,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1885_0055.png,im1885.jpg,55,Bình,binh,2,Khác dấu và hoa/thường
+../../crops/test/images/1888_0004.png,im1888.jpg,4,TERMIST,TERMITE,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1888_0005.png,im1888.jpg,5,PEST,PLIT,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1889_0001.png,im1889.jpg,1,PETRO28,FETFO28,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1889_0014.png,im1889.jpg,14,Trị,TY,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1889_0016.png,im1889.jpg,16,Gò,CÓ,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1889_0017.png,im1889.jpg,17,Vấp,VF,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1889_0020.png,im1889.jpg,20,08.38942500,08.3394 2500,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1889_0022.png,im1889.jpg,22,petro28@agtex.com.vn,petro2800gtex.com.vn,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1890_0013.png,im1890.jpg,13,SỐ,số,2,Chỉ khác hoa/thường
+../../crops/test/images/1890_0021.png,im1890.jpg,21,FISRT,FIRST,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1892_0004.png,im1892.jpg,4,(1),(D,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1893_0022.png,im1893.jpg,22,"Hoà,","Hòa,",2,Chỉ khác dấu/đ
+../../crops/test/images/1895_0006.png,im1895.jpg,6,24,SA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1895_0007.png,im1895.jpg,7,7,24,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1895_0008.png,im1895.jpg,8,SA,7,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1895_0034.png,im1895.jpg,34,taphuvi@tanphuvinh.com.vn,taphuviotanphuvanh.com.vn,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1898_0004.png,im1898.jpg,4,CÓ,có,2,Chỉ khác hoa/thường
+../../crops/test/images/1899_0025.png,im1899.jpg,25,TUÝ,TÚY,2,Chỉ khác dấu/đ
+../../crops/test/images/1904_0014.png,im1904.jpg,14,CAO,CÀD,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1904_0015.png,im1904.jpg,15,NGUY,ROUY,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1905_0010.png,im1905.jpg,10,CÀ,cà,2,Chỉ khác hoa/thường
+../../crops/test/images/1911_0005.png,im1911.jpg,5,Chuyên,Nhuyến,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1916_0023.png,im1916.jpg,23,THUỶ,THỦY,2,Chỉ khác dấu/đ
+../../crops/test/images/1920_0006.png,im1920.jpg,6,ĐỊNH,DINH,2,Chỉ khác dấu/đ
+../../crops/test/images/1920_0019.png,im1920.jpg,19,tạo,Loo,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1920_0026.png,im1920.jpg,26,hoàn,hành,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1921_0002.png,im1921.jpg,2,GHỈ,PHI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1924_0006.png,im1924.jpg,6,NĂM,HÂM,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1925_0021.png,im1925.jpg,21,PHẨM,PHẦN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1926_0006.png,im1926.jpg,6,CƠ,cơ,2,Chỉ khác hoa/thường
+../../crops/test/images/1932_0001.png,im1932.jpg,1,ỦY,UỶ,2,Chỉ khác dấu/đ
+../../crops/test/images/1933_0007.png,im1933.jpg,7,NÉN,AẾN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1933_0012.png,im1933.jpg,12,HOÀ,HÒA,2,Chỉ khác dấu/đ
+../../crops/test/images/1937_0016.png,im1937.jpg,16,CŨ,cũ,2,Chỉ khác hoa/thường
+../../crops/test/images/1937_0024.png,im1937.jpg,24,HỒ,C,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1937_0026.png,im1937.jpg,26,HỒ,MÔ,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1937_0028.png,im1937.jpg,28,12.991187,012991187,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1941_0016.png,im1941.jpg,16,Golden,Goidon,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1941_0018.png,im1941.jpg,18,9AM,RIAM,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1943_0001.png,im1943.jpg,1,VƯỜN,VỪƠN,2,Chỉ khác dấu/đ
+../../crops/test/images/1943_0011.png,im1943.jpg,11,hợp,+ớp,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1947_0032.png,im1947.jpg,32,0733836975,073.3836.975,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1948_0032.png,im1948.jpg,32,HOÀ,HÒA,2,Chỉ khác dấu/đ
+../../crops/test/images/1951_0004.png,im1951.jpg,4,11,n,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1957_0025.png,im1957.jpg,25,GIAO,CIAD,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1957_0029.png,im1957.jpg,29,22,đe,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1959_0002.png,im1959.jpg,2,LOWEEN,LUUEEN,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1960_0002.png,im1960.jpg,2,Kế,x,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1960_0003.png,im1960.jpg,3,An,-,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1963_0031.png,im1963.jpg,31,TÓC,TỐI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1964_0016.png,im1964.jpg,16,SỞ,sở,2,Chỉ khác hoa/thường
+../../crops/test/images/1964_0029.png,im1964.jpg,29,ĐẨY,DẤY,2,Chỉ khác dấu/đ
+../../crops/test/images/1964_0076.png,im1964.jpg,76,CHIỀU,CHIẾU:,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1967_0040.png,im1967.jpg,40,info@sunrise-hr.com.vn,infoCsunrisehr.com.vn,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1968_0028.png,im1968.jpg,28,BIA,IHA,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1969_0001.png,im1969.jpg,1,BÒ,Cò,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1969_0006.png,im1969.jpg,6,LẨU,Lẩu,2,Chỉ khác hoa/thường
+../../crops/test/images/1969_0009.png,im1969.jpg,9,BỐP,Bốp,2,Chỉ khác hoa/thường
+../../crops/test/images/1969_0014.png,im1969.jpg,14,KÈO,Kêo,2,Khác dấu và hoa/thường
+../../crops/test/images/1971_0007.png,im1971.jpg,7,2008,2bh8,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1971_0011.png,im1971.jpg,11,VĂN,Văn,2,Chỉ khác hoa/thường
+../../crops/test/images/1972_0002.png,im1972.jpg,2,NETSPACE,XUTSPACE,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1972_0014.png,im1972.jpg,14,DẠY,ĐẠI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1973_0005.png,im1973.jpg,5,GIÓ,Giơ,2,Khác dấu và hoa/thường
+../../crops/test/images/1980_0016.png,im1980.jpg,16,ROOM,ROOTI,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1984_0003.png,im1984.jpg,3,SEOUL,SEOE,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1990_0042.png,im1990.jpg,42,18001277,1800117,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1995_0017.png,im1995.jpg,17,0886550560,0886 550 560,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1995_0023.png,im1995.jpg,23,truyện,trưyăn,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1995_0026.png,im1995.jpg,26,trái,Trải,2,Khác dấu và hoa/thường
+../../crops/test/images/1995_0027.png,im1995.jpg,27,tim,lĩm,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1995_0028.png,im1995.jpg,28,lỗi,lâu,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0010.png,im1997.jpg,10,tổ,IỔ,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0013.png,im1997.jpg,13,Nam,Narn,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0015.png,im1997.jpg,15,Tp,IP,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0071.png,im1997.jpg,71,CỔ,Eể,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0087.png,im1997.jpg,87,mua,mươ,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0088.png,im1997.jpg,88,sắm,năm,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0089.png,im1997.jpg,89,BT,11,2,Khác nội dung/khoảng trắng
+../../crops/test/images/1501_0008.png,im1501.jpg,8,VỰ,VỰC,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1501_0032.png,im1501.jpg,32,NHỰA,NHỤA,1,Chỉ khác dấu/đ
+../../crops/test/images/1501_0038.png,im1501.jpg,38,COMPANY,CONPANY,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1501_0041.png,im1501.jpg,41,PHÂN,PHĂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1503_0005.png,im1503.jpg,5,PHỐ,PHỔ,1,Chỉ khác dấu/đ
+../../crops/test/images/1503_0011.png,im1503.jpg,11,HỌC,HỘC,1,Chỉ khác dấu/đ
+../../crops/test/images/1503_0014.png,im1503.jpg,14,NGHỆ,NGH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1503_0016.png,im1503.jpg,16,KHUẤ,KHUK,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1506_0005.png,im1506.jpg,5,Ho,Hu,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1507_0007.png,im1507.jpg,7,Ý,Y,1,Chỉ khác dấu/đ
+../../crops/test/images/1508_0011.png,im1508.jpg,11,vụ,v,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0014.png,im1508.jpg,14,xe,x-,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0015.png,im1508.jpg,15,F1,FT,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1508_0118.png,im1508.jpg,118,ường,ương,1,Chỉ khác dấu/đ
+../../crops/test/images/1508_0120.png,im1508.jpg,120,DỊ,Di,1,Khác dấu và hoa/thường
+../../crops/test/images/1509_0011.png,im1509.jpg,11,"101,",101,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1509_0012.png,im1509.jpg,12,B2,82,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1509_0019.png,im1509.jpg,19,THEAST,THEASY,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1512_0001.png,im1512.jpg,1,Gà,Cà,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1513_0006.png,im1513.jpg,6,Dậy,Dạy,1,Chỉ khác dấu/đ
+../../crops/test/images/1514_0002.png,im1514.jpg,2,THAO,THẠO,1,Chỉ khác dấu/đ
+../../crops/test/images/1514_0023.png,im1514.jpg,23,0913.889124,0913.889 124,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1517_0007.png,im1517.jpg,7,h,.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1517_0013.png,im1517.jpg,13,NGHỈ,NGHỈ),1,Khác nội dung/khoảng trắng
+../../crops/test/images/1517_0032.png,im1517.jpg,32,DẪN,DÂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1519_0015.png,im1519.jpg,15,01.254.200.971,01.254.200.977,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1520_0004.png,im1520.jpg,4,XẤY,XÂY,1,Chỉ khác dấu/đ
+../../crops/test/images/1521_0003.png,im1521.jpg,3,ĐỖNG,ĐỐNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1522_0011.png,im1522.jpg,11,KON,HON,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1522_0013.png,im1522.jpg,13,CITY,CITYI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1523_0023.png,im1523.jpg,23,Tàu,Tàu),1,Khác nội dung/khoảng trắng
+../../crops/test/images/1524_0004.png,im1524.jpg,4,Cây,Cậy,1,Chỉ khác dấu/đ
+../../crops/test/images/1524_0006.png,im1524.jpg,6,289,299,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1524_0007.png,im1524.jpg,7,MỞ,MỨ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1524_0009.png,im1524.jpg,9,ĐÓN,ĐÚN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1524_0018.png,im1524.jpg,18,VU,VỤ,1,Chỉ khác dấu/đ
+../../crops/test/images/1524_0031.png,im1524.jpg,31,HỌP,HỢP,1,Chỉ khác dấu/đ
+../../crops/test/images/1524_0047.png,im1524.jpg,47,Me,We,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1524_0050.png,im1524.jpg,50,ĐÃI,ĐÁI,1,Chỉ khác dấu/đ
+../../crops/test/images/1524_0061.png,im1524.jpg,61,ĐẶC,ĐẠC,1,Chỉ khác dấu/đ
+../../crops/test/images/1525_0006.png,im1525.jpg,6,"7,",7.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1525_0008.png,im1525.jpg,8,NHẬT,KHẬT,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1527_0004.png,im1527.jpg,4,/,I,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1527_0011.png,im1527.jpg,11,"CẦU,",CẦU.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1527_0028.png,im1527.jpg,28,OTHER,ƠTHER,1,Chỉ khác dấu/đ
+../../crops/test/images/1527_0034.png,im1527.jpg,34,NOT,NƠT,1,Chỉ khác dấu/đ
+../../crops/test/images/1528_0029.png,im1528.jpg,29,Bỉnh,Bình,1,Chỉ khác dấu/đ
+../../crops/test/images/1531_0001.png,im1531.jpg,1,Y,T,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1531_0008.png,im1531.jpg,8,PHÚC,PHỐC,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1531_0010.png,im1531.jpg,10,12,10,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1531_0012.png,im1531.jpg,12,TỰ,TỤ,1,Chỉ khác dấu/đ
+../../crops/test/images/1531_0013.png,im1531.jpg,13,TRỌNG,TRONG,1,Chỉ khác dấu/đ
+../../crops/test/images/1531_0015.png,im1531.jpg,15,BẾN,SẾN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1532_0016.png,im1532.jpg,16,VÀNG,VĂNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1533_0003.png,im1533.jpg,3,HỒ,HỮ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1533_0008.png,im1533.jpg,8,BÊN,BỀN,1,Chỉ khác dấu/đ
+../../crops/test/images/1534_0021.png,im1534.jpg,21,=,-,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1535_0010.png,im1535.jpg,10,H'MONG,HMONG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1535_0011.png,im1535.jpg,11,APPLe,APPLE,1,Chỉ khác hoa/thường
+../../crops/test/images/1536_0005.png,im1536.jpg,5,ĐÂY!,ĐÂY!!,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1537_0005.png,im1537.jpg,5,TỪ,TƯ,1,Chỉ khác dấu/đ
+../../crops/test/images/1537_0008.png,im1537.jpg,8,từ,Lừ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1537_0026.png,im1537.jpg,26,2017,2011,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1537_0027.png,im1537.jpg,27,2007,2001,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1537_0030.png,im1537.jpg,30,Tặng,Từng,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1538_0006.png,im1538.jpg,6,VÁ,VA,1,Chỉ khác dấu/đ
+../../crops/test/images/1539_0005.png,im1539.jpg,5,Đinh,Dinh,1,Chỉ khác dấu/đ
+../../crops/test/images/1540_0001.png,im1540.jpg,1,Vantech,Vanteth,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1540_0002.png,im1540.jpg,2,R,W,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1540_0007.png,im1540.jpg,7,CO,CC,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0001.png,im1541.jpg,1,XEM,XCM,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0012.png,im1541.jpg,12,TỪ,TỬ,1,Chỉ khác dấu/đ
+../../crops/test/images/1541_0020.png,im1541.jpg,20,CGV,CG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0037.png,im1541.jpg,37,CGV,COV,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0039.png,im1541.jpg,39,CP,CF,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0042.png,im1541.jpg,42,YUMMY,YUMXY,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0047.png,im1541.jpg,47,EVOLVING,LVOLVING,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0049.png,im1541.jpg,49,MOVIES,HOVIES,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0057.png,im1541.jpg,57,THE,TH2,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0062.png,im1541.jpg,62,CGV,COV,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1541_0072.png,im1541.jpg,72,O,0,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1542_0002.png,im1542.jpg,2,GD ,GD,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1542_0057.png,im1542.jpg,57,em.,em7.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1543_0001.png,im1543.jpg,1,ND,NG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1543_0012.png,im1543.jpg,12,kiểu,kiếu,1,Chỉ khác dấu/đ
+../../crops/test/images/1543_0015.png,im1543.jpg,15,nữ,nú,1,Chỉ khác dấu/đ
+../../crops/test/images/1543_0019.png,im1543.jpg,19,"duỗi,","duổi,",1,Chỉ khác dấu/đ
+../../crops/test/images/1543_0025.png,im1543.jpg,25,Sứ,SO,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1543_0026.png,im1543.jpg,26,P.7,P7,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1543_0030.png,im1543.jpg,30,ĐT,ĐI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1547_0002.png,im1547.jpg,2,ĐÀ,ĐA,1,Chỉ khác dấu/đ
+../../crops/test/images/1550_0002.png,im1550.jpg,2,CƠM,CÓM,1,Chỉ khác dấu/đ
+../../crops/test/images/1551_0006.png,im1551.jpg,6,NỘI,MỘI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1552_0005.png,im1552.jpg,5,ĐẰNG,ĐĂNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1552_0027.png,im1552.jpg,27,TỪ,TU,1,Chỉ khác dấu/đ
+../../crops/test/images/1552_0036.png,im1552.jpg,36,SƠN,SƠI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1552_0037.png,im1552.jpg,37,HÀ,MÀ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1553_0008.png,im1553.jpg,8,"09'58'00""","09'58-00""",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1553_0010.png,im1553.jpg,10,109'05'0,109705'0,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1553_0011.png,im1553.jpg,11,09'58,09/58,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1553_0019.png,im1553.jpg,19,46,48,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1554_0003.png,im1554.jpg,3,Canh,canh,1,Chỉ khác hoa/thường
+../../crops/test/images/1554_0004.png,im1554.jpg,4,Cholimex,Cholime,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1554_0016.png,im1554.jpg,16,MUỐI,MUỔI,1,Chỉ khác dấu/đ
+../../crops/test/images/1554_0052.png,im1554.jpg,52,"Điền,","Điển,",1,Chỉ khác dấu/đ
+../../crops/test/images/1554_0060.png,im1554.jpg,60,/,I,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1554_0065.png,im1554.jpg,65,Serving,Senving,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1554_0089.png,im1554.jpg,89,AGAR,ACAR,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1555_0005.png,im1555.jpg,5,Legend,Legond,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1557_0023.png,im1557.jpg,23,thêm,them,1,Chỉ khác dấu/đ
+../../crops/test/images/1557_0027.png,im1557.jpg,27,DJC,DC,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1560_0004.png,im1560.jpg,4,CIRCLE,OIRCLE,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1560_0013.png,im1560.jpg,13,Ổ,Ở,1,Chỉ khác dấu/đ
+../../crops/test/images/1560_0016.png,im1560.jpg,16,TỰ,TỤ,1,Chỉ khác dấu/đ
+../../crops/test/images/1560_0017.png,im1560.jpg,17,BẢO,BÁO,1,Chỉ khác dấu/đ
+../../crops/test/images/1560_0018.png,im1560.jpg,18,QUAN,QUẢN,1,Chỉ khác dấu/đ
+../../crops/test/images/1561_0013.png,im1561.jpg,13,6,8,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1563_0001.png,im1563.jpg,1,ĐỒNG,ĐÔNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1564_0033.png,im1564.jpg,33,3,2,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1564_0035.png,im1564.jpg,35,2,9,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1564_0040.png,im1564.jpg,40,ĐT:,DT:,1,Chỉ khác dấu/đ
+../../crops/test/images/1568_0006.png,im1568.jpg,6,TÂM,TẮM,1,Chỉ khác dấu/đ
+../../crops/test/images/1568_0008.png,im1568.jpg,8,SINH,ĐINH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1569_0004.png,im1569.jpg,4,PẤC,PÁC,1,Chỉ khác dấu/đ
+../../crops/test/images/1570_0008.png,im1570.jpg,8,Bảng,Bống,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0014.png,im1570.jpg,14,vàng,văng,1,Chỉ khác dấu/đ
+../../crops/test/images/1570_0016.png,im1570.jpg,16,:,.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0017.png,im1570.jpg,17,120,190,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0018.png,im1570.jpg,18,k,l,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0022.png,im1570.jpg,22,50,30,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0028.png,im1570.jpg,28,220,210,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0030.png,im1570.jpg,30,60,6Ơ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0031.png,im1570.jpg,31,k,l,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0032.png,im1570.jpg,32,k,l,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0033.png,im1570.jpg,33,k,i,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0034.png,im1570.jpg,34,k,/,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0035.png,im1570.jpg,35,k,l,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0038.png,im1570.jpg,38,k,A,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0040.png,im1570.jpg,40,k,L,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0041.png,im1570.jpg,41,k,2,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0042.png,im1570.jpg,42,k,1,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0043.png,im1570.jpg,43,bó,bi,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0046.png,im1570.jpg,46,bó,b,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0051.png,im1570.jpg,51,bó,bi,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0052.png,im1570.jpg,52,bó,bi,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0054.png,im1570.jpg,54,bó,bb,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0056.png,im1570.jpg,56,:,4,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0059.png,im1570.jpg,59,:,1,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0060.png,im1570.jpg,60,:,/,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0065.png,im1570.jpg,65,:,2,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0067.png,im1570.jpg,67,vàng,vững,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0073.png,im1570.jpg,73,5)Cúc,5.Cúc,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0074.png,im1570.jpg,74,chùm,chữm,1,Chỉ khác dấu/đ
+../../crops/test/images/1570_0079.png,im1570.jpg,79,lam,bam,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0084.png,im1570.jpg,84,tường,tương,1,Chỉ khác dấu/đ
+../../crops/test/images/1570_0087.png,im1570.jpg,87,cầu,tầu,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1570_0090.png,im1570.jpg,90,đỏ,đ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1572_0009.png,im1572.jpg,9,4D,AD,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1573_0004.png,im1573.jpg,4,CƠ,CO,1,Chỉ khác dấu/đ
+../../crops/test/images/1573_0006.png,im1573.jpg,6,TỪ,TÚ,1,Chỉ khác dấu/đ
+../../crops/test/images/1573_0014.png,im1573.jpg,14,37.5,375,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1573_0026.png,im1573.jpg,26,TEABAGS,TEA8AGS,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1573_0029.png,im1573.jpg,29,g,9,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1573_0034.png,im1573.jpg,34,THỂ,THẾ,1,Chỉ khác dấu/đ
+../../crops/test/images/1573_0035.png,im1573.jpg,35,TỪ,TÙ,1,Chỉ khác dấu/đ
+../../crops/test/images/1574_0005.png,im1574.jpg,5,107,197,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1575_0001.png,im1575.jpg,1,COGO,COCO,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1575_0018.png,im1575.jpg,18,info@cogo.com.vn,infoQcogo.com.vn,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1577_0021.png,im1577.jpg,21,ĐUA,ĐƯA,1,Chỉ khác dấu/đ
+../../crops/test/images/1577_0026.png,im1577.jpg,26,NẤU,NÂU,1,Chỉ khác dấu/đ
+../../crops/test/images/1578_0027.png,im1578.jpg,27,002.67,002.77,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1579_0005.png,im1579.jpg,5,VIỆN,VIỆA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1579_0018.png,im1579.jpg,18,THÀNH,THÁNH,1,Chỉ khác dấu/đ
+../../crops/test/images/1580_0001.png,im1580.jpg,1,Trà,Thà,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1580_0036.png,im1580.jpg,36,BỤI,BỢI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1580_0037.png,im1580.jpg,37,PHỐ,PHÒ,1,Chỉ khác dấu/đ
+../../crops/test/images/1581_0005.png,im1581.jpg,5,PHƯỜNG,PHƯỞNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1581_0018.png,im1581.jpg,18,LÔ,"LÔ,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1581_0020.png,im1581.jpg,20,THỬA,THỨA,1,Chỉ khác dấu/đ
+../../crops/test/images/1581_0026.png,im1581.jpg,26,PHÊ,PHẼ,1,Chỉ khác dấu/đ
+../../crops/test/images/1581_0034.png,im1581.jpg,34,XÂY,XÃY,1,Chỉ khác dấu/đ
+../../crops/test/images/1581_0042.png,im1581.jpg,42,NGHIÊM,NGHIẾM,1,Chỉ khác dấu/đ
+../../crops/test/images/1581_0043.png,im1581.jpg,43,ĐỀ,ĐẾ,1,Chỉ khác dấu/đ
+../../crops/test/images/1581_0045.png,im1581.jpg,45,NHÂN,NHĂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1581_0047.png,im1581.jpg,47,CẢNH,CÀNH,1,Chỉ khác dấu/đ
+../../crops/test/images/1581_0048.png,im1581.jpg,48,GIÁC,"GIÁC,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1581_0056.png,im1581.jpg,56,NHÂN,NHĂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1581_0069.png,im1581.jpg,69,33,38,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1583_0014.png,im1583.jpg,14,Sỉ,Si,1,Chỉ khác dấu/đ
+../../crops/test/images/1583_0021.png,im1583.jpg,21,0982 990 851,0982 190 851,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1583_0022.png,im1583.jpg,22,0123 200 1949,0123 200 1941,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1584_0001.png,im1584.jpg,1,TỔ,TỐ,1,Chỉ khác dấu/đ
+../../crops/test/images/1585_0016.png,im1585.jpg,16,MA,MI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0020.png,im1585.jpg,20,MA,MIA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0028.png,im1585.jpg,28,MA,MIA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0036.png,im1585.jpg,36,2019,2010,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0039.png,im1585.jpg,39,19,18,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0040.png,im1585.jpg,40,19,10,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0041.png,im1585.jpg,41,19,10,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0042.png,im1585.jpg,42,19,10,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0052.png,im1585.jpg,52,Sponsors,Sponsory,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0056.png,im1585.jpg,56,tối,thi,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0060.png,im1585.jpg,60,VPS,VP5,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0062.png,im1585.jpg,62,20,2D,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0063.png,im1585.jpg,63,BenThanh,Benthanh,1,Chỉ khác hoa/thường
+../../crops/test/images/1585_0073.png,im1585.jpg,73,PHÁT,PHÁY,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0076.png,im1585.jpg,76,TRÌNH,TRINH,1,Chỉ khác dấu/đ
+../../crops/test/images/1585_0096.png,im1585.jpg,96,Securities,Securitics,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0104.png,im1585.jpg,104,&,8,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0106.png,im1585.jpg,106,Tài,Thi,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0108.png,im1585.jpg,108,vận,nận,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0109.png,im1585.jpg,109,chuyển,chuyên,1,Chỉ khác dấu/đ
+../../crops/test/images/1585_0112.png,im1585.jpg,112,V,Y,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0123.png,im1585.jpg,123,N,Y,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0124.png,im1585.jpg,124,N,Y,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0126.png,im1585.jpg,126,N,V,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0129.png,im1585.jpg,129,T,7,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1585_0134.png,im1585.jpg,134,I,/,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1586_0004.png,im1586.jpg,4,KHOA,KHOO,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1587_0011.png,im1587.jpg,11,VĨ,VT,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1587_0017.png,im1587.jpg,17,ĐỘ,ĐỊ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1587_0025.png,im1587.jpg,25,ON,CN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1589_0002.png,im1589.jpg,2,ĐỆM,DỆM,1,Chỉ khác dấu/đ
+../../crops/test/images/1589_0004.png,im1589.jpg,4,1,T,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1589_0009.png,im1589.jpg,9,GỐI,GỐ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1591_0001.png,im1591.jpg,1,Quán,Quận,1,Chỉ khác dấu/đ
+../../crops/test/images/1591_0002.png,im1591.jpg,2,Mộc,Nộc,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0001.png,im1592.jpg,1,MÔTÔ ,MÔTÔ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0002.png,im1592.jpg,2,KIỀU,KIÊU,1,Chỉ khác dấu/đ
+../../crops/test/images/1592_0014.png,im1592.jpg,14,ĐỒ,ĐÔ,1,Chỉ khác dấu/đ
+../../crops/test/images/1592_0018.png,im1592.jpg,18,BM.,"BM,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0022.png,im1592.jpg,22,"CẮT,",CẮT.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0028.png,im1592.jpg,28,LONG,LON,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1592_0045.png,im1592.jpg,45,Anh,tnh,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1593_0003.png,im1593.jpg,3,CHIỂU,CHIẾU,1,Chỉ khác dấu/đ
+../../crops/test/images/1594_0002.png,im1594.jpg,2,NHÀ,NHA,1,Chỉ khác dấu/đ
+../../crops/test/images/1594_0003.png,im1594.jpg,3,SÀN,SÂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1596_0005.png,im1596.jpg,5,ROOM],ROOM!,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1596_0008.png,im1596.jpg,8,[Doctor],[Doctor!,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1596_0014.png,im1596.jpg,14,[Nursing],[Nursing!,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1599_0002.png,im1599.jpg,2,HƯNG,HUNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1600_0003.png,im1600.jpg,3,108,7108,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1600_0041.png,im1600.jpg,41,RĂNG,BĂNG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1600_0053.png,im1600.jpg,53,KHÁM,KHẤM,1,Chỉ khác dấu/đ
+../../crops/test/images/1600_0057.png,im1600.jpg,57,P,F,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1600_0060.png,im1600.jpg,60,046684860,046684 860,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1601_0006.png,im1601.jpg,6,Your,your,1,Chỉ khác hoa/thường
+../../crops/test/images/1602_0002.png,im1602.jpg,2,TRUYỀN,TRUYỀR,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1603_0014.png,im1603.jpg,14,Xin,Xn,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1603_0036.png,im1603.jpg,36,CIRCLE ,CIRCLE,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1603_0041.png,im1603.jpg,41,Cafe,Cufe,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1603_0050.png,im1603.jpg,50,SX,5X,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1603_0051.png,im1603.jpg,51,HỚ,HỞ,1,Chỉ khác dấu/đ
+../../crops/test/images/1603_0062.png,im1603.jpg,62,CÂP,CẤP,1,Chỉ khác dấu/đ
+../../crops/test/images/1603_0064.png,im1603.jpg,64,KẾ,KÉ,1,Chỉ khác dấu/đ
+../../crops/test/images/1603_0077.png,im1603.jpg,77,CÔNG,CONG,1,Chỉ khác dấu/đ
+../../crops/test/images/1605_0013.png,im1605.jpg,13,chanh,chonh,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1605_0014.png,im1605.jpg,14,20%,208,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1605_0016.png,im1605.jpg,16,TỐNG,TỔNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1605_0020.png,im1605.jpg,20,LY,LÝ,1,Chỉ khác dấu/đ
+../../crops/test/images/1605_0024.png,im1605.jpg,24,THÔNG,THỚNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1605_0029.png,im1605.jpg,29,TIÊN,TIẾN,1,Chỉ khác dấu/đ
+../../crops/test/images/1609_0003.png,im1609.jpg,3,***,**,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1609_0018.png,im1609.jpg,18,TÔI,TÓI,1,Chỉ khác dấu/đ
+../../crops/test/images/1609_0028.png,im1609.jpg,28,BẤT,BÁT,1,Chỉ khác dấu/đ
+../../crops/test/images/1609_0033.png,im1609.jpg,33,VẪN,VĂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1609_0036.png,im1609.jpg,36,VÀO,VẢO,1,Chỉ khác dấu/đ
+../../crops/test/images/1609_0043.png,im1609.jpg,43,CẢM,CÁM,1,Chỉ khác dấu/đ
+../../crops/test/images/1610_0009.png,im1610.jpg,9,Chu,Chư,1,Chỉ khác dấu/đ
+../../crops/test/images/1610_0011.png,im1610.jpg,11,Nguyễn,Nguyên,1,Chỉ khác dấu/đ
+../../crops/test/images/1611_0001.png,im1611.jpg,1,Hội,Hệi,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1611_0004.png,im1611.jpg,4,THẰNG,THẮNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1611_0006.png,im1611.jpg,6,GIỮ,GIŨ,1,Chỉ khác dấu/đ
+../../crops/test/images/1611_0018.png,im1611.jpg,18,DỪA,DỮA,1,Chỉ khác dấu/đ
+../../crops/test/images/1611_0029.png,im1611.jpg,29,IÊ,RÊ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1611_0030.png,im1611.jpg,30,THOAI,THOẠI,1,Chỉ khác dấu/đ
+../../crops/test/images/1612_0003.png,im1612.jpg,3,ĐƯỜNG,DƯỜNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1612_0004.png,im1612.jpg,4,HỒ,HÔ,1,Chỉ khác dấu/đ
+../../crops/test/images/1614_0004.png,im1614.jpg,4,NGUYỄN,NGUYẾN,1,Chỉ khác dấu/đ
+../../crops/test/images/1614_0015.png,im1614.jpg,15,TIỀN,TIỂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1615_0005.png,im1615.jpg,5,NGOAI,NGUAI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1618_0004.png,im1618.jpg,4,Long,long,1,Chỉ khác hoa/thường
+../../crops/test/images/1624_0017.png,im1624.jpg,17,DẢI,DÀI,1,Chỉ khác dấu/đ
+../../crops/test/images/1625_0014.png,im1625.jpg,14,67/17A,67717A,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1625_0022.png,im1625.jpg,22,TN,IN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1626_0005.png,im1626.jpg,5,Đẳng,Đắng,1,Chỉ khác dấu/đ
+../../crops/test/images/1627_0005.png,im1627.jpg,5,HOTLINE.,"HOTLINE,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1627_0018.png,im1627.jpg,18,NỮ,NƯ,1,Chỉ khác dấu/đ
+../../crops/test/images/1627_0027.png,im1627.jpg,27,299k,299K,1,Chỉ khác hoa/thường
+../../crops/test/images/1630_0001.png,im1630.jpg,1,COSY,UOSY,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1630_0008.png,im1630.jpg,8,VỊ,VI,1,Chỉ khác dấu/đ
+../../crops/test/images/1630_0010.png,im1630.jpg,10,VNĐ/,VNĐI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1630_0024.png,im1630.jpg,24,TỪ,TỪ:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1630_0033.png,im1630.jpg,33,mỏi,mới,1,Chỉ khác dấu/đ
+../../crops/test/images/1630_0043.png,im1630.jpg,43,mổi,mỗi,1,Chỉ khác dấu/đ
+../../crops/test/images/1630_0047.png,im1630.jpg,47,kcal,kcai,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1630_0051.png,im1630.jpg,51,Co,CO,1,Chỉ khác hoa/thường
+../../crops/test/images/1631_0001.png,im1631.jpg,1,PHONG,PHÒNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1631_0002.png,im1631.jpg,2,GIAO,GIÁO,1,Chỉ khác dấu/đ
+../../crops/test/images/1631_0005.png,im1631.jpg,5,ĐÀO,ĐÁO,1,Chỉ khác dấu/đ
+../../crops/test/images/1631_0009.png,im1631.jpg,9,SÈ,SÊ,1,Chỉ khác dấu/đ
+../../crops/test/images/1631_0024.png,im1631.jpg,24,H.,H,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1631_0025.png,im1631.jpg,25,NHA,NRA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1631_0028.png,im1631.jpg,28,HỒ,HỔ,1,Chỉ khác dấu/đ
+../../crops/test/images/1631_0032.png,im1631.jpg,32,38734053,38 734053,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1632_0004.png,im1632.jpg,4,KHOẺ,KHOÈ,1,Chỉ khác dấu/đ
+../../crops/test/images/1632_0011.png,im1632.jpg,11,Bổ,Bồ,1,Chỉ khác dấu/đ
+../../crops/test/images/1632_0012.png,im1632.jpg,12,NGON*,"NGON""",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1632_0017.png,im1632.jpg,17,TỪ,Từ,1,Chỉ khác hoa/thường
+../../crops/test/images/1632_0022.png,im1632.jpg,22,"Thăn,",Thăn,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1632_0025.png,im1632.jpg,25,Hạt,Hật,1,Chỉ khác dấu/đ
+../../crops/test/images/1634_0030.png,im1634.jpg,30,HỒNG,HỜNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1634_0034.png,im1634.jpg,34,AN,ÁN,1,Chỉ khác dấu/đ
+../../crops/test/images/1634_0040.png,im1634.jpg,40,CA,CE,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0042.png,im1634.jpg,42,LAC,LÁC,1,Chỉ khác dấu/đ
+../../crops/test/images/1634_0049.png,im1634.jpg,49,PHONG,PHING,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0061.png,im1634.jpg,61,3,:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0091.png,im1634.jpg,91,3,J,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0095.png,im1634.jpg,95,AN,GN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1634_0096.png,im1634.jpg,96,"TOÀN""",TOÀN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1635_0007.png,im1635.jpg,7,"ĐẬU,",ĐẬU,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1636_0014.png,im1636.jpg,14,10,30,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1639_0026.png,im1639.jpg,26,43-M1,43-11,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1639_0031.png,im1639.jpg,31,43-G1,43-61,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1640_0028.png,im1640.jpg,28,SĐT,SĐT:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1640_0033.png,im1640.jpg,33,chiếc,chiệc,1,Chỉ khác dấu/đ
+../../crops/test/images/1640_0034.png,im1640.jpg,34,Ví,Vi,1,Chỉ khác dấu/đ
+../../crops/test/images/1640_0040.png,im1640.jpg,40,tên,lên,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1640_0047.png,im1640.jpg,47,tờ...,tờ....,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1640_0058.png,im1640.jpg,58,ĐT:,Đ1:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1640_0059.png,im1640.jpg,59,0912878,0912 878,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1640_0062.png,im1640.jpg,62,ÊU,ĐU,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1641_0001.png,im1641.jpg,1,LÀO,LẢO,1,Chỉ khác dấu/đ
+../../crops/test/images/1641_0008.png,im1641.jpg,8,TRI,TRÌ,1,Chỉ khác dấu/đ
+../../crops/test/images/1641_0021.png,im1641.jpg,21,VĨNH,VINH,1,Chỉ khác dấu/đ
+../../crops/test/images/1642_0037.png,im1642.jpg,37,02471018899,02471118899,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1643_0040.png,im1643.jpg,40,ĐT,ĐT:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1643_0064.png,im1643.jpg,64,THANH,THÁNH,1,Chỉ khác dấu/đ
+../../crops/test/images/1643_0065.png,im1643.jpg,65,ĐÔ,Đô,1,Chỉ khác hoa/thường
+../../crops/test/images/1644_0029.png,im1644.jpg,29,O,D,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1644_0040.png,im1644.jpg,40,iSCHOOL,LSCHOOL,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1644_0044.png,im1644.jpg,44,iSCHO,ISCHO,1,Chỉ khác hoa/thường
+../../crops/test/images/1645_0014.png,im1645.jpg,14,O,0,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1646_0017.png,im1646.jpg,17,CONG,CÔNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1647_0026.png,im1647.jpg,26,CHĂN,CHÂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1647_0032.png,im1647.jpg,32,GA,6A,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1648_0008.png,im1648.jpg,8,O,Ơ,1,Chỉ khác dấu/đ
+../../crops/test/images/1648_0012.png,im1648.jpg,12,O,Ơ,1,Chỉ khác dấu/đ
+../../crops/test/images/1648_0013.png,im1648.jpg,13,O,Ô,1,Chỉ khác dấu/đ
+../../crops/test/images/1648_0021.png,im1648.jpg,21,KHÔNG,KHỐNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1651_0007.png,im1651.jpg,7,NGHỆ-,NGHỆ -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1651_0014.png,im1651.jpg,14,Chấn-,Chấn -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1651_0018.png,im1651.jpg,18,Kỳ-,Kỳ -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1651_0019.png,im1651.jpg,19,Hải,Hài,1,Chỉ khác dấu/đ
+../../crops/test/images/1651_0027.png,im1651.jpg,27,/,I,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1652_0006.png,im1652.jpg,6,BÀU,BĂU,1,Chỉ khác dấu/đ
+../../crops/test/images/1652_0030.png,im1652.jpg,30,VÉ,VẼ,1,Chỉ khác dấu/đ
+../../crops/test/images/1652_0034.png,im1652.jpg,34,BÀU,BẦU,1,Chỉ khác dấu/đ
+../../crops/test/images/1656_0005.png,im1656.jpg,5,TRINH:,TRINH :,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1656_0011.png,im1656.jpg,11,CẦU:,CẦU :,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1656_0012.png,im1656.jpg,12,17288m,172.88m,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1656_0016.png,im1656.jpg,16,8m,8M,1,Chỉ khác hoa/thường
+../../crops/test/images/1657_0001.png,im1657.jpg,1,DỊCH,DICH,1,Chỉ khác dấu/đ
+../../crops/test/images/1657_0003.png,im1657.jpg,3,NHỔ,NHƠ,1,Chỉ khác dấu/đ
+../../crops/test/images/1657_0004.png,im1657.jpg,4,TÓC,TỐC,1,Chỉ khác dấu/đ
+../../crops/test/images/1657_0007.png,im1657.jpg,7,Vân,Văn,1,Chỉ khác dấu/đ
+../../crops/test/images/1657_0010.png,im1657.jpg,10,DUỖI-,DUỖI -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1657_0013.png,im1657.jpg,13,MÓNG-,MÓNG -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1657_0019.png,im1657.jpg,19,DÂU-,DÂU -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1658_0005.png,im1658.jpg,5,CHẤN-,CHẤN -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1659_0009.png,im1659.jpg,9,SỐNG,SỔNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1659_0018.png,im1659.jpg,18,20-,20 -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1659_0022.png,im1659.jpg,22,1-,1 -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1659_0024.png,im1659.jpg,24,ĐỨC-,ĐỨC -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1659_0025.png,im1659.jpg,25,LH-,LH -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1659_0029.png,im1659.jpg,29,TOLET,TOLÁT,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1662_0017.png,im1662.jpg,17,ŨNG,ỦNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1662_0019.png,im1662.jpg,19,TÊN,TIÊN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1662_0037.png,im1662.jpg,37,Tich,Tích,1,Chỉ khác dấu/đ
+../../crops/test/images/1662_0063.png,im1662.jpg,63,INTERNET,ITERNET,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1662_0065.png,im1662.jpg,65,HÙNG,HÒNG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1662_0084.png,im1662.jpg,84,QA,QU,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1663_0017.png,im1663.jpg,17,37,17,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1664_0003.png,im1664.jpg,3,TRƯỜNG,THƯỜNG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1664_0004.png,im1664.jpg,4,THÀNH,CHÀNH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1664_0010.png,im1664.jpg,10,CITY,VITY,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1665_0005.png,im1665.jpg,5,LẠNG,LANG,1,Chỉ khác dấu/đ
+../../crops/test/images/1665_0011.png,im1665.jpg,11,LANG,LANC,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1666_0006.png,im1666.jpg,6,TRƯỜNG,TFƯỜNG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1666_0011.png,im1666.jpg,11,TIN,TÌN,1,Chỉ khác dấu/đ
+../../crops/test/images/1666_0013.png,im1666.jpg,13,T.P.,TP.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1666_0015.png,im1666.jpg,15,CHÍ,CHI,1,Chỉ khác dấu/đ
+../../crops/test/images/1668_0006.png,im1668.jpg,6,Wifi,WiFi,1,Chỉ khác hoa/thường
+../../crops/test/images/1668_0008.png,im1668.jpg,8,Nghỉ,Nghi,1,Chỉ khác dấu/đ
+../../crops/test/images/1668_0009.png,im1668.jpg,9,Thoáng,Thoảng,1,Chỉ khác dấu/đ
+../../crops/test/images/1668_0012.png,im1668.jpg,12,Sự,Sự-,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1669_0005.png,im1669.jpg,5,TƯƠI,TVƠI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1669_0006.png,im1669.jpg,6,SỐNG,SỒNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1669_0016.png,im1669.jpg,16,Vĩnh,vĩnh,1,Chỉ khác hoa/thường
+../../crops/test/images/1671_0004.png,im1671.jpg,4,SAIGON.,SAIGON,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1671_0022.png,im1671.jpg,22,VỢT-,VỢT -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1671_0039.png,im1671.jpg,39,ĐOÀN,ĐOÁN,1,Chỉ khác dấu/đ
+../../crops/test/images/1671_0041.png,im1671.jpg,41,VIET,VIỆT,1,Chỉ khác dấu/đ
+../../crops/test/images/1671_0052.png,im1671.jpg,52,NIÊM,NIỀM,1,Chỉ khác dấu/đ
+../../crops/test/images/1671_0053.png,im1671.jpg,53,TU,TƯ,1,Chỉ khác dấu/đ
+../../crops/test/images/1671_0061.png,im1671.jpg,61,CONG,CÔNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1671_0064.png,im1671.jpg,64,PHAN,PHẦN,1,Chỉ khác dấu/đ
+../../crops/test/images/1672_0002.png,im1672.jpg,2,PH,CH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1674_0004.png,im1674.jpg,4,Trân,Trần,1,Chỉ khác dấu/đ
+../../crops/test/images/1674_0007.png,im1674.jpg,7,Ốc,ỐC,1,Chỉ khác hoa/thường
+../../crops/test/images/1674_0027.png,im1674.jpg,27,Ốc,Ớc,1,Chỉ khác dấu/đ
+../../crops/test/images/1674_0031.png,im1674.jpg,31,Hải,Hai,1,Chỉ khác dấu/đ
+../../crops/test/images/1674_0053.png,im1674.jpg,53,ài,ai,1,Chỉ khác dấu/đ
+../../crops/test/images/1675_0018.png,im1675.jpg,18,"Bank,","8ank,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1676_0042.png,im1676.jpg,42,HONDA,HONGA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1676_0067.png,im1676.jpg,67,Menthola,Henthola,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1676_0085.png,im1676.jpg,85,WASH,WA9H,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1676_0094.png,im1676.jpg,94,TR,TN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1676_0115.png,im1676.jpg,115,ROHTO,RONTO,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1676_0128.png,im1676.jpg,128,hóng,hông,1,Chỉ khác dấu/đ
+../../crops/test/images/1676_0129.png,im1676.jpg,129,mặt,mật,1,Chỉ khác dấu/đ
+../../crops/test/images/1676_0130.png,im1676.jpg,130,uy,vy,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1676_0132.png,im1676.jpg,132,rí,ri,1,Chỉ khác dấu/đ
+../../crops/test/images/1676_0133.png,im1676.jpg,133,nhơ,nhở,1,Chỉ khác dấu/đ
+../../crops/test/images/1676_0138.png,im1676.jpg,138,V.,V,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1676_0145.png,im1676.jpg,145,B,8,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1678_0008.png,im1678.jpg,8,HỌC-,HỌC -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1678_0009.png,im1678.jpg,9,HỎI-,HỎI -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1678_0010.png,im1678.jpg,10,HIỂU-,HIỂU -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1681_0007.png,im1681.jpg,7,ời,ởi,1,Chỉ khác dấu/đ
+../../crops/test/images/1681_0011.png,im1681.jpg,11,Bẫm,Bắm,1,Chỉ khác dấu/đ
+../../crops/test/images/1681_0015.png,im1681.jpg,15,Em,EM,1,Chỉ khác hoa/thường
+../../crops/test/images/1681_0016.png,im1681.jpg,16,Xuất,xuất,1,Chỉ khác hoa/thường
+../../crops/test/images/1682_0002.png,im1682.jpg,2,NHÀ,NHA,1,Chỉ khác dấu/đ
+../../crops/test/images/1682_0003.png,im1682.jpg,3,SÀN,SĂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1683_0007.png,im1683.jpg,7,International,Internafional,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1684_0001.png,im1684.jpg,1,DAN,ĐAN,1,Chỉ khác dấu/đ
+../../crops/test/images/1684_0002.png,im1684.jpg,2,KY,KÝ,1,Chỉ khác dấu/đ
+../../crops/test/images/1684_0005.png,im1684.jpg,5,OUANG,QUANG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1684_0006.png,im1684.jpg,6,TRUYEN,TRUYỀN,1,Chỉ khác dấu/đ
+../../crops/test/images/1684_0007.png,im1684.jpg,7,FPT,EPT,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1684_0020.png,im1684.jpg,20,"Sỉ,",Sỉ.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1684_0026.png,im1684.jpg,26,TUA-,TUA -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1684_0032.png,im1684.jpg,32,BỐP-,BỐP.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1684_0035.png,im1684.jpg,35,THU-,THU -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1685_0030.png,im1685.jpg,30,TẦNG,"TẦNG,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1685_0042.png,im1685.jpg,42,CƯ-,CƯ -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1685_0044.png,im1685.jpg,44,Ở,ở,1,Chỉ khác hoa/thường
+../../crops/test/images/1686_0001.png,im1686.jpg,1,đích,dích,1,Chỉ khác dấu/đ
+../../crops/test/images/1686_0002.png,im1686.jpg,2,g,9,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1686_0020.png,im1686.jpg,20,VNPT-,VNPT -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1687_0002.png,im1687.jpg,2,y,),1,Khác nội dung/khoảng trắng
+../../crops/test/images/1687_0003.png,im1687.jpg,3,y,J,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1687_0004.png,im1687.jpg,4,p,P,1,Chỉ khác hoa/thường
+../../crops/test/images/1687_0010.png,im1687.jpg,10,VÉ,VA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1689_0004.png,im1689.jpg,4,CHỈ,CHI,1,Chỉ khác dấu/đ
+../../crops/test/images/1689_0005.png,im1689.jpg,5,MINH,MINN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1689_0009.png,im1689.jpg,9,CHI,CHÌ,1,Chỉ khác dấu/đ
+../../crops/test/images/1690_0005.png,im1690.jpg,5,VẠN,VAN,1,Chỉ khác dấu/đ
+../../crops/test/images/1690_0007.png,im1690.jpg,7,CAU,CẦU,1,Chỉ khác dấu/đ
+../../crops/test/images/1690_0009.png,im1690.jpg,9,BỘ,BỎ,1,Chỉ khác dấu/đ
+../../crops/test/images/1690_0012.png,im1690.jpg,12,TINH,TÌNH,1,Chỉ khác dấu/đ
+../../crops/test/images/1690_0015.png,im1690.jpg,15,Ấm,Am,1,Chỉ khác dấu/đ
+../../crops/test/images/1690_0018.png,im1690.jpg,18,Điểm:,Điểm,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1690_0019.png,im1690.jpg,19,Bàn,Bân,1,Chỉ khác dấu/đ
+../../crops/test/images/1690_0021.png,im1690.jpg,21,Ta.,Tá.,1,Chỉ khác dấu/đ
+../../crops/test/images/1690_0022.png,im1690.jpg,22,Xã,Xi,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1690_0024.png,im1690.jpg,24,Chung,Chung.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1690_0028.png,im1690.jpg,28,Tinh,Tỉnh,1,Chỉ khác dấu/đ
+../../crops/test/images/1690_0030.png,im1690.jpg,30,Ia,La,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1691_0001.png,im1691.jpg,1,Co,C8,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1691_0006.png,im1691.jpg,6,Trong,Treng,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1691_0008.png,im1691.jpg,8,cà,cả,1,Chỉ khác dấu/đ
+../../crops/test/images/1691_0015.png,im1691.jpg,15,đợi,đọi,1,Chỉ khác dấu/đ
+../../crops/test/images/1691_0026.png,im1691.jpg,26,nhã,nhà,1,Chỉ khác dấu/đ
+../../crops/test/images/1691_0028.png,im1691.jpg,28,NHA,NHÀ,1,Chỉ khác dấu/đ
+../../crops/test/images/1691_0030.png,im1691.jpg,30,BAN,BÁN,1,Chỉ khác dấu/đ
+../../crops/test/images/1691_0031.png,im1691.jpg,31,HỘI,HỘ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1691_0032.png,im1691.jpg,32,NHÀ,NHI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1691_0033.png,im1691.jpg,33,VAN,VĂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1692_0020.png,im1692.jpg,20,LÊ,LE,1,Chỉ khác dấu/đ
+../../crops/test/images/1693_0010.png,im1693.jpg,10,don't,don!t,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1693_0043.png,im1693.jpg,43,use!,usel,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1693_0048.png,im1693.jpg,48,ơn,ơn!,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1693_0049.png,im1693.jpg,49,/,I,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1694_0013.png,im1694.jpg,13,20-,20 -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1695_0001.png,im1695.jpg,1,THACO,THAOO,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1695_0024.png,im1695.jpg,24,TỰ,TỤ,1,Chỉ khác dấu/đ
+../../crops/test/images/1695_0033.png,im1695.jpg,33,TỪ,TÙ,1,Chỉ khác dấu/đ
+../../crops/test/images/1695_0036.png,im1695.jpg,36,BƯỚC,BƯỠC,1,Chỉ khác dấu/đ
+../../crops/test/images/1695_0038.png,im1695.jpg,38,TỚI,TỠI,1,Chỉ khác dấu/đ
+../../crops/test/images/1695_0045.png,im1695.jpg,45,TIỂU,TIỀU,1,Chỉ khác dấu/đ
+../../crops/test/images/1695_0047.png,im1695.jpg,47,THẦN,THẤN,1,Chỉ khác dấu/đ
+../../crops/test/images/1696_0010.png,im1696.jpg,10,MỸ,MỲ,1,Chỉ khác dấu/đ
+../../crops/test/images/1696_0017.png,im1696.jpg,17,NAM-,NAM -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1696_0021.png,im1696.jpg,21,DC:,ĐC:,1,Chỉ khác dấu/đ
+../../crops/test/images/1696_0025.png,im1696.jpg,25,HIẾU.,"HIẾU,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1696_0030.png,im1696.jpg,30,LONG.,LONG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1696_0032.png,im1696.jpg,32,070.6250125,070.6250 125,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1697_0001.png,im1697.jpg,1,ĐHCM,DHCM,1,Chỉ khác dấu/đ
+../../crops/test/images/1700_0002.png,im1700.jpg,2,9001:,9201:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1700_0009.png,im1700.jpg,9,TẠO,TẠC,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1700_0015.png,im1700.jpg,15,HỒ,HÒ,1,Chỉ khác dấu/đ
+../../crops/test/images/1700_0020.png,im1700.jpg,20,UL,L,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1700_0031.png,im1700.jpg,31,"Đức,","Đứt,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1700_0032.png,im1700.jpg,32,TP,TP.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1700_0034.png,im1700.jpg,34,Chí,Chi,1,Chỉ khác dấu/đ
+../../crops/test/images/1701_0009.png,im1701.jpg,9,SỐ,SƠ,1,Chỉ khác dấu/đ
+../../crops/test/images/1701_0010.png,im1701.jpg,10,8,1,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0029.png,im1701.jpg,29,TỔNG,TÔNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1701_0032.png,im1701.jpg,32,CỔ,CÓ,1,Chỉ khác dấu/đ
+../../crops/test/images/1701_0034.png,im1701.jpg,34,BIA,ĐIA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0035.png,im1701.jpg,35,RƯỢU,HƯỢU,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0038.png,im1701.jpg,38,GIẢI,GIÁI,1,Chỉ khác dấu/đ
+../../crops/test/images/1701_0040.png,im1701.jpg,40,HÀ,HA,1,Chỉ khác dấu/đ
+../../crops/test/images/1701_0052.png,im1701.jpg,52,HABECO,HAIECO,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0053.png,im1701.jpg,53,TRADING,THADING,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1701_0057.png,im1701.jpg,57,TEL,TE,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1703_0006.png,im1703.jpg,6,TRẦN,TRÀN,1,Chỉ khác dấu/đ
+../../crops/test/images/1703_0008.png,im1703.jpg,8,P4.,P4,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1703_0014.png,im1703.jpg,14,FAX.,FAX,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1703_0018.png,im1703.jpg,18,Kính,Kínk,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1705_0004.png,im1705.jpg,4,KHỞI,KHÔI,1,Chỉ khác dấu/đ
+../../crops/test/images/1707_0020.png,im1707.jpg,20,THUỐ,THUỞ,1,Chỉ khác dấu/đ
+../../crops/test/images/1708_0005.png,im1708.jpg,5,3,J,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1708_0036.png,im1708.jpg,36,Khoá,Khoả,1,Chỉ khác dấu/đ
+../../crops/test/images/1709_0005.png,im1709.jpg,5,Massager -,Massager-,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1710_0003.png,im1710.jpg,3,TOÀN,TƠÀN,1,Chỉ khác dấu/đ
+../../crops/test/images/1711_0006.png,im1711.jpg,6,3,2,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1711_0009.png,im1711.jpg,9,BÁO,BÁƠ,1,Chỉ khác dấu/đ
+../../crops/test/images/1711_0033.png,im1711.jpg,33,TẮT,TẤT,1,Chỉ khác dấu/đ
+../../crops/test/images/1711_0037.png,im1711.jpg,37,SỐ,Số,1,Chỉ khác hoa/thường
+../../crops/test/images/1713_0025.png,im1713.jpg,25, NGOẠI,NGOẠI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0034.png,im1713.jpg,34,R,Q,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0045.png,im1713.jpg,45,th,the,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0060.png,im1713.jpg,60,VIỆC,VIỆT,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0075.png,im1713.jpg,75,ĐỀ,ĐÊ,1,Chỉ khác dấu/đ
+../../crops/test/images/1713_0079.png,im1713.jpg,79,TRANG,TRNG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0081.png,im1713.jpg,81,VÀO,VFO,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0088.png,im1713.jpg,88,Co-host,Co-Host,1,Chỉ khác hoa/thường
+../../crops/test/images/1713_0098.png,im1713.jpg,98,Co-Host,C6-Host,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1713_0103.png,im1713.jpg,103,2019,2919,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1714_0007.png,im1714.jpg,7,QUÝ,QUY,1,Chỉ khác dấu/đ
+../../crops/test/images/1714_0017.png,im1714.jpg,17,ASAMA,ASAVA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1714_0019.png,im1714.jpg,19,CỬA,CƯA,1,Chỉ khác dấu/đ
+../../crops/test/images/1715_0002.png,im1715.jpg,2,Pomina,PCmina,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1716_0023.png,im1716.jpg,23,G,IG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1716_0024.png,im1716.jpg,24,HỒ,HÔ,1,Chỉ khác dấu/đ
+../../crops/test/images/1717_0003.png,im1717.jpg,3,ĐỎ,Đỏ,1,Chỉ khác hoa/thường
+../../crops/test/images/1717_0014.png,im1717.jpg,14,AN,AT,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1718_0010.png,im1718.jpg,10,Dần,Dẫn,1,Chỉ khác dấu/đ
+../../crops/test/images/1718_0029.png,im1718.jpg,29,XE,XI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1720_0002.png,im1720.jpg,2,Xe,X,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1720_0015.png,im1720.jpg,15,SỰ,NỰ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1723_0002.png,im1723.jpg,2,NHÁNH,NHÃNH,1,Chỉ khác dấu/đ
+../../crops/test/images/1723_0007.png,im1723.jpg,7,KHÍ,KHỈ,1,Chỉ khác dấu/đ
+../../crops/test/images/1725_0008.png,im1725.jpg,8,LaVie,laVie,1,Chỉ khác hoa/thường
+../../crops/test/images/1725_0085.png,im1725.jpg,85,AQUAFINA,AQUAFNA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0090.png,im1725.jpg,90,Mart,Vart,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1725_0093.png,im1725.jpg,93,SƯA,SUA,1,Chỉ khác dấu/đ
+../../crops/test/images/1725_0107.png,im1725.jpg,107,AQUAFINA,AQUAFINH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1726_0003.png,im1726.jpg,3,R,9,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1726_0017.png,im1726.jpg,17,QL.,QL,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1726_0024.png,im1726.jpg,24,HỒ -,HỖ -,1,Chỉ khác dấu/đ
+../../crops/test/images/1726_0033.png,im1726.jpg,33,"Hưng,",Hưng.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1729_0013.png,im1729.jpg,13,TRẢ,TRÍ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1733_0010.png,im1733.jpg,10,ĐỒNG,ĐÔNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1733_0011.png,im1733.jpg,11,HỒ,HÀ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1734_0002.png,im1734.jpg,2,birthday,birhhday,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1734_0008.png,im1734.jpg,8,esh,enh,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1734_0009.png,im1734.jpg,9,Ba,Sa,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1734_0010.png,im1734.jpg,10,Ế,TẾ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1735_0002.png,im1735.jpg,2,TẮM,TẤM,1,Chỉ khác dấu/đ
+../../crops/test/images/1735_0005.png,im1735.jpg,5,11KM,11Km,1,Chỉ khác hoa/thường
+../../crops/test/images/1737_0009.png,im1737.jpg,9,&,3,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1737_0010.png,im1737.jpg,10,Chè,Chi,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1737_0015.png,im1737.jpg,15,&,6,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1737_0021.png,im1737.jpg,21,TẶNG,TĂNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1737_0023.png,im1737.jpg,23,MUA,MIA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1737_0024.png,im1737.jpg,24,2,1,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1737_0025.png,im1737.jpg,25,TẶNG,TẢNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1737_0026.png,im1737.jpg,26,1,-,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1737_0033.png,im1737.jpg,33,3,S,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0028.png,im1738.jpg,28,-,!,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0037.png,im1738.jpg,37,184,18H,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0040.png,im1738.jpg,40,ĐT:,ĐT :,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0049.png,im1738.jpg,49,ĐƯỜNG,ĐƯƠNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1738_0051.png,im1738.jpg,51,HƯNG,NƯNG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0057.png,im1738.jpg,57,LÃO,LÀO,1,Chỉ khác dấu/đ
+../../crops/test/images/1738_0058.png,im1738.jpg,58,NGÃ,NGI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0059.png,im1738.jpg,59,SÁU,SÁO,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1738_0060.png,im1738.jpg,60,PHÙ,PHU,1,Chỉ khác dấu/đ
+../../crops/test/images/1738_0065.png,im1738.jpg,65,NGUYỄN,NGUYÊN,1,Chỉ khác dấu/đ
+../../crops/test/images/1738_0068.png,im1738.jpg,68,14,18,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1739_0005.png,im1739.jpg,5,ĐÀO,ĐẢO,1,Chỉ khác dấu/đ
+../../crops/test/images/1739_0030.png,im1739.jpg,30,Xuân,Xuàn,1,Chỉ khác dấu/đ
+../../crops/test/images/1740_0002.png,im1740.jpg,2,INTERNATIONAL,INTERNATIONẠL,1,Chỉ khác dấu/đ
+../../crops/test/images/1740_0003.png,im1740.jpg,3,BILINGGUAL,BILINGUAL,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1740_0011.png,im1740.jpg,11,KỲ,KÝ,1,Chỉ khác dấu/đ
+../../crops/test/images/1741_0001.png,im1741.jpg,1,2180 m,2180m,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1741_0014.png,im1741.jpg,14,TẾ,IẾ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1741_0018.png,im1741.jpg,18,TRỊ,THỊ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1743_0012.png,im1743.jpg,12,thế ,thế,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1744_0002.png,im1744.jpg,2,HÀ,HA,1,Chỉ khác dấu/đ
+../../crops/test/images/1744_0003.png,im1744.jpg,3,CÀ-PHÊ,CÁ-PHÊ,1,Chỉ khác dấu/đ
+../../crops/test/images/1744_0006.png,im1744.jpg,6,SỐ,SỞ,1,Chỉ khác dấu/đ
+../../crops/test/images/1744_0008.png,im1744.jpg,8,QUÁN,QUẤN,1,Chỉ khác dấu/đ
+../../crops/test/images/1746_0009.png,im1746.jpg,9,GIẶT,GIẤT,1,Chỉ khác dấu/đ
+../../crops/test/images/1746_0010.png,im1746.jpg,10,SẤY,SÁY,1,Chỉ khác dấu/đ
+../../crops/test/images/1746_0019.png,im1746.jpg,19,Cố,Cổ,1,Chỉ khác dấu/đ
+../../crops/test/images/1746_0022.png,im1746.jpg,22,-,M,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1746_0025.png,im1746.jpg,25,Liêm -,Liên -,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1747_0004.png,im1747.jpg,4,QUẢN,QUÁN,1,Chỉ khác dấu/đ
+../../crops/test/images/1747_0008.png,im1747.jpg,8,VICOM,VINCOM,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1747_0017.png,im1747.jpg,17,RIVE,RIVEI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1747_0018.png,im1747.jpg,18,"ĐC,",ĐC.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1747_0020.png,im1747.jpg,20,NGUYỄN,NGUYÊN,1,Chỉ khác dấu/đ
+../../crops/test/images/1747_0021.png,im1747.jpg,21,HỮU,HỪU,1,Chỉ khác dấu/đ
+../../crops/test/images/1748_0004.png,im1748.jpg,4,TONG,TONC,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1749_0005.png,im1749.jpg,5,1,O,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1749_0008.png,im1749.jpg,8,4,A,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1749_0009.png,im1749.jpg,9,BÁO,BÁA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1750_0004.png,im1750.jpg,4,DÂN,DÀN,1,Chỉ khác dấu/đ
+../../crops/test/images/1751_0012.png,im1751.jpg,12,YÊN,"YÊN,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1751_0020.png,im1751.jpg,20,CÔNG,CONG,1,Chỉ khác dấu/đ
+../../crops/test/images/1751_0022.png,im1751.jpg,22,CỔ,CO,1,Chỉ khác dấu/đ
+../../crops/test/images/1751_0023.png,im1751.jpg,23,PHẦN,PHÂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1751_0025.png,im1751.jpg,25,GARDEN,GARDEH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1751_0038.png,im1751.jpg,38,Garden,Gđrden,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1751_0062.png,im1751.jpg,62,Garden,Gõrden,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1751_0080.png,im1751.jpg,80,APP,APD,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1751_0082.png,im1751.jpg,82,QUÀ,QUA,1,Chỉ khác dấu/đ
+../../crops/test/images/1751_0083.png,im1751.jpg,83,TẶNG,TẬNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1751_0084.png,im1751.jpg,84,LIỀN,LIẾN,1,Chỉ khác dấu/đ
+../../crops/test/images/1753_0007.png,im1753.jpg,7,An,AN,1,Chỉ khác hoa/thường
+../../crops/test/images/1753_0010.png,im1753.jpg,10,KÝ,KỶ,1,Chỉ khác dấu/đ
+../../crops/test/images/1753_0013.png,im1753.jpg,13,VẤN,VẪN,1,Chỉ khác dấu/đ
+../../crops/test/images/1753_0018.png,im1753.jpg,18,0905 694 684,0905694 684,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1754_0003.png,im1754.jpg,3,HỒ,HÔ,1,Chỉ khác dấu/đ
+../../crops/test/images/1754_0006.png,im1754.jpg,6,KÍ,KI,1,Chỉ khác dấu/đ
+../../crops/test/images/1754_0007.png,im1754.jpg,7,TỜ,TỞ,1,Chỉ khác dấu/đ
+../../crops/test/images/1755_0003.png,im1755.jpg,3,TRONG,TRƠNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1755_0021.png,im1755.jpg,21,FLA,FIA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1755_0029.png,im1755.jpg,29,Mía,Mia,1,Chỉ khác dấu/đ
+../../crops/test/images/1755_0038.png,im1755.jpg,38,LITON,LIPTON,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1755_0040.png,im1755.jpg,40,VẮT,VẤT,1,Chỉ khác dấu/đ
+../../crops/test/images/1755_0064.png,im1755.jpg,64,SYM,SÝM,1,Chỉ khác dấu/đ
+../../crops/test/images/1755_0066.png,im1755.jpg,66,HONDA,HONEA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1755_0072.png,im1755.jpg,72,í,I,1,Khác dấu và hoa/thường
+../../crops/test/images/1758_0002.png,im1758.jpg,2,Lộ,LỘ,1,Chỉ khác hoa/thường
+../../crops/test/images/1758_0013.png,im1758.jpg,13,0km,0m,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1762_0016.png,im1762.jpg,16,"LIÊN,","LIÊM,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1762_0027.png,im1762.jpg,27,Minh).,Minh)-,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1763_0007.png,im1763.jpg,7,NÀO,MÀO,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1763_0008.png,im1763.jpg,8,ĐỔ,ĐỒ,1,Chỉ khác dấu/đ
+../../crops/test/images/1765_0011.png,im1765.jpg,11,CẦU -,CẦU-,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1765_0014.png,im1765.jpg,14,MỚI -,MỚI-,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1765_0027.png,im1765.jpg,27,Quý,9uý,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1765_0032.png,im1765.jpg,32,24/24 -,24/24-,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1766_0001.png,im1766.jpg,1,TrangAn,Trangân,1,Khác dấu và hoa/thường
+../../crops/test/images/1766_0004.png,im1766.jpg,4,sự,sụ,1,Chỉ khác dấu/đ
+../../crops/test/images/1767_0006.png,im1767.jpg,6,QUẦY,QUÀY,1,Chỉ khác dấu/đ
+../../crops/test/images/1767_0008.png,im1767.jpg,8,TIỀN,TIẺN,1,Chỉ khác dấu/đ
+../../crops/test/images/1767_0013.png,im1767.jpg,13,cắp,cấp,1,Chỉ khác dấu/đ
+../../crops/test/images/1767_0022.png,im1767.jpg,22,sẽ,sẼ,1,Chỉ khác hoa/thường
+../../crops/test/images/1768_0004.png,im1768.jpg,4,PHÁT -,PHÁT-,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1768_0006.png,im1768.jpg,6,TT.,"TT,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1771_0009.png,im1771.jpg,9,ư,Ơ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1772_0007.png,im1772.jpg,7,HẦM,HÁM,1,Chỉ khác dấu/đ
+../../crops/test/images/1772_0009.png,im1772.jpg,9,0969.694.,0969.694,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1774_0002.png,im1774.jpg,2,G7,G,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1774_0004.png,im1774.jpg,4,CHUẨN,CHUẦN,1,Chỉ khác dấu/đ
+../../crops/test/images/1774_0010.png,im1774.jpg,10,BỆNH,ĐỆNH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1774_0022.png,im1774.jpg,22,31,3,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1775_0004.png,im1775.jpg,4,SUBMARINE,3UBMARINE,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1775_0006.png,im1775.jpg,6,NGẦM,NGÀM,1,Chỉ khác dấu/đ
+../../crops/test/images/1776_0022.png,im1776.jpg,22,ĐIẾU -,ĐIỀU -,1,Chỉ khác dấu/đ
+../../crops/test/images/1776_0026.png,im1776.jpg,26,ĐT:,ĐT :,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1777_0005.png,im1777.jpg,5,Thằng,Thầng,1,Chỉ khác dấu/đ
+../../crops/test/images/1778_0002.png,im1778.jpg,2,XÃ,XA,1,Chỉ khác dấu/đ
+../../crops/test/images/1778_0003.png,im1778.jpg,3,ĐÀN,ĐÂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1778_0010.png,im1778.jpg,10,TRANG,TRAN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1778_0014.png,im1778.jpg,14,Sâm,Sam,1,Chỉ khác dấu/đ
+../../crops/test/images/1778_0021.png,im1778.jpg,21,CỐ,CỔ,1,Chỉ khác dấu/đ
+../../crops/test/images/1778_0022.png,im1778.jpg,22,BÚN,BỦN,1,Chỉ khác dấu/đ
+../../crops/test/images/1778_0024.png,im1778.jpg,24,HUẾ,HUỂ,1,Chỉ khác dấu/đ
+../../crops/test/images/1778_0030.png,im1778.jpg,30,0979 608 338,0979 603 338,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1778_0051.png,im1778.jpg,51,BẢO,BÁO,1,Chỉ khác dấu/đ
+../../crops/test/images/1778_0053.png,im1778.jpg,53,CÁC,CẮC,1,Chỉ khác dấu/đ
+../../crops/test/images/1778_0054.png,im1778.jpg,54,LOÀI,VOÀI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1778_0055.png,im1778.jpg,55,ĐỘNG,HỘNG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1778_0057.png,im1778.jpg,57,KHÔ,KHÊ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1778_0058.png,im1778.jpg,58,SĂN,SẢN,1,Chỉ khác dấu/đ
+../../crops/test/images/1778_0059.png,im1778.jpg,59,"BẮT,","BÁT,",1,Chỉ khác dấu/đ
+../../crops/test/images/1778_0061.png,im1778.jpg,61,TỪ,TỬ,1,Chỉ khác dấu/đ
+../../crops/test/images/1782_0003.png,im1782.jpg,3,ĐẰNG,ĐĂNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1782_0008.png,im1782.jpg,8,BẠCH,GẠCH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1782_0009.png,im1782.jpg,9,ĐẰN,ĐĂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1782_0019.png,im1782.jpg,19,ĐẰNG,ĐĂNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1782_0024.png,im1782.jpg,24,BẠCH,BẠLH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1783_0001.png,im1783.jpg,1,CẤM,CẮM,1,Chỉ khác dấu/đ
+../../crops/test/images/1783_0015.png,im1783.jpg,15,KÌ,KỲ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1783_0016.png,im1783.jpg,16,KHỞI,KHỐI,1,Chỉ khác dấu/đ
+../../crops/test/images/1784_0002.png,im1784.jpg,2,ĐÀI,ĐÃI,1,Chỉ khác dấu/đ
+../../crops/test/images/1784_0003.png,im1784.jpg,3,CHIẾN,CHIỀN,1,Chỉ khác dấu/đ
+../../crops/test/images/1784_0004.png,im1784.jpg,4,THẮNG,THĂNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1786_0036.png,im1786.jpg,36,XÃ,XÀ,1,Chỉ khác dấu/đ
+../../crops/test/images/1786_0044.png,im1786.jpg,44,NAM,TAM,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1788_0004.png,im1788.jpg,4,SỮA,SỨA,1,Chỉ khác dấu/đ
+../../crops/test/images/1788_0017.png,im1788.jpg,17,WiFi,WiFFi,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1788_0044.png,im1788.jpg,44,"TRẮNG,","TRẤNG,",1,Chỉ khác dấu/đ
+../../crops/test/images/1788_0051.png,im1788.jpg,51,tận,tân,1,Chỉ khác dấu/đ
+../../crops/test/images/1788_0054.png,im1788.jpg,54,CHÈ,CHẺ,1,Chỉ khác dấu/đ
+../../crops/test/images/1788_0058.png,im1788.jpg,58,EN,FN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1788_0059.png,im1788.jpg,59,CHÈ,CHE,1,Chỉ khác dấu/đ
+../../crops/test/images/1788_0060.png,im1788.jpg,60,TRÀ,TRN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1788_0062.png,im1788.jpg,62,CHÈ,CHẺ,1,Chỉ khác dấu/đ
+../../crops/test/images/1788_0065.png,im1788.jpg,65,H,:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1789_0019.png,im1789.jpg,19,"CUỐN,",CUỐN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1789_0040.png,im1789.jpg,40,N,V,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1789_0042.png,im1789.jpg,42,NIÀ,NÀ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1791_0004.png,im1791.jpg,4,TRUNG,TRUNC,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1791_0012.png,im1791.jpg,12,NGUYỄN,NGUYÊN,1,Chỉ khác dấu/đ
+../../crops/test/images/1791_0021.png,im1791.jpg,21,CHÀO,CHAO,1,Chỉ khác dấu/đ
+../../crops/test/images/1791_0037.png,im1791.jpg,37,QUÂN,QUÂM,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1791_0040.png,im1791.jpg,40,TOÀN,THÀN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1791_0080.png,im1791.jpg,80,THÔNG,THÒNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1797_0001.png,im1797.jpg,1,ĐỀN,ĐẾN,1,Chỉ khác dấu/đ
+../../crops/test/images/1797_0002.png,im1797.jpg,2,THỜ,THỪ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1797_0004.png,im1797.jpg,4,VƯƠNG,VƯUNG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1797_0005.png,im1797.jpg,5,NGÔ,NGÕ,1,Chỉ khác dấu/đ
+../../crops/test/images/1797_0008.png,im1797.jpg,8,CÔNG:,CỠNG:,1,Chỉ khác dấu/đ
+../../crops/test/images/1798_0004.png,im1798.jpg,4,KHOA,KHOO,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1798_0006.png,im1798.jpg,6,TỰ,TỨ,1,Chỉ khác dấu/đ
+../../crops/test/images/1799_0011.png,im1799.jpg,11,di,li,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1799_0015.png,im1799.jpg,15,BIỂN,BIẾN,1,Chỉ khác dấu/đ
+../../crops/test/images/1799_0023.png,im1799.jpg,23,HOTLINE,HOTLINT,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1799_0031.png,im1799.jpg,31,A,2,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1800_0004.png,im1800.jpg,4,9 KM,9KM,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1800_0012.png,im1800.jpg,12,GIA,DIA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1804_0001.png,im1804.jpg,1,VÁN,VĂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1804_0005.png,im1804.jpg,5,PHỞ,PHỦ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1804_0012.png,im1804.jpg,12,39.000đ,39.000á,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1804_0014.png,im1804.jpg,14,Cali,Call,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1804_0024.png,im1804.jpg,24,TAN,TÂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1805_0009.png,im1805.jpg,9,CAO,CAƠ,1,Chỉ khác dấu/đ
+../../crops/test/images/1805_0010.png,im1805.jpg,10,CẤP,CÁP,1,Chỉ khác dấu/đ
+../../crops/test/images/1805_0021.png,im1805.jpg,21,KHUYẾN,KHUYỂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1806_0008.png,im1806.jpg,8,TẶNG,TĂNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1806_0013.png,im1806.jpg,13,390ml*,"390ml""",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1806_0018.png,im1806.jpg,18,khi,khí,1,Chỉ khác dấu/đ
+../../crops/test/images/1806_0025.png,im1806.jpg,25,ẦN,ÂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1809_0005.png,im1809.jpg,5,IALY,IALV,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1810_0008.png,im1810.jpg,8,Đc:,Đc,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1810_0010.png,im1810.jpg,10,Cầu,Cấu,1,Chỉ khác dấu/đ
+../../crops/test/images/1810_0017.png,im1810.jpg,17,Công,Cộng,1,Chỉ khác dấu/đ
+../../crops/test/images/1814_0020.png,im1814.jpg,20,x,X,1,Chỉ khác hoa/thường
+../../crops/test/images/1815_0008.png,im1815.jpg,8,Doanh,Doanh:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1815_0033.png,im1815.jpg,33,0703.843 195,0703.843195,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1815_0035.png,im1815.jpg,35,0703.843 196,0703.843196,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1816_0021.png,im1816.jpg,21,Đ,1,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1819_0025.png,im1819.jpg,25,Quang,Quống,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1819_0029.png,im1819.jpg,29,2016,3016,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1822_0009.png,im1822.jpg,9,Xã,XÀ,1,Khác dấu và hoa/thường
+../../crops/test/images/1822_0014.png,im1822.jpg,14,Thành,Thánh,1,Chỉ khác dấu/đ
+../../crops/test/images/1822_0018.png,im1822.jpg,18,ĐT:,ĐTÍ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1824_0009.png,im1824.jpg,9,1: ,1:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1824_0016.png,im1824.jpg,16,LÃO,LÁO,1,Chỉ khác dấu/đ
+../../crops/test/images/1824_0017.png,im1824.jpg,17,NHỘI-,NHỘI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1824_0024.png,im1824.jpg,24,Slop,slop,1,Chỉ khác hoa/thường
+../../crops/test/images/1824_0025.png,im1824.jpg,25,s,S,1,Chỉ khác hoa/thường
+../../crops/test/images/1824_0030.png,im1824.jpg,30,Village,village,1,Chỉ khác hoa/thường
+../../crops/test/images/1825_0005.png,im1825.jpg,5,LƯƠNG,LƯỜNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1825_0014.png,im1825.jpg,14,CA,C,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1825_0021.png,im1825.jpg,21,Riz,Ri2,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1825_0036.png,im1825.jpg,36,TỊNH,TỊNH:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1827_0003.png,im1827.jpg,3,Super,Suyper,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1827_0019.png,im1827.jpg,19,TINH:,TINH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1827_0024.png,im1827.jpg,24,ON,N,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1827_0042.png,im1827.jpg,42,TRANS,TRANG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1829_0001.png,im1829.jpg,1,XE,YE,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1829_0005.png,im1829.jpg,5,LÁI,LÀI,1,Chỉ khác dấu/đ
+../../crops/test/images/1831_0008.png,im1831.jpg,8,VÀNG,VĂNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1833_0003.png,im1833.jpg,3,THĂNG,THÀNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1833_0021.png,im1833.jpg,21,0944.053.109,094A.053.109,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1833_0027.png,im1833.jpg,27,O,C,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1833_0028.png,im1833.jpg,28,O,C,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1833_0029.png,im1833.jpg,29,B,8,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1833_0032.png,im1833.jpg,32,Ổ,C,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1833_0044.png,im1833.jpg,44,THĂNG,THĂN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1833_0045.png,im1833.jpg,45,LONG,LONS,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1833_0054.png,im1833.jpg,54,THĂNG,THẢNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1833_0063.png,im1833.jpg,63,1,I,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1833_0069.png,im1833.jpg,69,TEL:,TEL,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1833_0079.png,im1833.jpg,79,TEL.,TEL,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1833_0080.png,im1833.jpg,80,0912221,0912 221,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1833_0083.png,im1833.jpg,83,SÓ,Số,1,Khác dấu và hoa/thường
+../../crops/test/images/1834_0003.png,im1834.jpg,3,Dương,Dường,1,Chỉ khác dấu/đ
+../../crops/test/images/1834_0010.png,im1834.jpg,10,Dương,Dưông,1,Chỉ khác dấu/đ
+../../crops/test/images/1834_0019.png,im1834.jpg,19,Dương,Dưởng,1,Chỉ khác dấu/đ
+../../crops/test/images/1834_0020.png,im1834.jpg,20,Phương,Phướng,1,Chỉ khác dấu/đ
+../../crops/test/images/1835_0003.png,im1835.jpg,3,VỰC,VƯC,1,Chỉ khác dấu/đ
+../../crops/test/images/1836_0003.png,im1836.jpg,3,TỦ,TỬ,1,Chỉ khác dấu/đ
+../../crops/test/images/1836_0029.png,im1836.jpg,29,tubepphumyhung@gmail.com,tubepphumyhungogmail.com,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1836_0031.png,im1836.jpg,31,Phục,Phụa,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1836_0033.png,im1836.jpg,33,Không,Khõng,1,Chỉ khác dấu/đ
+../../crops/test/images/1836_0044.png,im1836.jpg,44,M,V,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1836_0046.png,im1836.jpg,46,10%,1/%,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1836_0047.png,im1836.jpg,47,TỔNG,TỐNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1837_0005.png,im1837.jpg,5,NĂM,NÁM,1,Chỉ khác dấu/đ
+../../crops/test/images/1837_0009.png,im1837.jpg,9,CUỐI,QUỐI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1837_0013.png,im1837.jpg,13,NĂM,NAM,1,Chỉ khác dấu/đ
+../../crops/test/images/1837_0036.png,im1837.jpg,36,SỬA,SỨA,1,Chỉ khác dấu/đ
+../../crops/test/images/1837_0048.png,im1837.jpg,48,CẢM,CẢM!,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1838_0002.png,im1838.jpg,2,B,8,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1838_0004.png,im1838.jpg,4,TNCS,INCS,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1838_0005.png,im1838.jpg,5,HỒ,HÔ,1,Chỉ khác dấu/đ
+../../crops/test/images/1838_0006.png,im1838.jpg,6,CHÍ,CHI,1,Chỉ khác dấu/đ
+../../crops/test/images/1838_0010.png,im1838.jpg,10,HIỆP,HIỆ-,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1838_0012.png,im1838.jpg,12,THANH,FHANH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1838_0015.png,im1838.jpg,15,NAM,NAV,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1839_0004.png,im1839.jpg,4,CẢM,CẢN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1839_0007.png,im1839.jpg,7,TỔ,Tố,1,Khác dấu và hoa/thường
+../../crops/test/images/1839_0010.png,im1839.jpg,10,SINH,SỈNH,1,Chỉ khác dấu/đ
+../../crops/test/images/1840_0001.png,im1840.jpg,1,TUYỂN,XUYỂN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1840_0003.png,im1840.jpg,3,GIÁ,GIA,1,Chỉ khác dấu/đ
+../../crops/test/images/1840_0004.png,im1840.jpg,4,RẺ,RÊ,1,Chỉ khác dấu/đ
+../../crops/test/images/1840_0006.png,im1840.jpg,6,737373,717373,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1842_0008.png,im1842.jpg,8,BÁNH,BẢNH,1,Chỉ khác dấu/đ
+../../crops/test/images/1844_0006.png,im1844.jpg,6,KIỆN,KIỆM,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1845_0010.png,im1845.jpg,10,0975.95.85.25,0975.95.8525,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1845_0016.png,im1845.jpg,16,VIET,VIEI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1846_0005.png,im1846.jpg,5,AN,ĂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1846_0009.png,im1846.jpg,9,ĐÀO,ĐAO,1,Chỉ khác dấu/đ
+../../crops/test/images/1846_0013.png,im1846.jpg,13,HỌC,HỤC,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1846_0015.png,im1846.jpg,15,SỞ,SỎ,1,Chỉ khác dấu/đ
+../../crops/test/images/1847_0019.png,im1847.jpg,19,NỘI,NÔI,1,Chỉ khác dấu/đ
+../../crops/test/images/1847_0024.png,im1847.jpg,24,XE,XE:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1847_0031.png,im1847.jpg,31,BỘ,BÒ,1,Chỉ khác dấu/đ
+../../crops/test/images/1847_0035.png,im1847.jpg,35,ĐH,DH,1,Chỉ khác dấu/đ
+../../crops/test/images/1848_0002.png,im1848.jpg,2,lock,lọck,1,Chỉ khác dấu/đ
+../../crops/test/images/1848_0004.png,im1848.jpg,4,ctrl,ctrt,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1848_0006.png,im1848.jpg,6,alt,aft,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1848_0032.png,im1848.jpg,32,end,and,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1848_0038.png,im1848.jpg,38,pgdn,Pgdn,1,Chỉ khác hoa/thường
+../../crops/test/images/1848_0039.png,im1848.jpg,39,Gia,gia,1,Chỉ khác hoa/thường
+../../crops/test/images/1848_0040.png,im1848.jpg,40,đình,đinh,1,Chỉ khác dấu/đ
+../../crops/test/images/1848_0041.png,im1848.jpg,41,chị,chi,1,Chỉ khác dấu/đ
+../../crops/test/images/1848_0049.png,im1848.jpg,49,THINK,THINH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1848_0066.png,im1848.jpg,66,BẢN,BÀN,1,Chỉ khác dấu/đ
+../../crops/test/images/1848_0070.png,im1848.jpg,70,PHỐ,PHỔ,1,Chỉ khác dấu/đ
+../../crops/test/images/1849_0004.png,im1849.jpg,4,THÚ,THỦ,1,Chỉ khác dấu/đ
+../../crops/test/images/1851_0005.png,im1851.jpg,5,ỪNG,ỜNG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1852_0008.png,im1852.jpg,8,CHÂU,CHẬU,1,Chỉ khác dấu/đ
+../../crops/test/images/1853_0013.png,im1853.jpg,13,P,P.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1853_0018.png,im1853.jpg,18,Phú.,"Phú,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1854_0005.png,im1854.jpg,5,TIỂU,TIÊU,1,Chỉ khác dấu/đ
+../../crops/test/images/1854_0025.png,im1854.jpg,25,giảng,giàng,1,Chỉ khác dấu/đ
+../../crops/test/images/1854_0034.png,im1854.jpg,34,sinh,Sinh,1,Chỉ khác hoa/thường
+../../crops/test/images/1854_0036.png,im1854.jpg,36,về,vế,1,Chỉ khác dấu/đ
+../../crops/test/images/1854_0046.png,im1854.jpg,46,Đoàn,Foàn,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1855_0003.png,im1855.jpg,3,15m3,15m?,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1856_0004.png,im1856.jpg,4,GIẢI,GIÀI,1,Chỉ khác dấu/đ
+../../crops/test/images/1856_0005.png,im1856.jpg,5,THƯỞNG,THƯỜNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1856_0006.png,im1856.jpg,6,VĂN,VÂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1856_0012.png,im1856.jpg,12,CHẠY,CHAY,1,Chỉ khác dấu/đ
+../../crops/test/images/1856_0015.png,im1856.jpg,15,BẢN,BÁN,1,Chỉ khác dấu/đ
+../../crops/test/images/1856_0016.png,im1856.jpg,16,cho,Cho,1,Chỉ khác hoa/thường
+../../crops/test/images/1856_0017.png,im1856.jpg,17,tôi,+ôi,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1856_0019.png,im1856.jpg,19,một,mộ+,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1856_0026.png,im1856.jpg,26,lần,lấn,1,Chỉ khác dấu/đ
+../../crops/test/images/1856_0032.png,im1856.jpg,32,XUẤT,XUÁT,1,Chỉ khác dấu/đ
+../../crops/test/images/1856_0033.png,im1856.jpg,33,BẢN,BÀN,1,Chỉ khác dấu/đ
+../../crops/test/images/1856_0034.png,im1856.jpg,34,TRẺ,TRÈ,1,Chỉ khác dấu/đ
+../../crops/test/images/1857_0021.png,im1857.jpg,21,đẩy,đấy,1,Chỉ khác dấu/đ
+../../crops/test/images/1860_0011.png,im1860.jpg,11,ĐẲNG,ĐẮNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1860_0012.png,im1860.jpg,12,NGHỀ,NGHÊ,1,Chỉ khác dấu/đ
+../../crops/test/images/1860_0016.png,im1860.jpg,16,NẴN,NẨN,1,Chỉ khác dấu/đ
+../../crops/test/images/1862_0001.png,im1862.jpg,1,an,rn,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1862_0002.png,im1862.jpg,2,R,P,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1862_0006.png,im1862.jpg,6,CẦN,CÂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1863_0001.png,im1863.jpg,1,HOTEL,HQTEL,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1863_0004.png,im1863.jpg,4,P,R,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1863_0007.png,im1863.jpg,7,"NƯỚC,",NƯỚC,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1863_0008.png,im1863.jpg,8,SỐNG,SÔNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1863_0020.png,im1863.jpg,20,Reviv,Revil,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1864_0018.png,im1864.jpg,18,ĐỒNG,ĐÔNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1869_0002.png,im1869.jpg,2,CHU,CHO,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1869_0003.png,im1869.jpg,3,VĂN,VAN,1,Chỉ khác dấu/đ
+../../crops/test/images/1869_0024.png,im1869.jpg,24,chỉ,chỉ:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1869_0034.png,im1869.jpg,34,thoại,thoại:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1870_0001.png,im1870.jpg,1,CHĂN,CHAN,1,Chỉ khác dấu/đ
+../../crops/test/images/1870_0003.png,im1870.jpg,3,GỐI,GỔI,1,Chỉ khác dấu/đ
+../../crops/test/images/1870_0006.png,im1870.jpg,6,ẤM,ĂM,1,Chỉ khác dấu/đ
+../../crops/test/images/1870_0009.png,im1870.jpg,9,LÒNG,LONG,1,Chỉ khác dấu/đ
+../../crops/test/images/1870_0010.png,im1870.jpg,10,MẸ,ME,1,Chỉ khác dấu/đ
+../../crops/test/images/1870_0011.png,im1870.jpg,11,ĐỒ,ĐỔ,1,Chỉ khác dấu/đ
+../../crops/test/images/1870_0013.png,im1870.jpg,13,DỤNG,DUNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1872_0004.png,im1872.jpg,4,I,Í,1,Chỉ khác dấu/đ
+../../crops/test/images/1872_0019.png,im1872.jpg,19,TP.,TP,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1872_0023.png,im1872.jpg,23,ĐT,ĐT:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1874_0005.png,im1874.jpg,5,"SỸ,","SÝ,",1,Chỉ khác dấu/đ
+../../crops/test/images/1874_0007.png,im1874.jpg,7,Q.,Q,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1874_0019.png,im1874.jpg,19,xuân,xuên,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1875_0004.png,im1875.jpg,4,LIÊN,LIỀN,1,Chỉ khác dấu/đ
+../../crops/test/images/1875_0005.png,im1875.jpg,5,VIỆT,VIỆI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1875_0014.png,im1875.jpg,14,2011,2017,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1876_0007.png,im1876.jpg,7,NEU,NEI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1877_0007.png,im1877.jpg,7,PHỐ,PHẾ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1877_0013.png,im1877.jpg,13,BỂ,BÊ,1,Chỉ khác dấu/đ
+../../crops/test/images/1879_0004.png,im1879.jpg,4,Đình,Dình,1,Chỉ khác dấu/đ
+../../crops/test/images/1880_0016.png,im1880.jpg,16,"VẤP,",VẤP.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1880_0018.png,im1880.jpg,18,www.gmobile.com.vn,www.omobile.com.vn,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1880_0025.png,im1880.jpg,25,PHÚ,PHỦ,1,Chỉ khác dấu/đ
+../../crops/test/images/1880_0027.png,im1880.jpg,27,KHANG,THANG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1881_0011.png,im1881.jpg,11,15%,15,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1881_0013.png,im1881.jpg,13,Chips,Chip,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1881_0016.png,im1881.jpg,16,chi,cht,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1881_0018.png,im1881.jpg,18,TÔM,TÔR,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1881_0022.png,im1881.jpg,22,NAM,HAM,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1882_0001.png,im1882.jpg,1,ĐẬU,ĐÂU,1,Chỉ khác dấu/đ
+../../crops/test/images/1882_0004.png,im1882.jpg,4,CẤP,CÁP,1,Chỉ khác dấu/đ
+../../crops/test/images/1882_0008.png,im1882.jpg,8,SẢNG,5ẢNG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1882_0011.png,im1882.jpg,11,THẦN,THÂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1882_0016.png,im1882.jpg,16,s,S,1,Chỉ khác hoa/thường
+../../crops/test/images/1883_0013.png,im1883.jpg,13,QUỚI,QUƠI,1,Chỉ khác dấu/đ
+../../crops/test/images/1884_0001.png,im1884.jpg,1,CẦU:,CẦU.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1884_0004.png,im1884.jpg,4,DÀI,DÀI:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1885_0026.png,im1885.jpg,26,BÉO,BẺO,1,Chỉ khác dấu/đ
+../../crops/test/images/1885_0027.png,im1885.jpg,27,BÚN,BỨN,1,Chỉ khác dấu/đ
+../../crops/test/images/1885_0030.png,im1885.jpg,30,Fb: ,Fb:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1885_0037.png,im1885.jpg,37,Best,Besl,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1885_0038.png,im1885.jpg,38,Retall,Ratall,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1888_0003.png,im1888.jpg,3,R,8,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1888_0006.png,im1888.jpg,6,CONTROL,CONTRON,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1888_0010.png,im1888.jpg,10,BẪY,BẮY,1,Chỉ khác dấu/đ
+../../crops/test/images/1888_0013.png,im1888.jpg,13,Xin,Kin,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1889_0011.png,im1889.jpg,11,DC:,D:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1889_0018.png,im1889.jpg,18,TP.HCM,TPHCM,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1892_0002.png,im1892.jpg,2,NAM,NAH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1894_0030.png,im1894.jpg,30,LỘ,LỌ,1,Chỉ khác dấu/đ
+../../crops/test/images/1894_0032.png,im1894.jpg,32,30m,30M,1,Chỉ khác hoa/thường
+../../crops/test/images/1895_0011.png,im1895.jpg,11,P,F,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1895_0032.png,im1895.jpg,32,(08)39571334,(08)3957 1334,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1895_0033.png,im1895.jpg,33,Email:,Emarl:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1897_0001.png,im1897.jpg,1,120A,1204,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1898_0019.png,im1898.jpg,19,alcohol,alchohol,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1898_0026.png,im1898.jpg,26,18,18.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1898_0047.png,im1898.jpg,47,motobike.,motorbike.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1898_0048.png,im1898.jpg,48,please,Please,1,Chỉ khác hoa/thường
+../../crops/test/images/1899_0022.png,im1899.jpg,22,TỆ,LỆ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1900_0001.png,im1900.jpg,1,NGUYỄN,NGUYẾN,1,Chỉ khác dấu/đ
+../../crops/test/images/1900_0002.png,im1900.jpg,2,BỈNH,BÌNH,1,Chỉ khác dấu/đ
+../../crops/test/images/1902_0004.png,im1902.jpg,4,3.000,3.000.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1903_0008.png,im1903.jpg,8,10.000đ,10.000d,1,Chỉ khác dấu/đ
+../../crops/test/images/1903_0009.png,im1903.jpg,9,XÔI,XÔI:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1904_0012.png,im1904.jpg,12,ĐIỆN,ĐIỆM,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1904_0017.png,im1904.jpg,17,CHẾT,CHIẾT,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1904_0019.png,im1904.jpg,19,1,7,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1904_0023.png,im1904.jpg,23,LẮP,LÁP,1,Chỉ khác dấu/đ
+../../crops/test/images/1904_0024.png,im1904.jpg,24,ĐẶT,ĐẬT,1,Chỉ khác dấu/đ
+../../crops/test/images/1904_0028.png,im1904.jpg,28,HÌNH,HÍNH,1,Chỉ khác dấu/đ
+../../crops/test/images/1905_0004.png,im1905.jpg,4,THỂ,THẾ,1,Chỉ khác dấu/đ
+../../crops/test/images/1906_0004.png,im1906.jpg,4,LANE,LAEE,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1911_0002.png,im1911.jpg,2,may,May,1,Chỉ khác hoa/thường
+../../crops/test/images/1911_0003.png,im1911.jpg,3,Xuân,Xiân,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1911_0009.png,im1911.jpg,9,NỮ,Nữ,1,Chỉ khác hoa/thường
+../../crops/test/images/1911_0011.png,im1911.jpg,11,trang,Trang,1,Chỉ khác hoa/thường
+../../crops/test/images/1912_0013.png,im1912.jpg,13,TRƯỜNG,TRƯƠNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1912_0017.png,im1912.jpg,17,ĐỊNH,ĐINH,1,Chỉ khác dấu/đ
+../../crops/test/images/1912_0020.png,im1912.jpg,20,TÂ,TẢ,1,Chỉ khác dấu/đ
+../../crops/test/images/1912_0021.png,im1912.jpg,21,VIÊN,VIEN,1,Chỉ khác dấu/đ
+../../crops/test/images/1916_0010.png,im1916.jpg,10,TRƯƠNG,TRƯƠN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1916_0017.png,im1916.jpg,17,ĐC:,9C:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1916_0025.png,im1916.jpg,25,0422161216,0422161218,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1920_0001.png,im1920.jpg,1,UỶ,UY,1,Chỉ khác dấu/đ
+../../crops/test/images/1920_0008.png,im1920.jpg,8,MẦM,MÀM,1,Chỉ khác dấu/đ
+../../crops/test/images/1920_0021.png,im1920.jpg,21,m,M,1,Chỉ khác hoa/thường
+../../crops/test/images/1920_0031.png,im1920.jpg,31,NGÀY,NGÂY,1,Chỉ khác dấu/đ
+../../crops/test/images/1920_0034.png,im1920.jpg,34,LÀ,LÁ,1,Chỉ khác dấu/đ
+../../crops/test/images/1920_0036.png,im1920.jpg,36,NGÀY,NGÂY,1,Chỉ khác dấu/đ
+../../crops/test/images/1920_0038.png,im1920.jpg,38,CON,CƠN,1,Chỉ khác dấu/đ
+../../crops/test/images/1920_0039.png,im1920.jpg,39,CỦA,CỬA,1,Chỉ khác dấu/đ
+../../crops/test/images/1920_0042.png,im1920.jpg,42,CON,CƠN,1,Chỉ khác dấu/đ
+../../crops/test/images/1920_0046.png,im1920.jpg,46,MẦM,MẨM,1,Chỉ khác dấu/đ
+../../crops/test/images/1922_0006.png,im1922.jpg,6,ĐÂY,DÂY,1,Chỉ khác dấu/đ
+../../crops/test/images/1923_0013.png,im1923.jpg,13,69/17E,69/17B,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1924_0002.png,im1924.jpg,2,LỆ,LỄ,1,Chỉ khác dấu/đ
+../../crops/test/images/1924_0003.png,im1924.jpg,3,TƯỞNG,TƯỜNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1925_0008.png,im1925.jpg,8,hất,chất,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1925_0013.png,im1925.jpg,13,đường,"đường,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1925_0015.png,im1925.jpg,15,QUẢN,QUÀN,1,Chỉ khác dấu/đ
+../../crops/test/images/1925_0023.png,im1925.jpg,23,100%,00%,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1925_0026.png,im1925.jpg,26,nhập,thập,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1925_0045.png,im1925.jpg,45,Produce,Product,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1925_0048.png,im1925.jpg,48,THỰC,THƯC,1,Chỉ khác dấu/đ
+../../crops/test/images/1925_0050.png,im1925.jpg,50,BỔ,BÓ,1,Chỉ khác dấu/đ
+../../crops/test/images/1928_0005.png,im1928.jpg,5,1813),18131,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1932_0004.png,im1932.jpg,4,DÂN,DÁN,1,Chỉ khác dấu/đ
+../../crops/test/images/1932_0006.png,im1932.jpg,6,XÃ,XẢ,1,Chỉ khác dấu/đ
+../../crops/test/images/1933_0004.png,im1933.jpg,4,BẢO,BÁO,1,Chỉ khác dấu/đ
+../../crops/test/images/1933_0006.png,im1933.jpg,6,MÁY,MÁL,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1933_0010.png,im1933.jpg,10,VỀ,VÈ,1,Chỉ khác dấu/đ
+../../crops/test/images/1936_0006.png,im1936.jpg,6,Km26+090,Km26+90,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1936_0010.png,im1936.jpg,10,28-F1,28FF1,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1937_0027.png,im1937.jpg,27,GẤP,GAP,1,Chỉ khác dấu/đ
+../../crops/test/images/1940_0003.png,im1940.jpg,3,LINH,LNH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1941_0012.png,im1941.jpg,12,ALDO,ALD,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1942_0012.png,im1942.jpg,12,0976019598,0979019598,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1942_0021.png,im1942.jpg,21,0976019598,0979019598,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1943_0005.png,im1943.jpg,5,VÌ,VÍ,1,Chỉ khác dấu/đ
+../../crops/test/images/1943_0009.png,im1943.jpg,9,Educamp.vn,Educampvn,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1943_0010.png,im1943.jpg,10,Tổ,Tỏ,1,Chỉ khác dấu/đ
+../../crops/test/images/1943_0019.png,im1943.jpg,19,môn,mốn,1,Chỉ khác dấu/đ
+../../crops/test/images/1943_0023.png,im1943.jpg,23,Hiệp,Hiập,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1943_0032.png,im1943.jpg,32,Membership,Nembership,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1944_0001.png,im1944.jpg,1,NGÕ,NGỐ,1,Chỉ khác dấu/đ
+../../crops/test/images/1944_0012.png,im1944.jpg,12,MỖ,MỒ,1,Chỉ khác dấu/đ
+../../crops/test/images/1945_0017.png,im1945.jpg,17,ĐÀ,Đà,1,Chỉ khác hoa/thường
+../../crops/test/images/1949_0001.png,im1949.jpg,1,H1,41,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1949_0006.png,im1949.jpg,6,XÂY,XẦY,1,Chỉ khác dấu/đ
+../../crops/test/images/1951_0007.png,im1951.jpg,7,Vì,Vi,1,Chỉ khác dấu/đ
+../../crops/test/images/1953_0009.png,im1953.jpg,9,Cafe,Cife,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1953_0016.png,im1953.jpg,16,KÍNH,KĨNH,1,Chỉ khác dấu/đ
+../../crops/test/images/1954_0003.png,im1954.jpg,3,FWD,FWP,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1956_0004.png,im1956.jpg,4,Homies,Homles,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1956_0009.png,im1956.jpg,9,Trích,Trịch,1,Chỉ khác dấu/đ
+../../crops/test/images/1956_0015.png,im1956.jpg,15,Hotline:,Hottine:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1956_0016.png,im1956.jpg,16,0988.668.6,"0988.668,6",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1957_0023.png,im1957.jpg,23,AN,AI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1957_0024.png,im1957.jpg,24,TOÀN,TBÀN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1959_0004.png,im1959.jpg,4,KHU,KHƯ,1,Chỉ khác dấu/đ
+../../crops/test/images/1959_0005.png,im1959.jpg,5,DU,DƯ,1,Chỉ khác dấu/đ
+../../crops/test/images/1961_0006.png,im1961.jpg,6,ĐƯỜNG,DƯỜNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1961_0008.png,im1961.jpg,8,DIỄN,DIỀN,1,Chỉ khác dấu/đ
+../../crops/test/images/1963_0006.png,im1963.jpg,6,lạnh,Lạnh,1,Chỉ khác hoa/thường
+../../crops/test/images/1963_0008.png,im1963.jpg,8,Vy,Vg,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1963_0029.png,im1963.jpg,29,Vy,Vị,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1963_0030.png,im1963.jpg,30,HỚT,HOT,1,Chỉ khác dấu/đ
+../../crops/test/images/1963_0040.png,im1963.jpg,40,Lê,Lệ,1,Chỉ khác dấu/đ
+../../crops/test/images/1964_0021.png,im1964.jpg,21,THANH,"THANH,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1964_0058.png,im1964.jpg,58,NGUYỄN,NGUYÊN,1,Chỉ khác dấu/đ
+../../crops/test/images/1964_0060.png,im1964.jpg,60,THANH,"THANH,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1964_0069.png,im1964.jpg,69,SÁNG,SÁNG:,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1964_0083.png,im1964.jpg,83,CHIỀU,CHIẾU,1,Chỉ khác dấu/đ
+../../crops/test/images/1964_0084.png,im1964.jpg,84,CHỦ,CHÒ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1964_0090.png,im1964.jpg,90,NGHỈ,NGH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1966_0004.png,im1966.jpg,4,SILVER,EILVER,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1966_0005.png,im1966.jpg,5,AND,ANE,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1966_0006.png,im1966.jpg,6,TRUNG,THUNG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1966_0008.png,im1966.jpg,8,VÀNG,VÀNH,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1967_0026.png,im1967.jpg,26,ngõ,Ngõ,1,Chỉ khác hoa/thường
+../../crops/test/images/1967_0031.png,im1967.jpg,31,Việt,"Việt,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1967_0034.png,im1967.jpg,34,Đô,"Đô,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1967_0045.png,im1967.jpg,45,(024)32008955,(024132008955,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1967_0047.png,im1967.jpg,47,SOUTHERN,SOUTHEEN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1968_0002.png,im1968.jpg,2,DỰNG,ĐỰNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1968_0038.png,im1968.jpg,38,g,"g,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1969_0008.png,im1969.jpg,8,CÁ,Cá,1,Chỉ khác hoa/thường
+../../crops/test/images/1969_0013.png,im1969.jpg,13,CÁ,Cá,1,Chỉ khác hoa/thường
+../../crops/test/images/1971_0003.png,im1971.jpg,3,0,Ọ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1971_0009.png,im1971.jpg,9,HIẾU,HIẾI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1972_0013.png,im1972.jpg,13,TRƯỜNG,TRIỜNG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1972_0020.png,im1972.jpg,20,Dạy,Day,1,Chỉ khác dấu/đ
+../../crops/test/images/1972_0021.png,im1972.jpg,21,Nghề,Nghế,1,Chỉ khác dấu/đ
+../../crops/test/images/1972_0025.png,im1972.jpg,25,Hàng,"Hàng,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1972_0029.png,im1972.jpg,29,Trình,Trinh,1,Chỉ khác dấu/đ
+../../crops/test/images/1973_0003.png,im1973.jpg,3,CỐI,CỚI,1,Chỉ khác dấu/đ
+../../crops/test/images/1973_0009.png,im1973.jpg,9,NGỌT,NGỢT,1,Chỉ khác dấu/đ
+../../crops/test/images/1975_0006.png,im1975.jpg,6,QUÁ!,QUÁI,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1975_0011.png,im1975.jpg,11,25.000Đ,25.0D0Đ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1976_0005.png,im1976.jpg,5,CHUNG,CHƯNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1976_0016.png,im1976.jpg,16,đặt:,đạt:,1,Chỉ khác dấu/đ
+../../crops/test/images/1977_0002.png,im1977.jpg,2,tắc,lắc,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1977_0010.png,im1977.jpg,10,để,dể,1,Chỉ khác dấu/đ
+../../crops/test/images/1977_0013.png,im1977.jpg,13,đó,dó,1,Chỉ khác dấu/đ
+../../crops/test/images/1977_0014.png,im1977.jpg,14,để,dể,1,Chỉ khác dấu/đ
+../../crops/test/images/1977_0017.png,im1977.jpg,17,điều,diều,1,Chỉ khác dấu/đ
+../../crops/test/images/1977_0020.png,im1977.jpg,20,để,dể,1,Chỉ khác dấu/đ
+../../crops/test/images/1977_0022.png,im1977.jpg,22,"vọng.""","vọng""",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1978_0004.png,im1978.jpg,4,CHUYỂN,CHUYẺN,1,Chỉ khác dấu/đ
+../../crops/test/images/1978_0005.png,im1978.jpg,5,VỀ,VÈ,1,Chỉ khác dấu/đ
+../../crops/test/images/1978_0030.png,im1978.jpg,30,sẽ,sẼ,1,Chỉ khác hoa/thường
+../../crops/test/images/1979_0008.png,im1979.jpg,8,ĐỀ,ĐẺ,1,Chỉ khác dấu/đ
+../../crops/test/images/1979_0014.png,im1979.jpg,14,Ô,ô,1,Chỉ khác hoa/thường
+../../crops/test/images/1979_0017.png,im1979.jpg,17,ĐỖ,ĐỎ,1,Chỉ khác dấu/đ
+../../crops/test/images/1979_0022.png,im1979.jpg,22,VỈA,VĨA,1,Chỉ khác dấu/đ
+../../crops/test/images/1979_0027.png,im1979.jpg,27,PHỐ,PHỎ,1,Chỉ khác dấu/đ
+../../crops/test/images/1980_0006.png,im1980.jpg,6,HIỆU,HIÊU,1,Chỉ khác dấu/đ
+../../crops/test/images/1980_0012.png,im1980.jpg,12,0965950772,0965 950772,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1980_0013.png,im1980.jpg,13,CÀI,CÁI,1,Chỉ khác dấu/đ
+../../crops/test/images/1980_0018.png,im1980.jpg,18,ĐĨA,ĐIA,1,Chỉ khác dấu/đ
+../../crops/test/images/1980_0020.png,im1980.jpg,20,KIỆ,KIE,1,Chỉ khác dấu/đ
+../../crops/test/images/1980_0023.png,im1980.jpg,23,DIỆN,ĐIỆN,1,Chỉ khác dấu/đ
+../../crops/test/images/1981_0010.png,im1981.jpg,10,PHỞ,PHƠ,1,Chỉ khác dấu/đ
+../../crops/test/images/1981_0011.png,im1981.jpg,11,HỦ,HÙ,1,Chỉ khác dấu/đ
+../../crops/test/images/1983_0002.png,im1983.jpg,2,BAN,SAN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1983_0004.png,im1983.jpg,4,DÂN,DIÂN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1983_0011.png,im1983.jpg,11,ĐÀO,ĐÁO,1,Chỉ khác dấu/đ
+../../crops/test/images/1983_0017.png,im1983.jpg,17,BỈNH,BÌNH,1,Chỉ khác dấu/đ
+../../crops/test/images/1983_0018.png,im1983.jpg,18,"KHIÊM,",KHIÊM,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1983_0019.png,im1983.jpg,19,"Q.1,","Q1,",1,Khác nội dung/khoảng trắng
+../../crops/test/images/1983_0020.png,im1983.jpg,20,TP.HCM,IP.HCM,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1983_0022.png,im1983.jpg,22,(08)38.292.846,(08) 38.292.846,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1985_0022.png,im1985.jpg,22,SỐ,Số,1,Chỉ khác hoa/thường
+../../crops/test/images/1987_0001.png,im1987.jpg,1,VINSTEEL,VNSTEEL,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1987_0010.png,im1987.jpg,10,www.vnsteelthanglong.vn,www. vnsteelthanglong.vn,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1987_0020.png,im1987.jpg,20,"Linh,","Lính,",1,Chỉ khác dấu/đ
+../../crops/test/images/1988_0042.png,im1988.jpg,42,CLUB,CLUR,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1988_0051.png,im1988.jpg,51,CƠM,2ƠM,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1988_0053.png,im1988.jpg,53,SINH,SIN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1990_0004.png,im1990.jpg,4,Hotpot,Hớtpot,1,Chỉ khác dấu/đ
+../../crops/test/images/1990_0019.png,im1990.jpg,19,229,22s,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1990_0021.png,im1990.jpg,21,VNĐ,VNG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1990_0025.png,im1990.jpg,25,269,26S,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1990_0027.png,im1990.jpg,27,VNĐ,VNA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1990_0031.png,im1990.jpg,31,319,31S,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1990_0033.png,im1990.jpg,33,VNĐ,VNN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1990_0054.png,im1990.jpg,54,H,Ht,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1991_0004.png,im1991.jpg,4,THỂ,THỀ,1,Chỉ khác dấu/đ
+../../crops/test/images/1992_0005.png,im1992.jpg,5,Đ,f,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1992_0006.png,im1992.jpg,6,33,36,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1993_0006.png,im1993.jpg,6,THÀNH,THÃNH,1,Chỉ khác dấu/đ
+../../crops/test/images/1995_0001.png,im1995.jpg,1,T,Y,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1995_0003.png,im1995.jpg,3,F,P,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1995_0004.png,im1995.jpg,4,G,O,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1995_0006.png,im1995.jpg,6,J,d,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1995_0009.png,im1995.jpg,9,B,8,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1995_0022.png,im1995.jpg,22,tập,tộp,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1995_0024.png,im1995.jpg,24,ngắn,ngăn,1,Chỉ khác dấu/đ
+../../crops/test/images/1995_0025.png,im1995.jpg,25,Khi,Ki,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1995_0029.png,im1995.jpg,29,nhịp,Nhịp,1,Chỉ khác hoa/thường
+../../crops/test/images/1995_0031.png,im1995.jpg,31,đăng,dăng,1,Chỉ khác dấu/đ
+../../crops/test/images/1996_0005.png,im1996.jpg,5,AN,AM,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1996_0010.png,im1996.jpg,10,PHẬN,PHÂN,1,Chỉ khác dấu/đ
+../../crops/test/images/1997_0011.png,im1997.jpg,11,"2,",2.,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0012.png,im1997.jpg,12,phường,phưởng,1,Chỉ khác dấu/đ
+../../crops/test/images/1997_0017.png,im1997.jpg,17,Biên,Biôn,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0018.png,im1997.jpg,18,Phủ,Phũ,1,Chỉ khác dấu/đ
+../../crops/test/images/1997_0037.png,im1997.jpg,37,QUÀ,QUA,1,Chỉ khác dấu/đ
+../../crops/test/images/1997_0049.png,im1997.jpg,49,TRÚNG,TRÙNG,1,Chỉ khác dấu/đ
+../../crops/test/images/1997_0051.png,im1997.jpg,51,PHẦN,PHẤN,1,Chỉ khác dấu/đ
+../../crops/test/images/1997_0058.png,im1997.jpg,58,MỸ,MÝ,1,Chỉ khác dấu/đ
+../../crops/test/images/1997_0068.png,im1997.jpg,68,ỐM,ẤM,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0069.png,im1997.jpg,69,MEN,XEN,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0079.png,im1997.jpg,79,Chào,Chờo,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0086.png,im1997.jpg,86,quan,quơn,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0100.png,im1997.jpg,100,TỔ,TŨ,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0102.png,im1997.jpg,102,SỬA,ỬA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1997_0103.png,im1997.jpg,103,ỮA,TỮA,1,Khác nội dung/khoảng trắng
+../../crops/test/images/1998_0020.png,im1998.jpg,20,PHẦN,PHẨN,1,Chỉ khác dấu/đ
+../../crops/test/images/1998_0024.png,im1998.jpg,24,Hà,HA,1,Khác dấu và hoa/thường
+../../crops/test/images/1999_0009.png,im1999.jpg,9,TÂM,TẦM,1,Chỉ khác dấu/đ
+../../crops/test/images/1999_0017.png,im1999.jpg,17,"TƯỞNG""",TƯỞNG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/2000_0004.png,im2000.jpg,4,PHÒN,PHÒNG,1,Khác nội dung/khoảng trắng
+../../crops/test/images/2000_0005.png,im2000.jpg,5,Ở,ở,1,Chỉ khác hoa/thường
+../../crops/test/images/2000_0022.png,im2000.jpg,22,589,569,1,Khác nội dung/khoảng trắng
+../../crops/test/images/2000_0025.png,im2000.jpg,25,Thánh,Thảnh,1,Chỉ khác dấu/đ
+../../crops/test/images/2000_0037.png,im2000.jpg,37,ĐT:,BT:,1,Khác nội dung/khoảng trắng

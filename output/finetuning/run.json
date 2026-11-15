@@ -1,0 +1,26 @@
+{
+  "epochs": 10,
+  "batch_size": 4,
+  "learning_rate": 0.0001,
+  "device": "cpu",
+  "cpu_threads": 4,
+  "seed": 42,
+  "initial_weights_sha256": "0921503a41375a0584268e23ef3d414ea478a8fe8777865c7745d38f2d0bc5db",
+  "train_samples": 25723,
+  "val_samples": 7191,
+  "weight_decay": 0.01,
+  "label_smoothing": 0.1,
+  "gradient_clip": 1.0,
+  "environment": {
+    "python": "3.11.9",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "torch": "2.15.0+cpu",
+    "torchvision": "0.29.2+cpu",
+    "vietocr": "0.3.13",
+    "numpy": "2.4.6",
+    "Pillow": "10.2.0",
+    "opencv-python-headless": "5.0.0.93"
+  },
+  "train_samples_sha256": "27b94c914e18d5b61b3543b414db4ad79bfd2edc5432876f7bb15fd6ec1e102d",
+  "val_samples_sha256": "a9be2d54cbdb3a824a3d72f04b6df191d605edc4f0726159d8fceea9367d03a4"
+}

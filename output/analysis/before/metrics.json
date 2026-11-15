@@ -1,0 +1,17 @@
+{
+  "samples": 10065,
+  "correct": 6160,
+  "exact_match": 0.6120218579234973,
+  "cer": 0.20678730601943832,
+  "total_edits": 7702,
+  "reference_characters": 37246,
+  "mean_ms": 40.56715975160226,
+  "median_ms": 36.69629999785684,
+  "p95_ms": 76.00210001692176,
+  "error_types": {
+    "Khác nội dung/khoảng trắng": 2453,
+    "Chỉ khác hoa/thường": 161,
+    "Khác dấu và hoa/thường": 60,
+    "Chỉ khác dấu/đ": 1231
+  }
+}

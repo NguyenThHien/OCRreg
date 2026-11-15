@@ -1,0 +1,30 @@
+{
+  "samples": 10065,
+  "correct": 7995,
+  "exact_match": 0.7943368107302533,
+  "cer": 0.09987649680502604,
+  "total_edits": 3720,
+  "reference_characters": 37246,
+  "mean_ms": 39.84047220068532,
+  "median_ms": 36.212700011674315,
+  "p95_ms": 72.7016999735497,
+  "phase": "after",
+  "weights_sha256": "c8bfae4342e1a9e47650266a7b8f9cbe1a7034a18f9d0c9f7897a0a79c329458",
+  "device": "cpu",
+  "cpu_threads": 4,
+  "warmup_runs": 3,
+  "batch_size": 1,
+  "environment": {
+    "python": "3.11.9",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "torch": "2.15.0+cpu",
+    "torchvision": "0.29.2+cpu",
+    "vietocr": "0.3.13",
+    "numpy": "2.4.6",
+    "Pillow": "10.2.0",
+    "opencv-python-headless": "5.0.0.93"
+  },
+  "max_text_length": 128,
+  "seed": 42,
+  "samples_sha256": "57a0feeaf5c4b7a4ceebc1f277b11f75422b65681544693386968b3ee5e01eae"
+}
